@@ -1,0 +1,10 @@
+Create repo on github
+
+then
+
+echo "# csv" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/EdgeTechAcademy/csv.git
+git push -u origin master
