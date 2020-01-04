@@ -1,0 +1,316 @@
+﻿entry,company,date,week,location,Position,Title
+1,New York Life,Oct-09, 1 ,Dallas,Head of Data Governance for Enterprise Data Management,Other
+2,Sabre,Oct-09, 1 ,South Lake,Manager Software Development-00XY6.,Manager
+3,Lanyon,Oct-10, 1 ,Dallas,"Director, Software Development | (US-TX-Dallas)",Director
+4,PennyMac,Oct-10, 1 ,Fort Worth,"First Vice President, Application Development",Vice Pres
+5,CoreLogic,Oct-10, 1 ,WestLake,"Dir, Software Engineering",Director
+6,"RealPage, Inc. ",Oct-1+62, 2 ,,"Vice President, Information Systems",Vice Pres
+7,Omni Hotels,Oct-12, 2 ,,ETL and Integration Developer,Developer
+8,Broadridge,Oct-13, 2 ,,Director of Development- Streamweaver.,Director
+9,CyberCoders,Oct-13, 2 ,Irving,"VP of Software Engineering - .NET, Management, .NET Stack",Vice Pres
+10,Hilton,Oct-13, 2 ,,Manager BI Development,Manager
+11,Veritude,Oct-14, 2 ,,"Sr. Manager, Software Engineering Development Management",Manager
+12,Princeton Information,Oct-15, 2 ,,Senior IT Program Manager,Manager
+13,Fidelity Investments,Oct-15, 2 ,,"Senior Manager, Software Engineering Development Management – eServices Technical Leadership",Manager
+14,Fidelity Investments,Oct-15, 2 ,,"Software Development, Team Lead",Other
+15,Neiman Marcus ,Oct-15, 2 ,,"IT Director, Integration and Data Warehousing",Director
+16,Neiman Marcus ,Oct-15, 2 ,,"IT Director, Mobile (iOS) Application Development, Point of Commerce and Payment Systems",Director
+17,Fiserv,Oct-15, 2 ,,"Software Development, Team Lead",Other
+18,Watson Health,Oct-15, 2 ,Irving,"Manager, Software Engineering Phytel",Manager
+19,New York Life,Oct-16, 2 ,Dallas,Head of Solutions Delivery & ASM (22127),Other
+20,RBA,Oct-16, 2 ,,SSIS and / or BI,Other
+21,Oracle,Oct-19, 3 ,,Software Development VP,Vice Pres
+22,MultiPlan,Oct-19, 3 ,Irving,"Director, Applications Development (Healthcare Insurance) ",Director
+23,"VHA-UHC Alliance NewCo, Inc.",Oct-19, 3 ,,Director-Applications Delivery & Development,Director
+24,MedSynergies,Oct-19, 3 ,,"Director, Application Support and Development ",Director
+25,JP Morgan,Oct-19, 3 ,,VP Application Development Manager,Manager
+26,"HireFinders, Inc.",Oct-19, 3 ,,Director of Application Support (Information Technology),Director
+27,Epsilon,Oct-19, 3 ,,"Director, Development",Director
+28,Robert Half,Oct-20, 3 ,,Director of Mobile Applications Development,Director
+29,TMX Finance,Oct-21, 3 ,Dallas,Senior Director of Development,Director
+30,Wolters Kluwer,Oct-21, 3 ,,"Manager, Software Development",Manager
+31,Partnerships With Native Americans,Oct-21, 3 ,,Information Technology Director,Director
+32,Tech Systems,Oct-21, 3 ,,Software Development Manager,Manager
+33,Veredus,Oct-21, 3 ,,Manager Software Engineering ,Manager
+34,Prudent Technologies and Consulting ,Oct-22, 3 ,,Software Development Manager,Manager
+35,"Maxsys Solutions, LLC",Oct-22, 3 ,,Development Manager,Manager
+36,Amazon,Oct-22, 3 ,Fort Worth,Software Development Manager,Manager
+37,One Technologies,Oct-22, 3 ,,Director of Development,Director
+38,Mortgage Servicing,Oct-23, 3 ,Irving,Java Development Manager (Mortgage Servicing),Manager
+39,Timberhorn LLC,Oct-23, 3 ,Plano,Senior Director of Development,Director
+40,Citi,Oct-23, 3 ,,Apps Dev Sr. Manager,Manager
+41,Citi,Oct-23, 3 ,Shanghai,Applications Development Technical Specialist - Development Team Leader (VP) ,Vice Pres
+42,Citi,Oct-23, 3 ,Pune,Vice President (Job Number: 15092396),Vice Pres
+43,ATL,Oct-23, 3 ,,Director of Engineering - Worldwide,Director
+44,CyberCoders,Oct-23, 3 ,SLC,CTO - Well Funded Start Up,Other
+45,CyberCoders,Oct-23, 3 ,Colleyvile,CTO - Chief Technology Officer,Other
+46,Insource Group,Oct-26, 4 ,Irving,Integrations Manager,Manager
+47,Kforce,Oct-27, 4 ,Dallas,Data Analyst II / SSIS and ETL Mapping,Other
+48,Alleare,Oct-27, 4 ,Dallas,Digital Delivery & PMO Manager,Manager
+49,KForce,Oct-27, 4 ,,Application Developer Manager,Manager
+50,Epsilon,Oct-27, 4 ,,"Director, Database Development",Director
+51,Ziosk,Oct-28, 4 ,Dallas,Director of Program Management,Director
+52,New York Life,Oct-28, 4 ,Dallas,Head of IT PMO,Other
+53,onesource-virtual,Oct-28, 4 ,,PMO Project Manager,Manager
+54,Red Flex,Oct-28, 4 ,PHX,Director of Software Development,Director
+55,ISGN,Oct-29, 4 ,,"Director, Servicing Product Technology",Director
+56,HCR Group,Oct-29, 4 ,,Director of Application Support,Director
+57,"Levi, Ray & Shoup",Oct-30, 4 ,Irving,Director of Mobile Application Development (IOS),Director
+58,Michael's,Nov-03, 5 ,,Manager Project Management Office,Manager
+59,Compass Technology Group,Nov-03, 5 ,,Software Product Manager,Manager
+60,Deloitt - Aviall,Nov-03, 5 ,,IS Program Manager,Manager
+61,GM Financial,Nov-05, 5 ,,Data Governance Manager,Manager
+62,Baylor Health Care System,Nov-05, 5 ,,Manager INFORMATION SERVICES - ENTERPRISE INFORMATION DELIVERY ,Manager
+63,Capital One,Nov-06, 5 ,Plano,"Director, Software Engineering, .NET",Director
+64,Zales,Nov-06, 5 ,Irving,Data/Applications,Other
+65,HotDocs,Nov-06, 5 ,Lindon,CTO,Other
+66,MetaSource ,Nov-06, 5 ,Draper,Senior Director of Software Engineering,Director
+67,Trowbridge Professional Search ,Nov-06, 5 ,Addison,"Vice President, Information Technology",Vice Pres
+68,USAA,Nov-06, 5 ,Austin,Director Information Governance,Director
+69,DealerTrak,Nov-09, 6 ,Dallas,"Manager, Software Development",Manager
+70,Robert Half,Nov-09, 6 ,Irving,Manager of Mobile Development,Manager
+71,Robert Half,Nov-09, 6 ,,"Director, Mobile (iOS) Application Development",Director
+72,SMS Solutions,Nov-09, 6 ,Carrollton,"Director, IT Development",Director
+73,New York Life,Nov-09, 6 ,Dallas,PM - Relationship Manager,Manager
+74,MoneyGram,Nov-10, 6 ,,"Director, IT Project Portfolio Planning",Director
+75,TMX Finance,Nov-10, 6 ,Dallas,VP of IT Development - Online Lending,Vice Pres
+76,ZipRecruiters,Nov-11, 6 ,,Senior Director of Development,Director
+77,Veritude,Nov-11, 6 ,Westlake,Director Of Software Development,Director
+78,Medecision,Nov-11, 6 ,,"Director, Data Management",Director
+79,Alliance Data,Nov-11, 6 ,,"VP, Technical Project Management – International Loyalty",Vice Pres
+80,Sabre,Nov-11, 6 ,South Lake,Director Software Development,Director
+81,Blackhawk Engagement Solutions,Nov-16, 7 ,Addison,"Director, Software Engineering",Director
+82,Allegro,Nov-16, 7 ,Dallas,"Director, Software Operations",Director
+83,"VHA-UHC Alliance NewCo, Inc",Nov-17, 7 ,,"Director, Data Intake-New Initiatives",Director
+84,Thomson-Rueters,Nov-17, 7 ,Carrollton,"Director, Development Manager - Fin Tech ",Manager
+85,Epsilon,Nov-18, 7 ,,Director of Development ,Director
+86,Dealertrack Technologies,Nov-18, 7 ,,Manager Software Engineering,Manager
+87,Softworld,Nov-20, 7 ,,Information Technology Director,Director
+88,Fiserv,Nov-23, 8 ,Dallas,"Director, Application Development, Biller Solutions",Director
+89,CareerBuilder-Prestige Staffing,Nov-26, 8 ,Dallas,VP of Engineering,Vice Pres
+90,Texas Healthcare Resources,Nov-26, 8 ,Arlington,"Project Director, System Integration",Director
+91,TruHearing,Nov-30, 9 ,West Jordan,Director of Software Product ,Director
+92,Workbridge Associates,Nov-30, 9 ,,C# Director of Software Engineering ,Director
+93,Concentra,Dec-01, 9 ,Addison,Business Intelligence Data Warehouse Manager,Manager
+94,Soutwest,Dec-01, 9 ,Dallas,Sr Analyst,Other
+95,Toyota,Dec-01, 9 ,Plano,National Manager (Director) ,Manager
+96,Highgate Hotels,Dec-01, 9 ,Irving,"Vice President, IT Business Applications - (7171)",Vice Pres
+97,CBRE,Dec-01, 9 ,Dallas,"Director, PMO-Project Manager",Manager
+98,TMX Finance,Dec-02, 9 ,Carrollton,VP of Application Development,Vice Pres
+99,Domo,Dec-02, 9 ,American Fork,Program Manager,Manager
+100,Huckabee and Associates,Dec-07, 10 ,Fort Worth,Director of Information Services,Director
+101,Cinepolis USA,Dec-07, 10 ,Dallas,Director OF IT,Director
+102,U of U Medical Group,Dec-07, 10 ,SLC,Associate Director - IT,Director
+103,Alliance Data,Dec-07, 10 ,Dallas,Senior Director of Database ,Director
+104,Alliance Data,Dec-07, 10 ,Dallas,Senior Manager of Technical Project Management,Manager
+105,Elevate,Dec-07, 10 ,,Program Manager,Manager
+106,Professional Recruiters,Dec-08, 10 ,Sandy,Director of Software Development ,Director
+107,Epsilon,Dec-08, 10 ,Irving,SVP R&D,Vice Pres
+108,BYU-I,Dec-08, 10 ,Rexburg,Adjunct Instructor - CIT 111: Introducton to Databases,Adjunct
+109,BYU-I,Dec-08, 10 ,Rexburg,Computer Science and Electrical Engineering Visiting Faculty,Other
+110,TCC,Dec-08, 10 ,Fort Worth,Adjunct Instructor - Computer Science,Adjunct
+111,TCC,Dec-08, 10 ,Fort Worth,Adjunct Instructor - Math,Adjunct
+112,BYU-I,Dec-08, 10 ,Rexburg,Adjunct Faculty--CIT 381: Business Intel and Analytics,Adjunct
+113,BYU-I,Dec-08, 10 ,Rexburg,Adjunct Instructor - CIT 160: Introduction to Programming,Adjunct
+114,Kforce,Dec-10, 10 ,,Director of Software Engineering,Director
+115,Z-Tech Solutions,Dec-11, 10 ,Arlington,Software Portfolio Director,Director
+116,Mouser,Dec-14, 11 ,Mansfield,"Director, Special Projects (IT)",Director
+117,Venture Solutions Inc.,Dec-14, 11 ,Fort Worth,Sr. Director of Technology and Client Services,Director
+118,"Digital Intelligence Systems, LLC",Dec-16, 11 ,Dallas,Director of Data Management,Director
+119,Demandware,Dec-16, 11 ,SLC,Director of Software Engineering,Director
+120,"Extreme Technologies, Inc",Dec-16, 11 ,Dallas,"Director, IT PMO",Director
+121,Thinkfind Corporation,Dec-17, 11 ,Richardson,Director Software Development,Director
+122,Think! Finance,Dec-17, 11 ,Fort Worth,"Manager, UI Development",Manager
+123,Progexion,Dec-21, 12 ,,"Director, Software Development",Director
+124,Robert Half,Dec-21, 12 ,,Director of Data Engineering,Director
+125,GTN Technical Staffing,Dec-21, 12 ,Addison,Software Development Project Manager,Manager
+126,Targetbase,Dec-22, 12 ,Irving,Director of Information Technology,Director
+127,Paladin,Dec-22, 12 ,Dallas,Director Data Engineering,Director
+128,EPE Innovations LLC,Dec-22, 12 ,Dallas,Director Data Engineering,Director
+129,ICS recruiter,Dec-31, 13 ,Denver,Software Engineering Manager,Manager
+130,AlixPartners,Jan-01, 14 ,Dallas,Information Management Services - Vice President,Vice Pres
+131,Avenue5,Jan-01, 14 ,Dallas,"Vice President, Business Intelligence",Vice Pres
+132,projekt202,Jan-05, 15 ,Dallas,Director of Technology ,Director
+133,CyberCoders,Jan-05, 15 ,Fort Worth,Manager of UI Software Development,Manager
+134,Odesus,Jan-05, 15 ,Dallas,Director - PMO,Director
+135,EPE Innovations LLC,Jan-05, 15 ,Dallas,Data Management Director,Director
+136,United States Bowling Congress,Jan-06, 15 ,Arlington,Director of Software Architecture,Director
+137,"RealPage, Inc. ",Jan-06, 15 ,Carrollton,Vice President – Information Systems,Vice Pres
+138,Omni Hotels,Jan-06, 15 ,Dallas,Vice President of Information Technology,Vice Pres
+139,Company Confidential,Jan-06, 15 ,,Vice President of Information Technology,Vice Pres
+140,XO Communications,Jan-06, 15 ,Dallas,Vice President of Software Development,Vice Pres
+141,Z-Tech Solutions,Jan-06, 15 ,Arlington,Director of Software Product Management - Dental / Healthcare,Director
+142,Oracle,Jan-07, 15 ,Bedford,Software Development Snr Director-15001CW2,Director
+143,PMAM Corporation,Jan-08, 15 ,Dallas,IT Project Manager / IT Director,Manager
+144,Panther IT,Jan-12, 16 ,Fort Worth,Development Project Manager,Manager
+145,"Maxsys Solutions, LLC",Jan-12, 16 ,Irving,SQL/SSIS Developer,Developer
+146,ECi Software Solutions,Jan-12, 16 ,Fort Worth,Director Of Software Support,Director
+147,ECi Software Solutions,Jan-12, 16 ,Provo,Software Development Manager,Manager
+148,"APN Software Services, Inc",Jan-12, 16 ,Fort Worth,Software Manager,Manager
+149,Caliber Homes,Jan-12, 16 ,Fort Worth,Application Developer Manager,Manager
+150,FTI Medical Solutions,Jan-12, 16 ,Dallas,Director of Software Development,Director
+151,McKesson,Jan-12, 16 ,Dallas,"Director, Operations Project Management Office (PMO)",Director
+152,BNSF,Jan-12, 16 ,Fort Worth,Manager of Technology Services ,Manager
+153,Thomson-Rueters,Jan-12, 16 ,Carrollton,"Director, Development (Job Number: JREQ055651)",Director
+154,Allied Electronics,Jan-13, 16 ,Fort Worth,Director of Web Development,Director
+155,American Airlines,Jan-13, 16 ,Fort Worth,Director IT,Director
+156,"Recovco Mortgage Management, LLC",Jan-13, 16 ,Irving,Chief Technology Officer,Other
+157,CareerBuilder,Jan-13, 16 ,Dallas,Director of I.T.,Director
+158,Insight Global,Jan-13, 16 ,Irving,Director Enterprise Application Services,Director
+159,"Trinity Industries, Inc.",Jan-13, 16 ,Dallas,"Director, Applications Operations(2418)",Director
+160,One Technologies,Jan-18, 17 ,Dallas,Manager Software Development,Manager
+161,Dex Media,Jan-18, 17 ,Fort Worth,Application Development Manager,Manager
+162,Wolters Kluwer,Jan-18, 17 ,Irving,"Manager, Software Development",Manager
+163,Austin Ribbon & Computer - RPS,Jan-18, 17 ,Dallas,Applications Support & Development Manager,Manager
+164,Atavas,Jan-18, 17 ,Dallas,Manager‚ Application Development,Manager
+165,Zigatta,Jan-18, 17 ,Dallas,Senior Application Development Manager,Manager
+166,Transplace,Jan-18, 17 ,Frisco,Vice President Application Development,Vice Pres
+167,Triumph Aerostructures,Jan-22, 17 ,Arlington,SQL Server Database Developer,Developer
+168,Hire Talent,Jan-22, 17 ,Irving,SQL Developer Analyst ,Developer
+169,Insource Group,Jan-22, 17 ,Fort Worth,Business Intelligence Analyst/Developer,Developer
+170,Nigel Frank International,Jan-22, 17 ,Fort Worth,SSRS/SSIS Developer-BI Developer,Developer
+171,Gallop Solutions,Jan-22, 17 ,Fort Worth,Sr. BI Developer,Developer
+172,Cottonwood Financial,Jan-25, 18 ,Irving,BUSINESS INTELLIGENCE MANAGER,Other
+173,Optimal Blue,Jan-26, 18 ,Plano,Software Development Manager ,Manager
+174,Expedia,Jan-26, 18 ,Dallas,"Sr. Manager, Production & Websites ",Manager
+175,OpenTV-Nagra,Jan-26, 18 ,Addison,Manager - Software Development (Java),Manager
+176,Santander,Jan-28, 18 ,Dallas,"Sr. Vice-President, Enterprise Technology-6659-702",Vice Pres
+177,Santander,Jan-28, 18 ,Dallas,"Vice-President, Business Intelligence and Analytics (6436-702)",Vice Pres
+178,Alliance Data,Jan-28, 18 ,Irving,"VP, Technology Delivery (Job Number: 0072865)",Vice Pres
+179,DentalOne Partners,Jan-28, 18 ,Dallas,"Director, IT Business Intelligence",Director
+180,Depository Trust & Clearing Corporation,Jan-28, 18 ,Dallas,"Director, Business Intelligence",Director
+181,"Avenues International, Inc.",Feb-01, 19 ,Dallas,BI/Population Health Director for Epic Data Warehouse,Director
+182,Ferris & Associates,Feb-01, 19 ,Dallas,Vice President Mobile Solutions,Vice Pres
+183,Distribion,Feb-02, 19 ,Dallas,Director of Software Development,Director
+184,Watson Health- Phytel,Feb-02, 19 ,Irving,Business Intelligence Manager,Manager
+185,Balfour,Feb-02, 19 ,Dallas,Software Development Manager / Software Project Manager,Manager
+186,Zigatta,Feb-02, 19 ,Dallas,Business Intelligence Manager,Manager
+187,Novartis,Feb-02, 19 ,Dallas,Application Manager - R&D Document Management,Manager
+188,SouthWest Airlines,Feb-02, 19 ,Dallas,Senior Manager - Tech Ops Planning,Manager
+189,Michael's,Feb-04, 19 ,Dallas,Manager of IT Applications - CRM & Marketing,Manager
+190,Rushmore Loans,Feb-05, 19 ,Farmers Branch,Director of Technology,Director
+191,Compass Technology Group,Feb-05, 19 ,Dallas,Manager of Software Product Development,Manager
+192,Lanvera,Feb-05, 19 ,Coppell,Software Product Manager,Manager
+193,ESI Healthcare Business Solutions,Feb-05, 19 ,Dallas,"Director, .NET Development",Director
+194,"United Systems Technology, Inc",Feb-05, 19 ,Carrollton,Software Development Manager,Manager
+195,Insource Group,Feb-05, 19 ,Dallas,Data Governance Lead,Other
+196,Paladin,Feb-08, 20 ,Dallas,Manager Data Management,Manager
+197,ConsultNet,Feb-09, 20 ,Farmington,Executive Director of Technology,Director
+198,MDI Group,Feb-10, 20 ,Dallas,"Manager, Application Support",Manager
+199,Prestige Staffing,Feb-10, 20 ,Dallas,Software Development Manager,Manager
+200,CSC,Feb-10, 20 ,Irving,Manager: Application Delivery,Manager
+201,CSC,Feb-10, 20 ,Irving,CSC Executive Leadership Opportunities in the US,Other
+202,Yes Recruiters,Feb-10, 20 ,Dallas,Software Development / Project Manager,Manager
+203,Allegro,Feb-10, 20 ,Jakarta,"Director, Product Development",Director
+204,Sabre,Feb-11, 20 ,South Lake,"Senior Director, Software Development Tools & Automation ",Director
+205,Sabre,Feb-11, 20 ,South Lake,Principal IT Project Management,Other
+206,Ryan,Feb-11, 20 ,Dallas,"Vice President, IT Applications",Vice Pres
+207,Ryan,Feb-11, 20 ,London,"Manager, Data Acquisition, Data Extraction",Manager
+208,Z-Tech Solutions,Feb-12, 20 ,Fort Worth,Director of IT - Business Services,Director
+209,CBRE,Feb-12, 20 ,Dallas,Director - Enterprise Data & Architecture,Director
+210,KP Recruiting Group,Feb-12, 20 ,Dallas,Software Development Manager / Software Project Manager,Manager
+211,Dealer.com,Feb-12, 20 ,Dallas,"Manager, Software Engineering",Manager
+212,Company Confidential,Feb-12, 20 ,Dallas,Director - Global IT Enterprise Applications,Director
+213,Genesis10,Feb-16, 21 ,Dallas,Program Manager,Manager
+214,Alliance Data,Feb-16, 21 ,Irving,Director Tech Project Management,Director
+215,Ancestry,Feb-17, 21 ,Provo,Software Development Manager,Manager
+216,StorageCraft,Feb-17, 21 ,Provo,Vice President of Engineering,Vice Pres
+217,UVU,Feb-17, 21 ,Orem,Adjunct Instructor - Computer Science,Adjunct
+218,UVU,Feb-17, 21 ,Orem,Director - Portfolio and Project Management Office,Director
+219,HealthMine Inc.,Feb-17, 21 ,Dallas,VP of Engineering,Vice Pres
+220,Lucernex,Feb-17, 21 ,Plano,CTO and VP of Software Engineering,Vice Pres
+221,KP Recruiting Group,Feb-17, 21 ,Dallas,Software Development Manager / Software Project Manager,Manager
+222,Kforce,Feb-17, 21 ,Irving,Manager of IT Applications,Manager
+223,Ventana Solutions,Feb-17, 21 ,Irving,Software Development Manager,Manager
+224,"Biter & Associates, LLC",Feb-17, 21 ,Fort Worth,Vice President of Information Technology,Vice Pres
+225,"Recovco Mortgage Management, LLC",Feb-17, 21 ,Irving,Chief Technology Officer,Other
+226,CareerBuilder,Feb-17, 21 ,Dallas,Director of I.T.,Director
+227,Yasmesoft,Feb-17, 21 ,Dallas,Software Development Manager / Software Project Manager ,Manager
+228,Vizient,Feb-17, 21 ,Dallas,Manager Application Delivery & Development,Manager
+229,TCS,Feb-18, 21 ,Dallas,Strategy Consultant – Mortgage and Housing Finance,Other
+230,AA,Feb-18, 21 ,Fort Worth,Data Governance / data strategy SME ,Other
+231,L-3 Communications,Feb-23, 22 ,Arlington,Vice President of Engineering,Vice Pres
+232,CBTS,Feb-23, 22 ,Las Colinas,Vice President of Information Technology,Vice Pres
+233,Progressive IT,Feb-25, 22 ,The Colony,Director of IT and Software Development,Director
+234,CyberCoders,Feb-26, 22 ,Orem,IT Director,Director
+235,"Prince, Perelson & Associates Llc | Draper, UT",Feb-26, 22 ,Draper,Software Development Manager,Manager
+236,"InnoCore Solutions, Inc",Feb-26, 22 ,Dallas,Data Governance Implementation Manager,Manager
+237,MatchPoint Consulting Group,Feb-26, 22 ,Irving,Vice President - Enterprise Change Management,Vice Pres
+238,Selby Jennings,Feb-26, 22 ,Dallas,SVP - Data Governance/Quality/Management,Vice Pres
+239,Ambit Energy,Feb-26, 22 ,Dallas,"Manager, Project Management",Manager
+240,Pursue IT Staffing,Feb-26, 22 ,Addison,Director of Technology ,Director
+241,TekSystems,Mar-01, 23 ,Dallas,Software Development Manager,Manager
+242,JP Morgan,Mar-07, 24 ,Dallas,Applications Development Director - ED,Director
+243,Federal Reserve Bank,Mar-07, 24 ,Dallas,Application Development Manager,Manager
+244,Jade Staffing,Mar-07, 24 ,Irving,VP Information Technology,Vice Pres
+245,HALLMARK GLOBAL TECHNOLOGIES INC,Mar-07, 24 ,Fort Worth,Application Project Manager,Manager
+246,TCS Data Consulting Services,Mar-09, 24 ,Dallas,ETL/Data Analysts,Other
+247,Epsilon,Mar-22, 26 ,Dallas,VP - Technology Delivery-0077310,Vice Pres
+248,Ministry Brands,Mar-23, 26 ,Addison,Software Development Manager,Manager
+249,Caliber Homes,Mar-23, 26 ,Coppell,"Originations, Reporting & Analytics, Manager",Manager
+250,Novartis,Mar-28, 27 ,Fort Worth,"Mobile Governance, Manager",Manager
+251,Bottle Rocket,Mar-29, 27 ,Dallas,"Software Development Manager, Mobile TV Anywhere Platform",Manager
+252,NationStar Mortgage,Mar-29, 27 ,Dallas,"VP, Data Integrity",Vice Pres
+253,NationStar Mortgage,Mar-29, 27 ,Dallas,Sr. ETL Developer,Developer
+254,HighQuartile,Mar-29, 27 ,Dallas,Software Development Manager,Manager
+255,Omnitracs,Mar-29, 27 ,Dallas,Vice President of Product Development - Mobile Applications,Vice Pres
+256,Goldman Sachs,Mar-29, 27 ,Irving,"Realty Management Division, Residential Mortgage Asset Management, Reporting & Data Analytics, Vice President",Vice Pres
+257,Baylor Health Care System,Mar-29, 27 ,Dallas,Sr Vice President - Build - Information Technology ,Vice Pres
+258,HealthEquity,Apr-05, 28 ,Draper,VP Software Development and Delivery,Vice Pres
+259,Lhoist,Apr-05, 28 ,Fort Worth,IT Director,Director
+260,Technology Service Professionals,Apr-05, 28 ,Dallas,Application Development Manager,Manager
+261,Flowserve,Apr-05, 28 ,Irving,"Director, IT – Business Intelligence",Director
+262,ID Inc,Apr-05, 28 ,Dallas,Software Development Manager,Manager
+263,"HumCap, Inc",Apr-05, 28 ,Las Colinas,Director Of Mobile Development,Director
+264,MCT,Apr-05, 28 ,Fort Worth,New Horizons - Teaching - Adjunct,Adjunct
+265,Allied Electronics,Apr-05, 28 ,Fort Worth,Director of Web Development,Director
+266,Data Masters,Apr-07, 28 ,Fort Worth,Director of Software Engineering,Director
+267,Pailin Group Professional Search Consultants,Apr-07, 28 ,Dallas,Director of Mobile Development,Director
+268,Plaza Medical Center of Fort Worth,Apr-07, 28 ,Fort Worth,Director of Information Technology,Director
+269,Training Associates,Apr-07, 28 ,Ohio,JPMC Boot Camp,Other
+270,Inmar,Apr-08, 28 ,Fort Worth,"Director, Software Engineering",Director
+271,WGU,Apr-08, 28 ,Online,"Course Mentor, IT, Web Development - Adjunct",Adjunct
+272,WGU,Apr-08, 28 ,Online,"Course Mentor, IT, Object-oriented programming - Adjunct",Adjunct
+273,WGU,Apr-08, 28 ,Online,"Course Mentor, IT Data Management and Data Analytics",Other
+274,Acrobat,Apr-12, 29 ,Las Colinas,Director of Mobile Development,Director
+275,Caliber Homes,Apr-05, 28 ,Irving,VP of Business Intelligence,Vice Pres
+276,Dickies,Apr-14, 29 ,Fort Worth,Director of IT,Director
+277,PwC,Apr-14, 29 ,Dallas,Director IT Strategy - Power & Utilities,Director
+278,RJ Byrd Search Group,Apr-14, 29 ,Fort Worth,Director of PMO,Director
+279,Data Masters,Apr-14, 29 ,Fort Worth,Director of Application Software Development,Director
+280,L-3 Communications,Apr-14, 29 ,Arlington,Software Engineering Resource Manager,Manager
+281,Securus Technologies,Apr-14, 29 ,Dallas,IT Development Manager (Mobile/ UI),Manager
+282,Texas Instruments,Apr-14, 29 ,Dallas,Web Application Development Manager,Manager
+283,ResMan Property,Apr-14, 29 ,Dallas,Implementation Manager,Manager
+284,New Horizons,Apr-14, 29 ,Irving,Instructor - Adjunct,Adjunct
+285,2M Research Services,Apr-15, 29 ,Arlington,Chief Technology Officer,Other
+286,Training Associates,Apr-18, 30 ,Arlington,Excel - Adjunct,Adjunct
+287,Training Associates,Apr-18, 30 ,Irving,Office 2016 - Adjunct,Adjunct
+288,Training Associates,Apr-18, 30 ,,Office 2016 - Adjunct,Adjunct
+289,Masis Professional Group,Apr-21, 30 ,Frisco,Director of Application Development,Director
+290,Robert Half,Apr-21, 30 ,Frisco,Director of Application Development (Java),Director
+291,ServPartners,Apr-21, 30 ,Irving,Development Manager,Manager
+292,Apptricity,Apr-21, 30 ,Irving,Director of Mobile Development ,Director
+293,Resolvity,Apr-21, 30 ,Irving,"Senior Director, Application Development and Customer Operations",Director
+294,Park Hudson International,Apr-26, 31 ,Fort Worth,Development Manager ,Manager
+295,TD AmeriTrade,Apr-27, 31 ,Roanoak,Application Development Manager,Manager
+296,Hunter Technical,Apr-28, 31 ,Irving,Director of Mobile Development ,Director
+297,First Command?,Apr-28, 31 ,Fort Worth,Software Development Manager,Manager
+298,Agile Premier,Apr-28, 31 ,Fort Worth,Software Architect II,Other
+299,"Client Resources, Inc.",May-02, 32 ,Fort Worth,Application Development Manager,Manager
+300,Zolon tech,May-02, 32 ,Fort Worth,ETL Developer,Developer
+301,Dev Mountain,May-03, 32 ,Dallas,Mentor - Adjunct,Adjunct
+302,Academy Mortgage Corporation,May-03, 32 ,Sandy,Director of Engineering ,Director
+303,Ancestry,May-03, 32 ,Provo,Senior Software Development Manager,Manager
+304,HealthEquity,May-03, 32 ,Draper,"VP, Product Development",Vice Pres
+305,Real Estate Technology Marketing,May-03, 32 ,Springville,Vice President of Software Engineering ,Vice Pres
+306,ITT Technical,May-04, 32 ,SLC/DFW,Training / Adjunct,Adjunct
+307,New Horizons,May-04, 32 ,SLC/DFW,Training / Adjunct,Adjunct
+308,"Nicomp International, Inc.",May-04, 32 ,SLC/DFW,Training / Adjunct,Adjunct
+309,ONLC Training Centers,May-04, 32 ,SLC/DFW,Training / Adjunct,Adjunct
+310,TechSherpas,May-04, 32 ,SLC/DFW,Training / Adjunct,Adjunct
+311,Rahul Sharma <rahulsharma@usgrpinc.com>,May-18, 34 ,Dallas,SSIS- ETL developer,Other
+312,Southern NH University,May-18, 34 ,Online,Adjunct - Data,Adjunct
+313,"Health Management Systems, Inc",May-20, 34 ,Irving,"Sr. Director, Applications Development",Director
+314,Robert Half,Jun-04, 36 ,Fort Worth,Manager of Applications Development,Manager
+315,"Product Support Services, Inc. (PSSI)",Jun-09, 37 ,Coppell,IT Manager/Director,Manager

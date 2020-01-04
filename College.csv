@@ -1,0 +1,316 @@
+Entry,Name,homeState,Year,Scholarship,Major,Minor
+1,David Jackson,Oregon,Sophmore,0000,Recreation,Comp Sci
+2,David Jackson,California,Sophmore,1000,English,Art Design
+3,Ethan Ugarte,Wyoming,Freshman,1500,History,Comp Sci
+4,Michelle Thorsen,Oregon,Sophmore,2000,Poly Sci,Russian
+5,Zeke Wallandar,District of Columbia,Ph. D,3000,Aviation,Education
+6,Wesley Goodson,Oregon,Masters,0,Middle East,Theology
+7,David Goodson,Nevada,Ph. D,7500,Astronomy,Music
+8,David Wallandar,District of Columbia,Junior,2000,Business,Math
+9,Thomas Hudson,Utah,Senior,3500,Theology,Psychology
+10,Bob Smith,North Dakota,Masters,7500,Undeclared,Family Life
+11,Nora Thompson,Foreign,Senior,500,Biology,Math
+12,Oren Hudson,North Dakota,Senior,9000,Art Design,Mechanical Engineering
+13,Caroll James,California,Freshman,9500,Chemical Engineering,Culinary
+14,Harry Davidson,Texas,Senior,2000,English,Art Design
+15,Quinton Goodson,Texas,Ph. D,7000,Biology,Middle East
+16,Thomas Blain,Foreign,Freshman,1500,Communications,Astronomy
+17,Ethan James,Florida,Sophmore,6000,Math,Accounting
+18,Harry Thorsen,Delaware,Freshman,2000,Social Work,Art Design
+19,Phillip Jackson,Georgia,Junior,3000,Math,Business
+20,Jean Smith,Mississippi,Masters,8500,Poly Sci,Math
+21,Victoria Goodson,Maine,Masters,3500,Music,Business
+22,Robert Bullock,Delaware,Ph. D,9500,Poly Sci,Undeclared
+23,Samuel Hudson,Florida,Ph. D,6000,Statistics,English
+24,Ethan Hansen,Maine,Freshman,8000,Music,Mechanical Engineering
+25,Ethan Thorsen,New Mexico,Junior,7500,Middle East,Astronomy
+26,Harry Wallandar,New York,Masters,0,Middle East,Psychology
+27,Lawrence Hudson,Florida,Ph. D,5500,Middle East,Architecture
+28,Uriah Ugarte,Georgia,Sophmore,10000,Library Science,Biology
+29,Ethan Goodson,Oklahoma,Sophmore,3000,Materials Sciences,English
+30,Alica Evertson,Oregon,Ph. D,500,Theology,Library Science
+31,Fred Bullock,Washington,Masters,9000,Theology,Statistics
+32,Oren James,New York,Ph. D,4500,Communications,Math
+33,Victoria Blain,Washington,Senior,10000,Culinary,Astronomy
+34,Yolla Thompson,Maine,Junior,5000,Recreation,Music
+35,Lawrence Thompson,Maine,Freshman,3000,Chemical Engineering,Art Design
+36,Kelly Goodson,Kentucky,Sophmore,3000,Statistics,Accounting
+37,Alica Evertson,Kentucky,Senior,4500,Materials Sciences,Recreation
+38,Phillip Davidson,Mississippi,Ph. D,0,Culinary,Art Design
+39,Thomas Hudson,New York,Junior,4500,Astronomy,Culinary
+40,Jean Wallandar,Maine,Senior,500,Music,Statistics
+41,Robert Wallandar,North Dakota,Junior,10000,Recreation,English
+42,Fred Thorsen,Montana,Masters,2500,Culinary,Russian
+43,Thomas James,Wyoming,Ph. D,5500,History,Chemical Engineering
+44,Zeke Hansen,Vermont,Freshman,500,Aviation,History
+45,Alica Davidson,Montana,Masters,7000,Architecture,Chemical Engineering
+46,David James,Georgia,Senior,9500,Aviation,Biology
+47,Irene Hansen,Delaware,Freshman,10000,Theology,Middle East
+48,Yolla Blain,Maine,Sophmore,1500,History,Art Design
+49,Robert Allison,Utah,Masters,1500,Art Design,Psychology
+50,Nora Ugarte,Mississippi,Ph. D,9500,Architecture,Decorating
+51,Caroll Blain,Mississippi,Masters,1500,Art Design,Undeclared
+52,Fred Davidson,Washington,Senior,7500,Recreation,Social Work
+53,David Davidson,Montana,Junior,4500,Comp Sci,Psychology
+54,Ethan Thompson,Nevada,Masters,9500,Art Design,Middle East
+55,Lawrence Hansen,Texas,Freshman,4500,Library Science,Biology
+56,Oren Allison,Oklahoma,Masters,9000,Culinary,Astronomy
+57,Nora Wallandar,Nevada,Ph. D,3500,Poly Sci,Math
+58,Nora Jackson,Montana,Senior,5500,Nursing,Psychology
+59,Harry Wallandar,Oklahoma,Ph. D,6500,Accounting,Poly Sci
+60,Robert Davidson,Vermont,Freshman,2500,Art Design,Culinary
+61,Zeke Wallandar,Idaho,Masters,1000,Library Science,Business
+62,Samuel Bullock,Mississippi,Ph. D,9500,Aviation,Music
+63,Phillip Hudson,Kentucky,Freshman,6500,Undeclared,English
+64,Thomas Hansen,Utah,Senior,500,Social Work,Russian
+65,Quinton Thompson,Maine,Junior,2000,Math,Comp Sci
+66,Jean Bullock,Vermont,Junior,2500,Social Work,Recreation
+67,Xenia Ugarte,Oregon,Sophmore,7500,Accounting,Architecture
+68,Michelle Goodson,Delaware,Masters,9500,Nursing,Business
+69,Lawrence Goodson,New York,Masters,2500,Russian,Decorating
+70,Samuel Goodson,Delaware,Ph. D,500,Aviation,Music
+71,Victoria Davidson,New York,Masters,2500,Biology,Social Work
+72,David Thorsen,California,Junior,5000,Theology,Nursing
+73,Caroll Hudson,Oregon,Freshman,7000,Russian,Accounting
+74,Fred Evertson,New Mexico,Junior,0,Business,Math
+75,Michelle Thompson,Mississippi,Sophmore,5000,Physics,Mechanical Engineering
+76,Caroll Wallandar,Utah,Ph. D,9000,Materials Sciences,Undeclared
+77,Oren Davidson,Vermont,Ph. D,1500,Aviation,Psychology
+78,Kelly James,Utah,Ph. D,2500,Middle East,Poly Sci
+79,Xenia Wallandar,Kentucky,Masters,7500,Decorating,Poly Sci
+80,Kelly Evertson,Florida,Senior,9500,Comp Sci,Architecture
+81,Xenia Hansen,New Mexico,Senior,4500,Music,Music
+82,Nora Davidson,Idaho,Masters,5000,Decorating,Architecture
+83,Thomas Jackson,Nevada,Junior,6000,Music,Nursing
+84,Quinton Wallandar,Oregon,Junior,4000,Business,Comp Sci
+85,Ethan Hudson,North Dakota,Masters,10000,Poly Sci,Education
+86,Samuel Jackson,New Mexico,Masters,3000,Chemical Engineering,Mechanical Engineering
+87,Ethan Ugarte,Idaho,Senior,1000,Statistics,Architecture
+88,George Smith,Mississippi,Sophmore,5500,Nursing,History
+89,Ethan Thompson,Vermont,Ph. D,3000,Social Work,History
+90,Jean Ugarte,Texas,Sophmore,2500,Psychology,Theology
+91,Victoria Hansen,Vermont,Freshman,6000,Music,Business
+92,David Smith,Mississippi,Freshman,0,Russian,Nursing
+93,Victoria Evertson,Wyoming,Freshman,5000,Russian,Education
+94,Kelly Thorsen,Washington,Sophmore,8500,Middle East,Architecture
+95,Lawrence Davidson,Texas,Sophmore,5500,Chemical Engineering,History
+96,Nora Blain,Montana,Senior,9000,Library Science,Culinary
+97,Victoria Goodson,Foreign,Ph. D,1000,Family Life,Mechanical Engineering
+98,Ethan Hudson,Florida,Junior,3500,Math,Poly Sci
+99,Alica Wallandar,New York,Sophmore,2500,Psychology,Art Design
+100,Phillip Thorsen,Oklahoma,Masters,4000,Russian,Decorating
+101,Ethan Davidson,Texas,Ph. D,500,Library Science,Social Work
+102,Thomas Hansen,New Mexico,Masters,1000,Architecture,Russian
+103,Oren Evertson,Georgia,Sophmore,2000,Art Design,Music
+104,Michelle Davidson,Oregon,Junior,2500,Aviation,Chemical Engineering
+105,Caroll Ugarte,Utah,Freshman,3000,English,Undeclared
+106,Michelle Evertson,Foreign,Masters,4000,Art Design,Education
+107,Quinton Smith,Washington,Senior,7000,Decorating,English
+108,Phillip Blain,Delaware,Junior,2000,Education,Recreation
+109,Wesley Evertson,Maine,Sophmore,2500,Culinary,Decorating
+110,Bob Evertson,North Dakota,Ph. D,5500,English,Russian
+111,Yolla Ugarte,North Dakota,Junior,3000,Astronomy,Poly Sci
+112,Harry Blain,Wyoming,Ph. D,1500,Decorating,Decorating
+113,Wesley Thompson,Oregon,Masters,0,Nursing,Social Work
+114,George Allison,Maine,Junior,10000,Family Life,Materials Sciences
+115,Phillip Evertson,Wyoming,Senior,7000,Library Science,Undeclared
+116,Xenia Davidson,Vermont,Sophmore,6000,Theology,Comp Sci
+117,Fred Hansen,Vermont,Sophmore,9500,Undeclared,Social Work
+118,Lawrence Ugarte,Idaho,Sophmore,4000,Accounting,Chemical Engineering
+119,Bob Hansen,New Mexico,Masters,6500,Biology,Recreation
+120,Ethan Smith,Florida,Masters,2500,Biology,Theology
+121,Uriah Evertson,District of Columbia,Junior,3500,English,Family Life
+122,George James,Georgia,Junior,2500,Music,Undeclared
+123,Bob Hansen,Nevada,Masters,9500,Comp Sci,Recreation
+124,Quinton Smith,Foreign,Masters,1500,Poly Sci,Theology
+125,Lawrence Blain,California,Senior,6500,Aviation,Aviation
+126,Thomas Blain,Montana,Sophmore,8000,Psychology,Middle East
+127,Michelle Hudson,Mississippi,Junior,1500,Family Life,Theology
+128,Irene Davidson,California,Junior,1500,Library Science,Recreation
+129,Nora Allison,District of Columbia,Freshman,0,Art Design,Comp Sci
+130,Robert Smith,New York,Senior,500,Mechanical Engineering,Undeclared
+131,Samuel Smith,Oklahoma,Ph. D,10000,Chemical Engineering,English
+132,Uriah Davidson,Vermont,Sophmore,8500,History,Culinary
+133,Alica Allison,Washington,Ph. D,9500,Astronomy,Theology
+134,Kelly Ugarte,Delaware,Sophmore,3500,Mechanical Engineering,Culinary
+135,Nora Thompson,District of Columbia,Freshman,5500,Psychology,Biology
+136,Robert Davidson,Idaho,Ph. D,4500,Middle East,Physics
+137,Michelle Thompson,Montana,Junior,5000,Recreation,Theology
+138,Thomas Wallandar,Nevada,Freshman,2500,Recreation,Aviation
+139,Lawrence Blain,New York,Ph. D,9000,Recreation,History
+140,Michelle Hudson,California,Sophmore,1500,Psychology,Middle East
+141,Uriah Hansen,Washington,Ph. D,7000,Art Design,Social Work
+142,Thomas Ugarte,Idaho,Sophmore,7500,Mechanical Engineering,Decorating
+143,Caroll Goodson,Wyoming,Sophmore,3000,Russian,Comp Sci
+144,Kelly Evertson,New York,Masters,10000,Psychology,Communications
+145,Thomas James,Idaho,Freshman,4500,Business,Statistics
+146,Oren Davidson,Georgia,Junior,9500,Architecture,Biology
+147,Fred Goodson,New Mexico,Masters,3000,Recreation,Communications
+148,Jean Davidson,Delaware,Junior,4500,English,Chemical Engineering
+149,Fred Goodson,District of Columbia,Freshman,8000,Art Design,Mechanical Engineering
+150,David Ugarte,Idaho,Freshman,3000,Aviation,Math
+151,Zeke Hansen,Vermont,Senior,6500,Math,Culinary
+152,Irene Blain,North Dakota,Masters,7000,Business,Math
+153,Thomas Allison,Nevada,Freshman,3500,Materials Sciences,Recreation
+154,Thomas Evertson,Nevada,Junior,4500,Biology,Chemical Engineering
+155,Alica Hudson,Vermont,Junior,3000,Music,Art Design
+156,Phillip Evertson,Kentucky,Masters,10000,Nursing,Comp Sci
+157,Harry Hansen,North Dakota,Masters,7000,Comp Sci,Decorating
+158,Uriah Thorsen,Georgia,Ph. D,9500,Family Life,Poly Sci
+159,Michelle Hudson,Kentucky,Masters,2000,English,Education
+160,Jean Evertson,Oklahoma,Junior,0,Nursing,Library Science
+161,Lawrence James,District of Columbia,Junior,7000,Decorating,Astronomy
+162,Zeke Bullock,Oregon,Freshman,500,Architecture,History
+163,David Bullock,Maine,Freshman,3500,Nursing,Chemical Engineering
+164,Ethan Smith,Delaware,Freshman,5000,Psychology,Astronomy
+165,Bob Davidson,Mississippi,Masters,0,Astronomy,Library Science
+166,Fred Hudson,New York,Senior,9500,Chemical Engineering,Materials Sciences
+167,Caroll Smith,Texas,Freshman,1500,Poly Sci,Comp Sci
+168,Nora Goodson,Foreign,Sophmore,500,Education,English
+169,Irene Smith,Maine,Masters,2000,Biology,History
+170,Nora Evertson,Washington,Freshman,3500,Undeclared,Chemical Engineering
+171,Caroll Bullock,Vermont,Ph. D,500,Recreation,Family Life
+172,Ethan Allison,Florida,Senior,8500,Communications,Biology
+173,David Wallandar,Oklahoma,Sophmore,3000,Architecture,Materials Sciences
+174,Xenia Allison,Florida,Junior,2500,Library Science,Architecture
+175,Fred Davidson,Montana,Junior,5500,Music,Middle East
+176,Xenia Smith,Oklahoma,Masters,2000,Family Life,History
+177,Fred Wallandar,Wyoming,Masters,500,Business,Communications
+178,Kelly Evertson,Oregon,Junior,8500,English,Comp Sci
+179,Fred Thompson,California,Ph. D,4000,Art Design,Theology
+180,Samuel Thompson,Foreign,Senior,8500,Decorating,Accounting
+181,Jean Thorsen,Georgia,Junior,8500,Culinary,Math
+182,David Ugarte,Oregon,Freshman,5000,Comp Sci,Business
+183,Michelle Allison,Kentucky,Masters,7000,Decorating,History
+184,Xenia Ugarte,Utah,Freshman,500,Undeclared,Russian
+185,Oren Davidson,Georgia,Senior,2500,Library Science,Russian
+186,Harry Wallandar,Foreign,Sophmore,8000,Comp Sci,Social Work
+187,George Ugarte,Texas,Senior,2000,Art Design,Music
+188,Thomas Allison,Mississippi,Sophmore,5000,Russian,Social Work
+189,Kelly Evertson,New York,Masters,2500,Biology,Music
+190,Robert James,Oklahoma,Ph. D,3000,Business,Family Life
+191,Michelle Davidson,Oregon,Sophmore,4500,English,Social Work
+192,Quinton James,Mississippi,Sophmore,5500,Theology,Undeclared
+193,Phillip Davidson,Vermont,Ph. D,9000,Library Science,Materials Sciences
+194,Uriah Bullock,District of Columbia,Freshman,1000,Chemical Engineering,Business
+195,Uriah James,Utah,Freshman,0,Chemical Engineering,English
+196,Alica Evertson,Mississippi,Freshman,9000,Aviation,Middle East
+197,Quinton Thorsen,Wyoming,Freshman,3500,Nursing,History
+198,Samuel Hudson,New Mexico,Sophmore,7500,Art Design,Library Science
+199,Jean Blain,Florida,Ph. D,7000,Astronomy,Math
+200,Alica Blain,Utah,Freshman,0,Psychology,Mechanical Engineering
+201,Lawrence Ugarte,California,Sophmore,7000,Music,Family Life
+202,Bob Hudson,Vermont,Sophmore,5000,Astronomy,Family Life
+203,Quinton Blain,Foreign,Ph. D,3500,Art Design,Art Design
+204,Wesley Davidson,Maine,Masters,500,Social Work,Decorating
+205,Harry Bullock,Nevada,Junior,4000,Business,Materials Sciences
+206,Nora Davidson,Utah,Junior,3000,Education,Accounting
+207,Thomas Hansen,Mississippi,Masters,10000,English,Library Science
+208,Fred Blain,Oklahoma,Junior,1000,Theology,Education
+209,Yolla Hudson,Montana,Freshman,2000,Mechanical Engineering,Education
+210,Nora Smith,Oregon,Sophmore,500,Chemical Engineering,Mechanical Engineering
+211,Harry Thorsen,Nevada,Freshman,0,Library Science,Business
+212,Robert Allison,Idaho,Junior,10000,Music,Math
+213,Lawrence Thorsen,Mississippi,Freshman,500,Business,Middle East
+214,Samuel Blain,Delaware,Freshman,7500,Social Work,Statistics
+215,Oren Wallandar,Oregon,Junior,1000,Architecture,Family Life
+216,Ethan Ugarte,Washington,Junior,3500,Aviation,Middle East
+217,Wesley Bullock,Texas,Freshman,5500,Middle East,Biology
+218,Samuel Goodson,Montana,Ph. D,7500,Astronomy,Communications
+219,Kelly Thompson,Montana,Masters,2000,Chemical Engineering,Business
+220,Quinton Evertson,Delaware,Masters,7000,English,Statistics
+221,Harry Blain,Washington,Masters,9500,Middle East,Middle East
+222,Victoria Davidson,Texas,Ph. D,1500,Middle East,Music
+223,Victoria Blain,Nevada,Freshman,6000,Materials Sciences,Social Work
+224,Alica Hudson,Oklahoma,Ph. D,9000,Materials Sciences,Decorating
+225,Thomas Smith,Delaware,Senior,3500,Biology,History
+226,Victoria Hudson,Texas,Senior,0,Communications,Theology
+227,Harry Blain,Utah,Sophmore,4000,Music,Accounting
+228,Yolla Blain,Texas,Freshman,500,Math,Chemical Engineering
+229,Yolla Smith,Washington,Sophmore,5000,Library Science,Business
+230,Michelle Goodson,Georgia,Ph. D,10000,Chemical Engineering,Family Life
+231,Robert James,New York,Sophmore,7000,Library Science,Architecture
+232,Alica Smith,California,Masters,0,Communications,English
+233,Irene James,Texas,Sophmore,10000,Mechanical Engineering,Psychology
+234,Zeke Allison,Utah,Senior,2500,History,Social Work
+235,Phillip Goodson,Wyoming,Junior,6000,Russian,Math
+236,Thomas Wallandar,Washington,Sophmore,7500,Communications,Materials Sciences
+237,Michelle Goodson,Georgia,Senior,9000,English,English
+238,Uriah Evertson,Wyoming,Sophmore,8000,Biology,Social Work
+239,David Thorsen,Foreign,Senior,9500,Poly Sci,Communications
+240,Michelle Ugarte,Oregon,Senior,8500,Biology,English
+241,Phillip Goodson,District of Columbia,Freshman,8000,Russian,Aviation
+242,Fred Bullock,Maine,Freshman,9500,Math,Chemical Engineering
+243,Kelly Bullock,Mississippi,Ph. D,500,Psychology,Psychology
+244,Caroll Evertson,Oregon,Junior,3000,Architecture,Communications
+245,Samuel Hansen,Foreign,Junior,9500,Communications,Art Design
+246,Ethan Allison,Maine,Ph. D,6500,Decorating,Undeclared
+247,Alica Davidson,Idaho,Freshman,4000,Decorating,Nursing
+248,Wesley Hansen,District of Columbia,Freshman,5000,Russian,Music
+249,Phillip Wallandar,Texas,Junior,5000,History,Social Work
+250,George Thompson,Idaho,Junior,7500,Recreation,Theology
+251,Yolla Hudson,North Dakota,Masters,3500,Physics,Art Design
+252,Jean Wallandar,Texas,Junior,9500,Aviation,Russian
+253,Bob Evertson,North Dakota,Senior,6500,Decorating,Accounting
+254,Ethan Bullock,Idaho,Freshman,0,Materials Sciences,Architecture
+255,Harry Blain,New York,Senior,3000,Education,Comp Sci
+256,Phillip Blain,Wyoming,Senior,9000,Biology,Russian
+257,Victoria Evertson,Kentucky,Senior,6000,Art Design,Astronomy
+258,David Goodson,Delaware,Ph. D,5500,Poly Sci,Culinary
+259,Fred Ugarte,Mississippi,Sophmore,3000,Undeclared,Music
+260,Michelle Thorsen,Oklahoma,Junior,4500,Business,Astronomy
+261,Lawrence Thorsen,Oklahoma,Junior,10000,Comp Sci,Decorating
+262,Quinton Thorsen,Oregon,Junior,2000,Undeclared,Business
+263,Oren Thompson,District of Columbia,Freshman,8500,Biology,Middle East
+264,Wesley James,Georgia,Sophmore,3000,Education,Architecture
+265,Irene Smith,Nevada,Freshman,3500,Biology,Theology
+266,Caroll Davidson,Georgia,Freshman,6500,Accounting,Chemical Engineering
+267,Samuel Thorsen,North Dakota,Senior,4500,Materials Sciences,Undeclared
+268,Oren Hansen,Utah,Masters,500,Psychology,Biology
+269,Oren James,Washington,Sophmore,500,Math,Decorating
+270,Quinton Hudson,Utah,Freshman,10000,Math,Statistics
+271,George Ugarte,Foreign,Masters,10000,Theology,Recreation
+272,Jean Wallandar,Washington,Masters,6000,Biology,Russian
+273,Alica Blain,Wyoming,Masters,4500,Chemical Engineering,Physics
+274,Zeke Thompson,Vermont,Senior,1000,English,Comp Sci
+275,Quinton Hudson,Texas,Masters,500,Family Life,Poly Sci
+276,Jean Jackson,Wyoming,Ph. D,3500,Nursing,Middle East
+277,Oren Hudson,Georgia,Junior,8000,Physics,History
+278,Nora Ugarte,Kentucky,Ph. D,6000,Materials Sciences,Undeclared
+279,Ethan Hudson,Wyoming,Masters,500,Mechanical Engineering,Physics
+280,Kelly Jackson,Wyoming,Sophmore,3500,Art Design,History
+281,Ethan Allison,Idaho,Ph. D,3000,Comp Sci,Communications
+282,Fred James,New Mexico,Senior,9000,Accounting,Russian
+283,Samuel Smith,Nevada,Sophmore,8500,Art Design,Business
+284,Caroll Allison,Oregon,Ph. D,7500,Theology,Decorating
+285,Irene Goodson,California,Freshman,5000,Decorating,Decorating
+286,Nora Allison,Montana,Senior,0,Undeclared,Poly Sci
+287,Alica Hansen,Georgia,Ph. D,3500,Middle East,Music
+288,Bob Thorsen,Washington,Senior,9500,Recreation,Business
+289,Nora Hudson,Maine,Masters,9000,Theology,Russian
+290,Yolla Hansen,California,Ph. D,1000,Astronomy,Psychology
+291,Kelly Ugarte,New York,Senior,7000,Astronomy,Physics
+292,Oren Wallandar,Texas,Junior,7500,Middle East,Comp Sci
+293,Yolla Allison,Nevada,Masters,1000,Culinary,Recreation
+294,Harry Goodson,Montana,Masters,8000,Physics,English
+295,Fred Hansen,Delaware,Sophmore,3000,Poly Sci,Education
+296,Zeke Wallandar,North Dakota,Senior,4000,English,Chemical Engineering
+297,Thomas Ugarte,Florida,Masters,9000,Middle East,Recreation
+298,Irene Wallandar,California,Sophmore,7000,Business,Theology
+299,George Smith,California,Senior,4500,Astronomy,Culinary
+300,Oren Allison,Kentucky,Ph. D,4500,Middle East,Social Work
+301,Phillip Smith,Washington,Sophmore,2500,Statistics,Culinary
+302,Bob Hansen,Montana,Freshman,4000,Education,Family Life
+303,Zeke Goodson,California,Senior,10001,Decorating,Recreation
+304,Wesley James,Delaware,Freshman,5000,Comp Sci,Materials Sciences
+305,Harry Smith,New York,Masters,7000,Undeclared,Culinary
+306,Thomas Ugarte,New Mexico,Senior,7500,English,Biology
+307,Lawrence Evertson,Utah,Junior,4500,Library Science,Russian
+308,David Thompson,Utah,Masters,10002,Mechanical Engineering,History
+309,Alicia Evertson,Delaware,Junior,1500,Music,Education
+310,Bob Wallandar,North Dakota,Sophmore,3000,Biology,Education
+311,Irene Wallandar,Oklahoma,Junior,3000,Math,Russian
+312,Victoria Ugarte,Wyoming,Junior,4000,Middle East,Art Design
+313,Caroll Hudson,Texas,Ph. D,2000,Statistics,Statistics
+314,Caroll Wallandar,Montana,Freshman,9000,Statistics,Business
+315,Phillip Evertson,California,Senior,2500,Russian,Music
