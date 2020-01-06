@@ -1,0 +1,262 @@
+﻿Location,Hemisphere,Satellite,Source,Operator,Type,Coverage,Remarks,Launch Date,Rocket
+180,W,Intelsat-18,,Intelsat,Television and Radio Broadcasting,South Pacific,Replaced Intelsat 701,10/5/2011,Zenit
+177.1,W,Yamal 300K,CIS,Gazprom Space Systems,Television and Internet,Russia,,11/2/2012,Proton-M
+183,E,NSS-9,,SES,Intercontinental Voice  Video  and Internet,Pacific Ocean Region,,2/12/2009,Ariane 5
+176.8,W,Astra 3B,,,,,,,
+174.3,W,TDRS-10,,,,,,,
+171.1,W,TDRS-11,,,,,,,
+167.6,W,TDRS-5,,,,,,,
+148,W,EchoStar-1,US,Echostar/DISH Network,Direct Broadcasting,,Scheduled to move to 77°W soon,12/28/1995, Long March 2E
+139,W,Americom-8,US,SES Americom & AT&T Alascom,Television and radio broadcasting,24 C band (Canada  Caribbean  CONUS),Previously GE-8 for GE Americom; also known as Aurora III; replaced Satcom C-5 in March 2001,12/19/2000, Ariane 5G
+137,W,Americom-7,US,SES Americom,Television and radio broadcasting,Canada  CONUS  Mexico,Previously GE-7 for GE Americom,9/14/2000, Ariane 5G
+135,W,Americom-10,US,SES Americom,Television and Radio Broadcasting,Canada  Caribbean  CONUS  Mexico,,2/5/2004, Atlas II-AS
+134.7,W,GOES-15,US,National Environmental Satellite  Data  and Information Service (NESDIS)[5],Weather[5],North America and the Pacific Ocean basin[5],,3/4/2010, Delta IV
+133,W,Galaxy-15,,,,,,,
+131,W,AMC-11,US,SES Americom,Television and Radio Broadcasting,24 C Band transponders (Canada  Caribbean  CONUS  Mexico),Formerly GE-11 ; replaced Satcom C3[6],5/19/2005, Atlas II-AS
+129,W,Galaxy-12,US,Intelsat,Television/Radio Broadcasting,,replaced failed Galaxy 15,4/9/2003,[7] Ariane 5G
+128.8,W,Ciel-2,Canada,Ciel Satellite Group,Direct Broadcasting,,Leased to Echostar/Dish Network,12/10/2008, Proton-M
+128.6,W,AMC-1,,,,,,,
+127,W,Galaxy-13,US,Intelsat,,24 C Band transponders,Same satellite as Horizons-1,10/1/2003, Zenit-3SL
+127,W,Horizons-1,US,Japan Satellite Systems,,24 Ku-Band transponders,Same satellite as Galaxy-13,10/1/2003, Zenit-3SL
+125,W,Galaxy-14,US,Intelsat,,24 C Band transponders – North America,,8/13/2005, Soyuz-FG/Fregat
+124.9,W,AMC-21,,,,,,,
+123,W,Galaxy 18,US,Intelsat,Television and radio broadcasting,North America,Hybrid C/Ku-band satellite,5/21/2008, Zenit-3SL
+121,W,Galaxy-23,US,Intelsat,Direct Broadcasting,North America,Hybrid C/Ku/Ka-band satellite; C band payload referred to as Galaxy-23,8/7/2003, Zenit-3SL
+121,W,EchoStar-9,US,Echostar/DISH Network,Direct Broadcasting,North America,Hybrid C/Ku/Ka-band satellite; Ku/Ka-band payload referred to as EchoStar-9,8/7/2003, Zenit-3SL
+119.1,W,DirecTV-7S,US,DirecTV,Direct Broadcasting,54 Ku-band transponders,8 active transponders at this time,5/4/2004, Zenit-3SL
+118.8,W,EchoStar-7,US,Echostar/DISH Network,Direct Broadcasting,32 Ku-band transponders,21 active transponders at this time,2/21/2002, Atlas IIIB
+118.7,W,Anik F3,Canada,Telesat Canada,Direct Broadcasting,24 C band transponders  32 Ku-band transponders  2 Ka-band transponders,Ku-Band leased to Echostar/Dish Network,4/11/2007, Proton
+116.8,W,SatMex 5,Mexico,Satmex,,24 C band transponders  24 Ku-band transponders,,12/5/1998, Ariane 42L
+116.1,W,SIRIUS-FM-6,,,,,,,
+115.2,W,XM-Blues,US,,,,,10/30/2006, Zenit-3SL
+115,W,Solidaridad-2,Mexico,Satmex,,,,10/8/1994, Ariane 44L
+115.1,W,ViaSat-1,US,ViaSat,,,56 Ka-band Transponders,10/19/2011, Proton-M
+115,W,EUTELSAT 115 West A,,,,,,,
+114.8,W,MEXSAT-3,,,,,,,
+113,W,Satmex 6,Mexico,Satmex,,,,5/27/2006, Ariane 5 ECA
+113,W,EUTELSAT 113 West A,,,,,,,
+111.2,W,WILDBLUE-1,US,ViaSat,,,,,
+111.1,W,Anik F2,Canada,Telesat Canada,Direct Broadcasting,,Hybrid C/Ku/Ka-band satellite,7/17/2004, Ariane 5G
+111,W,TERRESTAR-1,,,,,,,
+110,W,EchoStar-11,US,Echostar/DISH Network,Direct Broadcasting,,,7/17/2008, Zenit-3SL
+110,W,EchoStar-10,US,Echostar/DISH Network,Direct Broadcasting,,,2/15/2006, Zenit-3SL
+110,W,DirecTV-5,US,DirecTV,Direct Broadcasting,,32 Ku-band transponders,5/7/2002, Proton
+108,W,GOES-3,,,,,,,
+107.3,W,Anik F1,Canada,Telesat Canada,Direct Broadcasting,,Hybrid C/Ku-band satellite; will be replaced by Anik F1R,11/21/2000, Ariane 44L
+107.3,W,Anik F1R,Canada,Telesat Canada,Direct Broadcasting  WAAS PRN #138,,Hybrid C/Ku-band satellite; will replace Anik F1,9/8/2005, Proton
+105,W,AMC-18,US,SES Americom,Direct Broadcasting,Canada  Caribbean  CONUS  Mexico,,12/8/2006, Ariane 5
+105,W,Americom-15,US,SES Americom,Direct Broadcasting,Alaska  CONUS  Hawaii,Hybrid Ku/Ka-band satellite; twin of Americom-16,10/15/2004, Proton-M
+104.6,W,GOES-14,,,,,,,
+103,W,Americom-1,US,SES Americom,,Canada  Caribbean  CONUS  Mexico,Hybrid C/Ku-band satellite,9/8/1996, Atlas II-A
+102.9,W,SPACEWAY-1,US,DirecTV,Direct Broadcasting,,,4/26/2005, Zenit-3SL
+102.8,W,DIRECTV-10,,,,,,,
+102.8,W,DIRECTV-12,,,,,,,
+101.3,W,SkyTerra-1,US,Ligado Networks,Telecommunications,US,,11/14/2010, ILS Proton-M
+101.2,W,DirecTV-4S,US,DirecTV,Direct Broadcasting,,48 Ku-band transponders,11/27/2001, Ariane 44LP
+101.1,W,DirecTV-9S,US,DirecTV,Direct Broadcasting,,,10/13/2006, Ariane 5 ECA
+101,W,AMC-4,US,SES Americom,,Canada  Caribbean  Central America  CONUS  Mexico,Hybrid C/Ku-band satellite,11/13/1999, Ariane 44LP
+100.8,W,DirecTV-8,US,DirecTV,Direct Broadcasting,,Hybrid Ku/Ka-band satellite,5/22/2005, Proton
+99.2,W,DIRECTV-14,,,,,,,
+99.2,W,DIRECTV-11,,,,,,,
+99.1,W,SPACEWAY-2,US,,,,,11/16/2005, Ariane 5 ECA
+97,W,Galaxy-16,,Intelsat,,,,6/18/2006, Zenit-3SL
+98,W,Inmarsat-4 F3[8],UK,Inmarsat,Maritime and Aviation Communications,Canada  Caribbean  CONUS  Mexico,,3/11/2005, Atlas V 431
+97,W,Galaxy-19,US,Intelsat,Television and Radio Broadcasting,24 C- and 28 Ku-band transponders (North America),,9/24/2008, Zenit-3SL
+96,W,SIRIUS-FM-5,,,,,,,
+95.2,W,DIRECTV-15,,,,,,,
+95,W,Galaxy 3C,US,,,,,6/15/2002, Zenit-3SL
+95,W,INTELSAT-30,,,,,,,
+93,W,Galaxy-26,US,,,,,2/15/1999, Proton-K
+94.9,W,SPACEWAY-3,,,,,,,
+93.1,W,GALAXY-25,,,,,,,
+91.1,W,Nimiq 1,Canada,Telesat Canada,Direct Broadcasting,,32 Ku-band transponders,5/20/1999, Proton
+91,W,Galaxy 17,US,Intelsat,Television and radio broadcasting,North America,Hybrid C/Ku-band satellite,5/4/2007, Ariane 5 ECA
+89,W,Galaxy-28,,Intelsat,,The Americas,Hybrid C/Ku/Ka-band satellite; launched as Telstar 8,6/23/2005, Zenit-3SL
+87.2,W,TKSAT-1,,,,,,,
+87,W,AMC 3,US,SES Americom,,Canada  Caribbean  CONUS  Mexico,Hybrid C/Ku-band satellite,9/4/1997, Atlas II-A
+85.2,W,XM-5,,,,,,,
+85.1,W,XM-Rhythm,US,XM Satellite Radio Holdings,Radio Broadcasting,CONUS,,2/28/2005, Zenit-3SL
+85,W,Americom-2,US,SES Americom,Direct Broadcasting,Canada  CONUS  Mexico,,1/30/1997, Ariane 44L
+85,W,Americom-16,US,SES Americom,Direct Broadcasting,Alaska  CONUS  Hawaii,Hybrid Ku/Ka-band satellite; twin of Americom-15,12/17/2004, Atlas V (521)
+84,W,Brasilsat B3,Brazil,,,,,2/4/1998, Ariane 44LP
+84,W,Brasilsat B4,,,,,,,
+83.8,W,HISPASAT-1C,,,,,,,
+83,W,Americom-9,US,SES Americom,Direct Broadcasting,Canada  Caribbean  Central America  CONUS  Mexico,Hybrid C/Ku-band satellite,6/7/2003, Proton
+82,W,Nimiq 2,Canada,Telesat Canada,Direct Broadcasting,,Hybrid Ku/Ka-band satellite,12/29/2002, Proton
+82,W,Nimiq 3,,Telesat Canada,Direct Broadcasting,,Previously DirecTV-3 for DirecTV,6/9/1995, Ariane 42P
+82,W,Nimiq-4,,Telesat Canada,Direct Broadcasting,,,9/19/2008, Proton-M
+81,W,ARSAT-2,Argentina,ARSAT,Data  Internet and TV broadcasting.,Ku Band: North America and South America except Brazil  C Band: Americas,,9/30/2015, Ariane 5ECA
+80.9,W,SBS-6,US,Intelsat,Television and Radio Broadcasting,,Beyond expected end of life. Serves Argentina now,10/12/1990, Ariane 44L
+80.8,W,AMC-2,,,,,,,
+79,W,Americom-5,US,SES Americom,,Canada  CONUS  Mexico,,10/28/1998, Ariane 44L
+79,W,Satcom C3,US,,,,,9/10/1992, Ariane 44LP
+78.8,W,SKY MEXICO-1,,,,,,,
+78,W,VENESAT-1,,,,,,,
+77,W,EchoStar-4,US,Echostar/DISH Network,Direct Broadcasting,,Retired,5/8/1998, Proton
+77,W,EchoStar-8,US,Echostar/DISH Network,Direct Broadcasting,,Deorbited,8/21/2002, Proton
+77.1,W,ECHOSTAR-1,,,,,,,
+77,W,QUETZSAT-1,,,,,,,
+76.9,W,ECHOSTAR-8,,,,,,,
+76.8,W,Galaxy 4R,US,,,,Inclined orbit,4/19/2000, Ariane 42L
+76.2,W,INTELSAT-16,,,,,,,
+76.2,W,GOES-13,,,,,,,
+75,W,Brasilsat B1,Brazil,,,,,8/10/1994, Ariane 44LP
+74.9,W,Galaxy-9,US,,,,spare,5/24/1996, Delta II (7925)
+74,W,Horizons-2,US,Intelsat JSAT,Television and Radio Broadcasting,CONUS Canada Caribbean,20 Ku Xpndrs,12/21/2007, Ariane 5GS
+72.7,W,EchoStar-6,US,Echostar/DISH Network,Direct Broadcasting,,,7/14/2000, Atlas II-AS
+72.5,W,Directv-1R,US,,,,,10/10/1999, Zenit-3SL
+72,W,AMC-6,US,SES Americom,,CONUS  Canada  Mexico  Caribbean  Central America,Hybrid C/Ku-band satellite; a portion of the Ku-band payload is dedicated to South America,10/22/2000, Proton-M
+71.8,W,ARSAT-1,Argentina,,Direct Broadcasting,Argentina  Chile  Uruguay  Paraguay,First geostationary satellite built in Latin America,10/16/2014, Ariane 5ECA
+71,W,Nahuel 1A,Argentina,,,,,1/30/1997, Ariane 44L
+70,W,STAR ONE C2,,,,,,,
+69.9,W,STAR ONE C4,,,,,,,
+67,W,AMC-4,,,,,,,
+67,W,AMC-3,,,,,,,
+70,W,Brasilsat B4,Brazil,,,,,8/17/2000, Ariane 44LP
+65,W,Brasilsat B2,Brazil,,,,,3/28/1995, Ariane 44LP+
+65,W,STAR ONE C1,,,,,,,
+63,W,Estrela do Sul 1,Brazil,,,,,1/11/2004, Zenit-3SL
+63,W,TELSTAR-14R,,,,,,,
+62.8,W,ABS-1A,,,,,,,
+62.2,W,TDRS-3,,,,,,,
+61.5,W,ECHOSTAR-16,,,,,,,
+61.3,W,EchoStar-12,US,,,,Formerly Rainbow-1  purchased from VOOM,7/17/2003, Atlas V (521)
+61.8,W,EchoStar-3,US,Echostar/DISH Network,Direct Broadcasting,,,10/5/1997, Atlas II-AS
+61,W,Hispasat Amazonas,Spain,,,,,8/4/2004, Proton-M
+58,W,Intelsat-9,US,,,28 July 2000  Zenit-3SL,formerly PAS-9,,
+55.5,W,Intelsat-805,,Intelsat,,,,6/18/1998, Atlas II-AS
+54,W,Inmarsat-3 F4,UK,Inmarsat,Maritime and Aviation Communications,Atlantic Ocean Region,,6/3/1997, Arianne 44L
+53,W,Intelsat-707,,Intelsat,,,,3/14/1996, Ariane 4
+50,W,Intelsat-705,,Intelsat,,,,3/22/1995, Atlas II-AS
+45,W,Intelsat 14,US,,,,formerly PAS-1R  and IS-1R,11/16/2000, Ariane 5G
+43.1,W,Intelsat-3R,US,,,,formerly PAS-3R,1/12/1996, Ariane 44L
+43,W,Intelsat-6B,,,,,formerly PAS-6B,12/22/1998, Ariane 42L
+40.5,W,NSS-806,Netherlands,,,,,2/28/1998, Atlas II-AS
+37.5,W,NSS-10,,,,,,2/3/2005, Proton
+37.5,W,Telstar-11N,US,Telstar,Telecommunications  Video  Data,Africa  Europe  Atlantic Ocean  North and Central America,39 high-power Ku-band transponders,2/26/2009,
+36,W,Hispasat AG1,,Hispasat,,,,1/28/2017,
+34.5,W,Intelsat-903,,Intelsat,,,,3/30/2002, Proton-K
+31.5,W,Intelsat-801,,Intelsat,,,,3/1/1997, Ariane 44P
+30,W,Hispasat-1C,Spain,,,,,2/3/2000, Atlas II-AS
+30,W,Hispasat-1D,Spain,,,,,9/18/2002, Atlas II-AS
+27.5,W,Intelsat-907,,Intelsat,,,,2/15/2003, Ariane 44L
+24.5,W,Intelsat-905,,Intelsat,,,,6/5/2002, Ariane 44L
+24,W,Cosmos 2379,Russia,,,,Inclined orbit,,
+22,W,NSS-7,Netherlands,,,,,4/16/2002, Ariane 44L
+20,W,Intelsat-603,,Intelsat,,,Inclined orbit,3/14/1990, Commercial Titan III
+18,W,Intelsat-901,,Intelsat,,,,6/9/2001, Ariane 44L
+15.5,W,Inmarsat 3 F2,UK,Inmarsat,EGNOS PRN #120,,,9/6/1996, Proton-K
+15,W,Telstar 12,US,,,,,10/19/1999, Ariane 44LP
+14,W,Gorizont 32,Russia,,,,Inclined orbit,,
+14,W,Express-A4,Russia,,,,,,
+12.5,W,Eutelsat 12 West A,Europe,Eutelsat,,,formerly Atlantic Bird 1,8/28/2002, Ariane 5G
+11,W,Express-A3,Russia,,,,,6/24/2000, Proton-K
+8,W,Eutelsat 8 West A,Europe,Eutelsat,,,formerly Atlantic Bird 2,9/25/2001, Ariane 44P
+8,W,Telecom 2D,France,,,,Inclined orbit,8/8/1996, Ariane 44L
+7,W,Nilesat 101,Egypt,,,,,4/28/1998, Ariane 44P
+7,W,Nilesat 102,Egypt,,,,,8/17/2000, Ariane 44LP
+7,W,Nilesat 103,Egypt,,,,,2/27/1998, Ariane 42P
+7,W,Nilesat 201,Egypt,,,,,8/4/2010, Ariane 5
+7,W,Eutelsat 7 West A,Europe,Eutelsat,,,formerly Atlantic Bird 7,9/24/2011,
+5,W,Eutelsat 5 West A,Europe,Eutelsat,,,formerly Atlantic Bird 3,7/5/2002, Ariane 5
+4,W,AMOS 1,Israel,,,,,5/16/1996, Ariane 44L
+4,W,AMOS 2,Israel,,,,,12/27/2003, Soyuz-FG/Fregat
+3.4,W,Meteosat 8,,,,,,8/28/2002, Ariane 5G
+1,W,Intelsat 10-02,,Intelsat,,,,6/16/2004, Proton-M
+0.8,W,Thor 2,Norway,,,,,5/20/1997, Delta II
+0.8,W,Thor 3,Norway,,,,,6/10/1998, Delta II (7925-9.5)
+0.5,E,Meteosat 7,Europe,ESA,Weather satellite,,Inclined orbit,9/2/1997, Ariane 44LP
+1.9,E,BulgariaSat-1[10][circular reference],Bulgaria,Bulgaria Sat,Communications,52 Ku band covering Balkans,,6/23/2017, Falcon 9 FT
+3,E,Telecom 2A,Europe,,,,,12/16/1991, Ariane 44L
+4,E,Eurobird 4,Europe,Eutelsat,,2 September 1997  Ariane 44LP,,,
+4.8,E,Sirius 4,Sweden,SES Sirius,Comsat,52 Ku band covering Europe,,11/17/2007, Proton M
+4.8,E,Astra 1C,Luxembourg,,,,0.9° inclined orbit,5/12/1993, Ariane 42L
+5,E,Sirius 3,Sweden,,,,,10/5/1998, Ariane 44L
+5.2,E,Astra 1A,Luxembourg,,,,,12/11/1988, Ariane 44LP
+6,E,Skynet 4F,United Kingdom,Ministry of Defence,Military communications,,Inclined orbit,2/7/2001, Ariane 44L
+7,E,Eutelsat W3A,Europe,Eutelsat,,,,3/15/2004, Proton-M
+9,E,Eurobird 9,Europe,Eutelsat,,,formerly Hot Bird 2,11/21/1996, Atlas II-A
+9.5,E,Meteosat 6,Europe,ESA,Weather satellite,,Inclined orbit,11/20/1993, Ariane 44LP
+10,E,Eutelsat W1,Europe,Eutelsat,,,,9/6/2000, Ariane 44P
+12.5,E,Raduga 29,Russia,,,,Inclined orbit,,
+13,E,Hot Bird 6,Europe,Eutelsat,,,,8/21/2002, Atlas V-401
+13,E,Hot Bird 7A,Europe,Eutelsat,,,,3/11/2006, Ariane 5 ECA
+13,E,Hot Bird 8,Europe,Eutelsat,,,,8/4/2006, Proton
+16,E,Eutelsat W2,Europe,Eutelsat,,,,10/5/1998, Ariane 44L
+19.2,E,Astra 1F,Luxembourg,,,,,4/8/1996, Proton-K
+19.2,E,Astra 1G,Luxembourg,,,,,11/12/1997, Proton-K
+19.2,E,Astra 1H,Luxembourg,,,,,6/18/1999, Proton-K
+19.2,E,Astra 1KR,Luxembourg,,,,,4/20/2006, Atlas V (411)
+19.2,E,Astra 1L,Luxembourg,,,,,5/4/2007, Ariane 5 ECA
+20,E,Arabsat 2A,,,,,Inclined orbit,7/9/1996, Ariane 44L
+21,E,AfriStar,US,,,,,10/28/1998, Ariane 44L
+21.5,E,Eutelsat W6,Europe,Eutelsat,,,,,
+21.5,E,Artemis,Europe,ESA,EGNOS PRN #124,,Inclined orbit.,7/12/2001, Ariane 5G
+23.5,E,Astra 3A,Luxembourg,,,,,3/29/2002, Ariane 44L
+25,E,Inmarsat 3 F5,UK,Inmarsat,EGNOS PRN #126,,,2/4/1998, Ariane 44LP
+25,E,Inmarsat-4 F2,UK,Inmarsat,Maritime and Aviation Communications,EAME,,6/11/2005, Zenit 3 SL
+25,E,Inmarsat-4A F4,UK,Inmarsat,Maritime and Aviation Communications,EAME,,7/25/2013, Arianne 5ECA
+25.5,E,Eurobird 2,Europe,Eutelsat,,,,,
+25.8,E,Badr 2,,,,,,,
+26,E,Badr 3,,,,,,,
+26.2,E,Badr C,,,,,,,
+28.2,E,Astra 2A,Luxembourg,,,,,,
+28.2,E,Astra 2B,Luxembourg,,,,,9/14/2000, Ariane 5G
+28.2,E,Astra 2C,Luxembourg,,,,,6/16/2001, Proton-K
+28.2,E,Astra 2D,Luxembourg,,,,,12/20/2000, Ariane 5G
+28.5,E,Eurobird 1,Europe,Eutelsat,,,,3/8/2001, Ariane 5G
+30.5,E,Arabsat 2B,Arabsat,,,,,11/13/1996, Ariane 44L
+31.3,E,Astra 1D,Luxembourg,SES,Comsat,24 Ku band,,11/1/1994, Ariane 4
+31.5,E,Astra 1E,Luxembourg,SES,,,,10/19/1995, Ariane 42L
+31.5,E,Sirius 2,Sweden,,,,,,
+33,E,Eurobird 3,Europe,Eutelsat,,,,9/27/2003, Ariane 5G
+33,E,Intelsat 802,ITSO,,,,,6/25/1997, Ariane 44P
+36,E,Eutelsat Sesat 1,Europe,Eutelsat,,,,4/17/2000, Proton-K
+36,E,Eutelsat W4,Europe,Eutelsat,,,,5/24/2000, Atlas IIIA
+38,E,Paksat-1R,Pakistan,Space and Upper Atmosphere Research Commission,,,,8/11/2011, Long March 3B
+39,E,Hellas Sat 2,Greece,,,,,5/13/2003, Atlas V (401)
+40,E,Express AM1,Russia,Russian Satellite Communications Company (Intersputnik),,,,10/29/2004, Proton-M
+42,E,Turksat 1C,Turkey,Turksat,Comsat,16 Ku band,,7/9/1996, Ariane 44L
+42,E,Turksat 2A,Turkey,Turksat,Comsat,34 Ku band,,1/10/2001, Ariane 44P
+45,E,Intelsat 12,Europe,ESA,,,,,
+46,E,Azerspace-1/ Africasat-1a,Azerbaijan,Azercosmos[12],Broadcast and Telecommunications Satellite,C-band: Africa  Central Asia  the Middle East and Europe  Ku-band: Central Asia and Europe,,2/7/2013, Ariane 5 ECA
+49,E,Yamal 202,Russia,Gazprom Space Systems (subsidiary of Gazprom),,,,11/24/2003, Proton-K
+53,E,Express AM22,Russia,Russian Satellite Communications Company (Intersputnik)/Eutelsat,,,,12/28/2003, Proton-K
+56,E,Bonum 1,Russia,,,,,11/22/1998, Delta II (7925-9.5)
+62.6,E,Inmarsat-5 F1,UK,Inmarsat,Maritime and Aviation Communications,EAME,,12/8/2013, Proton M/Briz-M
+64.5,E,Inmarsat-3 F1,UK,Inmarsat,Maritime and Aviation Communications,Indian Ocean Region,,4/3/1996, Atlas IIA|
+66,W,Galaxy-27,US,Intelsat,Television broadcasting & Satellite Internet Access,,Inclined  collocated,9/25/1999, Ariane 44LP
+66,W,Intelsat 17,,Intelsat,,,Replaces Intelsat 702,11/26/2010,
+68.5,E,Intelsat 7,Europe,ESA,,,,9/16/1998, Ariane 44LP
+68.5,E,Intelsat 10,US,,,,,5/15/2001, Proton-K
+74,E,INSAT-3C,India,ISRO,,,,1/23/2002, Ariane 42L
+74,E,KALPANA-1,India,ISRO,Weather satellite,N/A,Originally MetSat-1. Renamed in 2003 in memory of Kalpana Chawla  an astronaut killed in the Columbia accident,9/12/2002, PSLV
+74,E,EDUSAT,India,ISRO,Educational communication satellite,6 Ka band and 6 C-band transmitters  covering India,Also known as GSAT-3,9/20/2004, GSLV
+74,E,INSAT-4CR,India,ISRO,DTH  VPT and DSNG communication,12 Ku band covering India,,9/2/2007, GSLV
+74,E,GSAT-18,India,ISRO,Comsat,24 C-band transponders  12 upper extended C-band transponders  12 Ku-band transponders  2 Ku-Beacon transmitters[14],Launched with Australian NBN-Co 1B,10/5/2015, Ariane 5 ECA[15]
+75,E,ABS 1,,Lockheed Martin Intersputnik,,,,9/26/1999, Proton-K
+79,E,Esafi 1,,Tongasat,Comsat,,Originally Comstar-4 for LMGT. Ranamed Parallax-1 in 2001 and operated by SSC Parallax. Purchased by Tongasat and renamed Esafi-1 in 2002,2/21/1981, Atlas-Centaur
+80,E,Express AM2,Russia,Russian Satellite Communications Company (Intersputnik),,,,3/29/2005, Proton-K
+90,E,Yamal 101,Russia,Gazprom Space Systems (subsidiary of Gazprom),,,,9/6/1999, Proton-K
+90,E,Yamal 201,Russia,Gazprom Space Systems (subsidiary of Gazprom),,,,11/24/2003, Proton-K
+91.5,E,MEASAT-3,Malaysia,MEASAT Satellite Systems,Broadcast and Telecommunications,C-band: Asia  Australia  Middle East  South Eastern Europe and Eastern Africa,,12/11/2006, Proton-M
+91.5,E,MEASAT-3a,Malaysia,MEASAT Satellite Systems,Broadcast and Telecommunications,C-band: Asia  Australia  Middle East and Eastern Africa,,6/9/2020, Land Launch Zenit - 3SLB
+92.2,,ChinaSat 9,China,China Satcom,Broadcast and Telecommunications,China,,6/9/2008, Long March 3B
+96,E,Express AM33,Russia,Russian Satellite Communications Company (Intersputnik),,,,1/28/2008, Arianespace
+105,E,AsiaStar,US,CMMB Vision (formerly 1worldspace),Television  radio  data,Southeast and South Asia,,3/21/2000, Proton-M
+119.1,E,Bangabandhu-1,Bangladesh,Bangladesh Communication Satellite Company Limited,Communication and Broadcasting,Southeast and South Asia,,5/11/2018, Falcon 9 Block 5[16]
+119.5,E,MEASAT-5,Malaysia,MEASAT Satellite Systems,Comsat,Malaysia,,8/5/2020, Ariane 5G
+140,E,NBN-Co 1A,Australia,NBN Co,Comsat,101 Ka spot beams covering mainland Australia and some offshore territories[17],Launched with Argentine ARSAT-2[15],9/30/2015, Ariane 5 ECA[15]
+140,E,Express AM3,Russia,Russian Satellite Communications Company (Intersputnik),,,,6/24/2005, Proton-K
+145,E,NBN-Co 1B,Australia,NBN Co,Comsat,101 Ka spot beams covering mainland Australia and some offshore territories[17],Launched with Indian GSAT-18,10/5/2015, Ariane 5 ECA[15]
+146,E,Agila 2,Philippines,Space Systems/Loral,Comsat  TV and Radio Broadcasting,Southeast Asia,,8/19/1997, Long March 3B
+148,E,MEASAT-2,Malaysia,MEASAT Satellite Systems,Broadcast & Telecommunications,C-band: Asia Pacific and Hawaii,inclined orbit,11/13/1996, Ariane 44L
+152,E,Optus B3,Australia,Optus/Commonwealth Bank,Comsat,,,8/27/1994, Long March 2E
+152,E,Optus D2,Australia,Optus,Comsat,,,10/5/2007, Ariane 5GS
+166,E,Intelsat 8,US,,,,,11/4/1998, Proton-K
+178,E,Inmarsat-3 F3,UK,Inmarsat,Maritime and Aviation Communications,Pacific Ocean Region,,12/18/1996, Atlas IIA
+65,W,Star One C1,Brazil,Star One,Broadcast comsat,28 C-band,,11/14/2007, Ariane 5 ECA
+53,E,Skynet 5B,UK,Ministry of Defence/Paradigm,Military comsat,,,11/14/2007, Ariane 5 ECA
+5,E,Sirius 4,Sweden,SES Sirius,Comsat,52 Ku band covering Europe,,11/17/2007, Proton-M
+93.1,W,Galaxy-25,US,,,,,5/24/1997, Proton-K
+105,W,Galaxy-15,US,Intelsat,Television/Radio Broadcasting  WAAS PRN #135,,133.0°W,10/13/2005, Ariane 5G

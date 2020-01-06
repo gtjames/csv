@@ -1,4 +1,4 @@
-﻿Artist,Album,Released,Genre,Claimed Sales
+﻿Artist,Title,Released,Genre,Sales
 The Beatles,1,2000,Rock,23.4
 Adele,21,2011,Soul,25.3
 Adele,25,2015,Soft rock,22
@@ -32,7 +32,7 @@ ABBA,Gold: Greatest Hits,1992,Pop,23
 Queen,Greatest Hits,1981,Pop,25
 Elton John,Greatest Hits,1974,Pop rock,24
 Ace of Base,Happy Nation/The Sign,1993,Pop rock,23
-Michael Jackson,"HIStory: Past, Present and Future, Book I",1995,Pop punk,20
+Michael Jackson,HIStory: Past  Present and Future  Book I,1995,Pop punk,20
 Eagles,Hotel California,1976,Pop,31.5
 Linkin Park,Hybrid Theory,2000,Pop,27
 Def Leppard,Hysteria,1987,Pop,20
