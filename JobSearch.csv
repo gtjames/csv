@@ -4,7 +4,7 @@ entry,company,date,week,location,Position,Title
 3,Lanyon,10-Oct,1,Dallas,Director  Software Development | (US-TX-Dallas),Director
 4,PennyMac,10-Oct,1,Fort Worth,First Vice President  Application Development,Vice Pres
 5,CoreLogic,10-Oct,1,WestLake,Dir  Software Engineering,Director
-6,RealPage  Inc. ,Oct-1+62,2,,Vice President  Information Systems,Vice Pres
+6,RealPage  Inc. ,Oct-1,2,,Vice President  Information Systems,Vice Pres
 7,Omni Hotels,12-Oct,2,,ETL and Integration Developer,Developer
 8,Broadridge,13-Oct,2,,Director of Development- Streamweaver.,Director
 9,CyberCoders,13-Oct,2,Irving,VP of Software Engineering - .NET  Management  .NET Stack,Vice Pres
