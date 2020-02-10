@@ -2,7 +2,7 @@ Pi-1 Billion.txt
 Tau-1 Billion.txt
 Pi-10 Million.txt
 Tau-10 Million.txt
-.vs
+.vs/*
 .vs/csv/v16/.suo
 .vs/slnx.sqlite
 .vs/VSWorkspaceState.json
