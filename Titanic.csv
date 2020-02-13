@@ -275,7 +275,7 @@ BRADSHAW/ Mr John Albert Perkin ,42,Victualling,Crew,,F
 BRADY/ Mr John Bertram ,41,1st Class,Passenger,,F
 BRAF/ Miss Elin Ester Maria ,20,3rd Class,Passenger,,F
 BRAILEY/ Mr William Theodore Ronald ,24,2nd Class,Passenger,Musician,F
-BRAND/ Mr ,,1st Class,Passenger,Cross Channel Passenger,F
+BRAND/ Mr ,,1st Class,Passenger,Cross Channel Passenger,T
 BRANDEIS/ Mr Emil Franklin ,48,1st Class,Passenger,,F
 BRAUND/ Mr Lewis Richard ,29,3rd Class,Passenger,,F
 BRAUND/ Mr Owen Harris ,22,3rd Class,Passenger,,F
@@ -311,7 +311,7 @@ BROWN/ Mr Walter James ,41,Victualling,Crew,,F
 BROWN/ Mrs Caroline Lane ,59,1st Class,Passenger,,T
 BROWN/ Mrs Elizabeth Catherine ,39,2nd Class,Passenger,,T
 BROWN/ Mrs Margaret ,44,1st Class,Passenger,,T
-BROWNE/ Rev. Francis M. ,31,1st Class,Passenger,Cross Channel Passenger,F
+BROWNE/ Rev. Francis M. ,31,1st Class,Passenger,Cross Channel Passenger,T
 BRYAN/ Mr John ,22,Engineering,Crew,(Delivery trip only),F
 BRYHL/ Miss Dagmar Jenny Ingeborg ,20,2nd Class,Passenger,,T
 BRYHL/ Mr Kurt Arnold Gottfrid ,25,2nd Class,Passenger,,F
@@ -468,7 +468,7 @@ COLLETT/ Mr Sidney Clarence Stuart ,25,2nd Class,Passenger,,T
 COLLEY/ Mr Edward Pomeroy ,37,1st Class,Passenger,,F
 COLLINS/ Mr John ,17,Victualling,Crew,,T
 COLLINS/ Mr John ,38,Engineering,Crew,,T
-COLLIS/ Mr ,,1st Class,Passenger,Cross Channel Passenger,F
+COLLIS/ Mr ,,1st Class,Passenger,Cross Channel Passenger,T
 COLLYER/ Miss Marjorie Lottie ,8,2nd Class,Passenger,,T
 COLLYER/ Mr Harvey ,31,2nd Class,Passenger,,F
 COLLYER/ Mrs Charlotte Caroline ,30,2nd Class,Passenger,,T
@@ -568,12 +568,12 @@ DASHWOOD/ Mr William George ,18,Victualling,Crew,,F
 DAVIDSON/ Mr Thornton ,31,1st Class,Passenger,,F
 DAVIDSON/ Mrs Orian ,27,1st Class,Passenger,,T
 DAVIES/ Master John Morgan jr ,8,2nd Class,Passenger,,T
-DAVIES/ Miss K. ,,2nd Class,Passenger,Cross Channel Passenger,F
+DAVIES/ Miss K. ,,2nd Class,Passenger,Cross Channel Passenger,T
 DAVIES/ Mr Alfred James ,24,3rd Class,Passenger,,F
 DAVIES/ Mr Charles Henry ,19,2nd Class,Passenger,,F
 DAVIES/ Mr Evan Lewis ,22,3rd Class,Passenger,,F
 DAVIES/ Mr Gordon Raleigh ,32,Victualling,Crew,,F
-DAVIES/ Mr H. V. ,,2nd Class,Passenger,Cross Channel Passenger,F
+DAVIES/ Mr H. V. ,,2nd Class,Passenger,Cross Channel Passenger,T
 DAVIES/ Mr John ,22,3rd Class,Passenger,,F
 DAVIES/ Mr Joseph ,17,3rd Class,Passenger,,F
 DAVIES/ Mr Robert J. ,26,Victualling,Crew,,F
@@ -587,7 +587,7 @@ DAVISON/ Mrs Mary Elizabeth ,34,3rd Class,Passenger,,T
 DAWES/ Mr W. W. ,38,Victualling,Crew,Discharged Crew,F
 DAWKINS/ Mr P. ,24,Victualling,Crew,Failed to Join Ship,F
 DAWSON/ Mr Joseph ,23,Engineering,Crew,,F
-DE GRASSE/ Mr J. ,,2nd Class,Passenger,Cross Channel Passenger,F
+DE GRASSE/ Mr J. ,,2nd Class,Passenger,Cross Channel Passenger,T
 DE MARSICO/ Sig. Govanni ,20,Restaurant Staff,Crew,,F
 DE MESSEMAEKER/ Mr Guillaume Joseph ,36,3rd Class,Passenger,,T
 DE MESSEMAEKER/ Mrs Anna ,36,3rd Class,Passenger,,T
@@ -672,8 +672,8 @@ DUQUEMIN/ Mr Joseph Pierre ,24,3rd Class,Passenger,,T
 DURÁN I MONÉ/ Sra. Asuncion ,27,2nd Class,Passenger,,T
 DURÁN I MONÉ/ Sra. Florentina ,30,2nd Class,Passenger,,T
 DWAN/ Mr Frank ,65,3rd Class,Passenger,,F
-DYER EDWARDES/ Mr Thomas ,65,1st Class,Passenger,Cross Channel Passenger,F
-DYER EDWARDES/ Mrs Clementina Georgina Lucy Drummond ,53,1st Class,Passenger,Cross Channel Passenger,F
+DYER EDWARDES/ Mr Thomas ,65,1st Class,Passenger,Cross Channel Passenger,T
+DYER EDWARDES/ Mrs Clementina Georgina Lucy Drummond ,53,1st Class,Passenger,Cross Channel Passenger,T
 DYER/ Mr Henry Ryland ,24,Engineering,Crew,,F
 DYER/ Mr William Henry ,33,Victualling,Crew,,F
 DYKER/ Mr Adolf Fredrik ,23,3rd Class,Passenger,,F
@@ -708,7 +708,7 @@ ESTANISLAU/ Mr Manuel Gonçalves ,37,3rd Class,Passenger,,F
 ETCHES/ Mr Henry Samuel ,43,Victualling,Crew,,T
 ETTLINGER/ Mr Peter ,31,Victualling,Crew,Discharged Crew,F
 EUSTIS/ Miss Elizabeth Mussey ,54,1st Class,Passenger,,T
-EVANS/ Miss ,,2nd Class,Passenger,Cross Channel Passenger,F
+EVANS/ Miss ,,2nd Class,Passenger,Cross Channel Passenger,T
 EVANS/ Miss Edith Corse ,36,1st Class,Passenger,,F
 EVANS/ Mr Alfred Frank ,25,Deck,Crew,,T
 EVANS/ Mr Frank Oliver ,27,Deck,Crew,,T
@@ -749,7 +749,7 @@ FLEGENHEIM/ Mrs Antoinette ,48,1st Class,Passenger,,T
 FLEMING/ Miss Honor ,22,3rd Class,Passenger,,F
 FLEMING/ Miss Margaret ,42,1st Class,Passenger,Servant,T
 FLEMMING/ Mr William ,32,Engineering,Crew,(Delivery trip only),F
-FLETCHER/ Miss N. ,,1st Class,Passenger,Cross Channel Passenger,F
+FLETCHER/ Miss N. ,,1st Class,Passenger,Cross Channel Passenger,T
 FLETCHER/ Mr Percy William ,25,Victualling,Crew,,F
 FLETCHER/ Mr Robert ,38,Engineering,Crew,(Delivery trip only),F
 FLINN/ Mr Michael ,34,Engineering,Crew,(Delivery trip only),F
@@ -772,8 +772,8 @@ FORD/ Mr Thomas ,33,Engineering,Crew,,F
 FORD/ Mr William Neal Thomas ,14,3rd Class,Passenger,,F
 FORD/ Mrs Margaret Ann Watson ,54,3rd Class,Passenger,,F
 FOREMAN/ Mr Benjamin Laventall ,30,1st Class,Passenger,,F
-FORMAN/ Mr J. ,,1st Class,Passenger,Cross Channel Passenger,F
-FORMAN/ Mrs ,,1st Class,Passenger,Cross Channel Passenger,F
+FORMAN/ Mr J. ,,1st Class,Passenger,Cross Channel Passenger,T
+FORMAN/ Mrs ,,1st Class,Passenger,Cross Channel Passenger,T
 FORTUNE/ Miss Alice Elizabeth ,24,1st Class,Passenger,,T
 FORTUNE/ Miss Ethel Flora ,28,1st Class,Passenger,,T
 FORTUNE/ Miss Mabel Helen ,23,1st Class,Passenger,,T
@@ -1253,7 +1253,7 @@ KLASÉN/ Miss Gertrud Emilia ,1,3rd Class,Passenger,,F
 KLASÉN/ Mr Klas Albin ,18,3rd Class,Passenger,,F
 KLASÉN/ Mrs Hulda Kristina Eugenia ,36,3rd Class,Passenger,,F
 KLEIN/ Mr Herbert ,34,Victualling,Crew,,F
-KNEESE/ Miss ,,2nd Class,Passenger,Cross Channel Passenger,F
+KNEESE/ Miss ,,2nd Class,Passenger,Cross Channel Passenger,T
 KNIGHT/ Mr George ,46,Victualling,Crew,,T
 KNIGHT/ Mr Leonard George ,21,Victualling,Crew,,F
 KNIGHT/ Mr Robert ,42,2nd Class,Passenger,H&W Guarantee Group,F
@@ -1306,10 +1306,10 @@ LEINONEN/ Mr Antti Gustaf ,32,3rd Class,Passenger,,F
 LEITCH/ Miss Jessie Wills ,31,2nd Class,Passenger,,T
 LEMORE/ Mrs Amelia ,39,2nd Class,Passenger,,T
 LENNON/ Mr Denis ,20,3rd Class,Passenger,,F
-LENOX-CONYNGHAM/ Master Dennis Hugh ,10,1st Class,Passenger,Cross Channel Passenger,F
-LENOX-CONYNGHAM/ Miss Eileen ,11,1st Class,Passenger,Cross Channel Passenger,F
-LENOX-CONYNGHAM/ Miss Harriet Alice Katherine ,34,1st Class,Passenger,Cross Channel Passenger,F
-LENOX-CONYNGHAM/ Mrs Barbara Josephine ,44,1st Class,Passenger,Cross Channel Passenger,F
+LENOX-CONYNGHAM/ Master Dennis Hugh ,10,1st Class,Passenger,Cross Channel Passenger,T
+LENOX-CONYNGHAM/ Miss Eileen ,11,1st Class,Passenger,Cross Channel Passenger,T
+LENOX-CONYNGHAM/ Miss Harriet Alice Katherine ,34,1st Class,Passenger,Cross Channel Passenger,T
+LENOX-CONYNGHAM/ Mrs Barbara Josephine ,44,1st Class,Passenger,Cross Channel Passenger,T
 LEONARD/ Mr Matthew ,25,Victualling,Crew,,F
 LEROY/ Miss Berthe ,27,1st Class,Passenger,Servant,T
 LESTER/ Mr James ,41,3rd Class,Passenger,,F
@@ -1433,8 +1433,8 @@ MAXWELL/ Mr John ,29,Deck,Crew,,F
 MAXWELL/ Mr William ,39,Engineering,Crew,(Delivery trip only),F
 MAY/ Mr Arthur William ,22,Engineering,Crew,,F
 MAY/ Mr Arthur William ,59,Engineering,Crew,,F
-MAY/ Mr Richard W. ,,1st Class,Passenger,Cross Channel Passenger,F
-MAY/ Mr Stanley ,,1st Class,Passenger,Cross Channel Passenger,F
+MAY/ Mr Richard W. ,,1st Class,Passenger,Cross Channel Passenger,T
+MAY/ Mr Stanley ,,1st Class,Passenger,Cross Channel Passenger,T
 MAYBERY/ Mr Frank Hubert ,36,2nd Class,Passenger,,F
 MAYES/ Mr William ,29,Engineering,Crew,(Delivery trip only),F
 MAYNARD/ Mr Isaac Hiram ,31,Victualling,Crew,,T
@@ -1601,7 +1601,7 @@ MUBĀRIK/ Master Halīm ,4,3rd Class,Passenger,,T
 MUBĀRIK/ Master Jirjis ,7,3rd Class,Passenger,,T
 MUBĀRIK/ Mrs Amīnah ,25,3rd Class,Passenger,,T
 MUDD/ Mr Thomas Cupper ,16,2nd Class,Passenger,,F
-MULLEN/ ,,2nd Class,Passenger,Cross Channel Passenger,F
+MULLEN/ ,,2nd Class,Passenger,Cross Channel Passenger,T
 MÜLLER/ Mr Ludwig ,37,Victualling,Crew,,F
 MULLHOLLAND/ Mr Daniel ,48,Engineering,Crew,(Delivery trip only),F
 MULLHOLLAND/ Mr J. ,45,Engineering,Crew,(Delivery trip only),F
@@ -1653,7 +1653,7 @@ NICHOLLS/ Mr Sidney ,39,Victualling,Crew,,F
 NICHOLS/ Mr Albert William Stanley ,47,Deck,Crew,,F
 NICHOLS/ Mr Arthur ,45,Victualling,Crew,,F
 NICHOLS/ Mr Walter Henry ,35,Victualling,Crew,,T
-NICHOLS/ Mrs Emily ,48,1st Class,Passenger,Cross Channel Passenger,F
+NICHOLS/ Mrs Emily ,48,1st Class,Passenger,Cross Channel Passenger,T
 NICHOLSON/ Mr Arthur Ernest ,59,1st Class,Passenger,,F
 NIEMINEN/ Miss Manta Josefina ,29,3rd Class,Passenger,,F
 NIKLASSON/ Mr Samuel ,28,3rd Class,Passenger,,F
@@ -1664,8 +1664,8 @@ NĪQŪLA YĀRID/ Master Ilyās ,11,3rd Class,Passenger,,T
 NĪQŪLA YĀRID/ Miss Jamīlah ,14,3rd Class,Passenger,,T
 NISKANEN/ Mr Juho ,,3rd Class,Passenger,,T
 NIVEN/ Mr John Brown ,30,Engineering,Crew,,F
-NOEL/ Major Gerard Thomas ,55,1st Class,Passenger,Cross Channel Passenger,F
-NOEL/ Master William Henry Middleton ,13,1st Class,Passenger,Cross Channel Passenger,F
+NOEL/ Major Gerard Thomas ,55,1st Class,Passenger,Cross Channel Passenger,T
+NOEL/ Master William Henry Middleton ,13,1st Class,Passenger,Cross Channel Passenger,T
 NOFAL/ Mr Mansouer ,20,3rd Class,Passenger,,F
 NOLAN/ Mr Michael ,31,Engineering,Crew,(Delivery trip only),F
 NOON/ Mr John Thomas ,42,Engineering,Crew,,F
@@ -1695,9 +1695,9 @@ O'LEARY/ Miss Hanora ,16,3rd Class,Passenger,,T
 O'LOUGHLIN/ Dr William Francis Norman ,63,Deck,Crew,,F
 O'SULLIVAN/ Miss Bridget Mary ,21,3rd Class,Passenger,,F
 ÖDAHL/ Mr Nils Martin ,23,3rd Class,Passenger,,F
-ODELL/ Master Jack ,11,1st Class,Passenger,Cross Channel Passenger,F
-ODELL/ Miss Kate ,,1st Class,Passenger,Cross Channel Passenger,F
-ODELL/ Mrs Lily May ,,1st Class,Passenger,Cross Channel Passenger,F
+ODELL/ Master Jack ,11,1st Class,Passenger,Cross Channel Passenger,T
+ODELL/ Miss Kate ,,1st Class,Passenger,Cross Channel Passenger,T
+ODELL/ Mrs Lily May ,,1st Class,Passenger,Cross Channel Passenger,T
 ÖHMAN/ Miss Velin Matilda ,22,3rd Class,Passenger,,T
 OLIVA Y OCANA/ Doña Fermina ,39,1st Class,Passenger,Servant,T
 OLIVE/ Mr Charles ,31,Engineering,Crew,,F
@@ -1717,7 +1717,7 @@ OREŠKOVIĆ/ Miss Marija ,19,3rd Class,Passenger,,F
 OREŠKOVIĆ/ Mr Luka ,20,3rd Class,Passenger,,F
 ORPET/ Mr Walter Hayward ,31,Victualling,Crew,,F
 ORR/ Mr James ,39,Victualling,Crew,,F
-OSBORNE/ Miss D. ,,2nd Class,Passenger,Cross Channel Passenger,F
+OSBORNE/ Miss D. ,,2nd Class,Passenger,Cross Channel Passenger,T
 OSBORNE/ Mr William Edward ,33,Victualling,Crew,,F
 OSÉN/ Mr Olaf Elon ,16,3rd Class,Passenger,,F
 OSMAN/ Mr Frank ,27,Deck,Crew,,T
@@ -1882,7 +1882,7 @@ REEVES/ Mr Frederick Vernon Hilton ,20,Victualling,Crew,,F
 REID/ Mr James ,36,Engineering,Crew,(Delivery trip only),F
 REID/ Mr Robert Thomas ,31,Engineering,Crew,,F
 REKIC/ Mr Tido ,38,3rd Class,Passenger,,F
-REMESCH/ Miss ,,2nd Class,Passenger,Cross Channel Passenger,F
+REMESCH/ Miss ,,2nd Class,Passenger,Cross Channel Passenger,T
 RENOUF/ Mr Peter Henry ,33,2nd Class,Passenger,,F
 RENOUF/ Mrs Lillian ,30,2nd Class,Passenger,,T
 RENTOWL/ Mr Philip Charles Thomas ,26,Engineering,Crew,,F
@@ -2160,7 +2160,7 @@ STEEL/ Mr Robert Edward ,30,Engineering,Crew,Substitute Crew,F
 STENGEL/ Mr Charles Emil Henry ,54,1st Class,Passenger,,T
 STENGEL/ Mrs Annie May ,43,1st Class,Passenger,,T
 STEPHENSON/ Mrs Martha ,52,1st Class,Passenger,,T
-STEVENS/ Mr George ,,1st Class,Passenger,Cross Channel Passenger,F
+STEVENS/ Mr George ,,1st Class,Passenger,Cross Channel Passenger,T
 STEVENSON/ Mr Andrew ,28,Engineering,Crew,(Delivery trip only),F
 STEVENSON/ Mr James ,40,Engineering,Crew,(Delivery trip only),F
 STEVENSON/ Mr John ,49,Engineering,Crew,(Delivery trip only),F
@@ -2268,7 +2268,7 @@ TORFA/ Mr Assad ,20,3rd Class,Passenger,,F
 TÖRNQVIST/ Mr Johan Vilhelm Henrik ,26,3rd Class,Passenger,,T
 TOSHACK/ Mr James Adamson ,30,Victualling,Crew,,F
 TOTEVSKI/ Mr Hristo Danchev ,25,3rd Class,Passenger,,F
-TOVEY/ Miss ,,2nd Class,Passenger,Cross Channel Passenger,F
+TOVEY/ Miss ,,2nd Class,Passenger,Cross Channel Passenger,T
 TOZER/ Mr James ,32,Engineering,Crew,,F
 TRIGGS/ Mr Robert ,41,Engineering,Crew,,T
 TROUPIANSKY/ Mr Moses Aaron ,23,2nd Class,Passenger,,F
@@ -2452,7 +2452,7 @@ WOODY/ Mr Oscar Scott ,41,Victualling,Crew,Postal Clerk,F
 WOOLNER/ Mr Hugh ,45,1st Class,Passenger,,T
 WORMALD/ Mr Henry Frederick Charles ,45,Victualling,Crew,,F
 WORTHMAN/ Mr William Henry ,37,Engineering,Crew,,F
-WOTTON/ Mr Henry Swaffin ,54,1st Class,Passenger,Cross Channel Passenger,F
+WOTTON/ Mr Henry Swaffin ,54,1st Class,Passenger,Cross Channel Passenger,T
 WRAPSON/ Mr Frederick Bernard ,18,Victualling,Crew,,F
 WRIGHT/ Miss Marion ,26,2nd Class,Passenger,,T
 WRIGHT/ Mr Frederick ,24,Victualling,Crew,,F
