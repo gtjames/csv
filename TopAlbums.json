@@ -1,0 +1,523 @@
+{
+   "item": [
+      {
+         "Group": "ABBA",
+         "Album": "Gold: Greatest Hits",
+         "YearReleased": "1992",
+         "Genre": "Pop; disco",
+         "Sales": "30"
+      },
+      {
+         "Group": "AC/DC",
+         "Album": "Back in Black",
+         "YearReleased": "1980",
+         "Genre": "Hard rock",
+         "Sales": "50"
+      },
+      {
+         "Group": "Ace of Base",
+         "Album": "Happy Nation/The Sign",
+         "YearReleased": "1993",
+         "Genre": "Pop",
+         "Sales": "23"
+      },
+      {
+         "Group": "Adele",
+         "Album": "21",
+         "YearReleased": "2011",
+         "Genre": "Pop; soul",
+         "Sales": "31"
+      },
+      {
+         "Group": "Adele",
+         "Album": "25",
+         "YearReleased": "2015",
+         "Genre": "Soul; pop; R&B",
+         "Sales": "22"
+      },
+      {
+         "Group": "Alanis Morissette",
+         "Album": "Jagged Little Pill",
+         "YearReleased": "1995",
+         "Genre": "Alternative rock",
+         "Sales": "33"
+      },
+      {
+         "Group": "Backstreet Boys",
+         "Album": "Backstreet's Back / Backstreet Boys",
+         "YearReleased": "1997",
+         "Genre": "Pop",
+         "Sales": "24"
+      },
+      {
+         "Group": "Backstreet Boys",
+         "Album": "Millennium",
+         "YearReleased": "1999",
+         "Genre": "Pop",
+         "Sales": "24"
+      },
+      {
+         "Group": "Bee Gees / Various artists",
+         "Album": "Saturday Night Fever",
+         "YearReleased": "1977",
+         "Genre": "Disco",
+         "Sales": "40"
+      },
+      {
+         "Group": "Bob Marley & The Wailers",
+         "Album": "Legend: The Best of Bob Marley & The Wailers",
+         "YearReleased": "1984",
+         "Genre": "Reggae",
+         "Sales": "25"
+      },
+      {
+         "Group": "Bon Jovi",
+         "Album": "Slippery When Wet",
+         "YearReleased": "1986",
+         "Genre": "Hard rock; glam metal",
+         "Sales": "28"
+      },
+      {
+         "Group": "Bon Jovi",
+         "Album": "Cross Road",
+         "YearReleased": "1994",
+         "Genre": "Hard rock; glam metal",
+         "Sales": "21"
+      },
+      {
+         "Group": "Boston",
+         "Album": "Boston",
+         "YearReleased": "1976",
+         "Genre": "Arena rock; hard rock",
+         "Sales": "20"
+      },
+      {
+         "Group": "Britney Spears",
+         "Album": "...Baby One More Time",
+         "YearReleased": "1999",
+         "Genre": "Pop",
+         "Sales": "25"
+      },
+      {
+         "Group": "Britney Spears",
+         "Album": "Oops!... I Did It Again",
+         "YearReleased": "2000",
+         "Genre": "Pop",
+         "Sales": "20"
+      },
+      {
+         "Group": "Bruce Springsteen",
+         "Album": "Born in the U.S.A.",
+         "YearReleased": "1984",
+         "Genre": "Heartland rock",
+         "Sales": "30"
+      },
+      {
+         "Group": "Carole King",
+         "Album": "Tapestry",
+         "YearReleased": "1971",
+         "Genre": "Pop",
+         "Sales": "25"
+      },
+      {
+         "Group": "Celine Dion",
+         "Album": "Falling into You",
+         "YearReleased": "1996",
+         "Genre": "Pop; soft rock",
+         "Sales": "32"
+      },
+      {
+         "Group": "Celine Dion",
+         "Album": "Let's Talk About Love",
+         "YearReleased": "1997",
+         "Genre": "Pop; soft rock",
+         "Sales": "31"
+      },
+      {
+         "Group": "Celine Dion",
+         "Album": "All the Way... A Decade of Song",
+         "YearReleased": "1999",
+         "Genre": "Pop",
+         "Sales": "22"
+      },
+      {
+         "Group": "Celine Dion",
+         "Album": "The Colour of My Love",
+         "YearReleased": "1993",
+         "Genre": "Pop",
+         "Sales": "20"
+      },
+      {
+         "Group": "Def Leppard",
+         "Album": "Hysteria",
+         "YearReleased": "1987",
+         "Genre": "Hard rock; glam metal",
+         "Sales": "20"
+      },
+      {
+         "Group": "Dire Straits",
+         "Album": "Brothers in Arms",
+         "YearReleased": "1985",
+         "Genre": "Roots rock; blues rock; soft rock",
+         "Sales": "30"
+      },
+      {
+         "Group": "Eagles",
+         "Album": "Their Greatest Hits (1971–1975)",
+         "YearReleased": "1976",
+         "Genre": "Country rock; soft rock; folk rock",
+         "Sales": "42"
+      },
+      {
+         "Group": "Eagles",
+         "Album": "Hotel California",
+         "YearReleased": "1976",
+         "Genre": "Soft rock",
+         "Sales": "32"
+      },
+      {
+         "Group": "Elton John",
+         "Album": "Greatest Hits",
+         "YearReleased": "1974",
+         "Genre": "Pop",
+         "Sales": "24"
+      },
+      {
+         "Group": "Elvis Presley",
+         "Album": "Elvis' Christmas Album",
+         "YearReleased": "1957",
+         "Genre": "Christmas; pop; gospel; rock and roll",
+         "Sales": "25"
+      },
+      {
+         "Group": "Eminem",
+         "Album": "The Eminem Show",
+         "YearReleased": "2002",
+         "Genre": "Hip hop",
+         "Sales": "27"
+      },
+      {
+         "Group": "Eminem",
+         "Album": "The Marshall Mathers LP",
+         "YearReleased": "2000",
+         "Genre": "hip-hop",
+         "Sales": "21"
+      },
+      {
+         "Group": "Eric Clapton",
+         "Album": "Unplugged",
+         "YearReleased": "1992",
+         "Genre": "Acoustic rock; acoustic blues",
+         "Sales": "26"
+      },
+      {
+         "Group": "Fleetwood Mac",
+         "Album": "Rumours",
+         "YearReleased": "1977",
+         "Genre": "Soft rock",
+         "Sales": "40"
+      },
+      {
+         "Group": "George Michael",
+         "Album": "Faith",
+         "YearReleased": "1987",
+         "Genre": "Pop; R&B; funk; soul",
+         "Sales": "25"
+      },
+      {
+         "Group": "Green Day",
+         "Album": "Dookie",
+         "YearReleased": "1994",
+         "Genre": "Pop punk; punk rock; alternative rock",
+         "Sales": "20"
+      },
+      {
+         "Group": "Guns N' Roses",
+         "Album": "Appetite for Destruction",
+         "YearReleased": "1987",
+         "Genre": "Hard rock",
+         "Sales": "30"
+      },
+      {
+         "Group": "James Horner",
+         "Album": "Titanic: Music from the Motion Picture",
+         "YearReleased": "1997",
+         "Genre": "Film score",
+         "Sales": "30"
+      },
+      {
+         "Group": "Led Zeppelin",
+         "Album": "Led Zeppelin IV",
+         "YearReleased": "1971",
+         "Genre": "Hard rock; heavy metal; folk rock",
+         "Sales": "37"
+      },
+      {
+         "Group": "Linkin Park",
+         "Album": "Hybrid Theory",
+         "YearReleased": "2000",
+         "Genre": "Nu metal; rap metal; alternative metal",
+         "Sales": "27"
+      },
+      {
+         "Group": "Lionel Richie",
+         "Album": "Can't Slow Down",
+         "YearReleased": "1983",
+         "Genre": "Pop; R&B; soul",
+         "Sales": "20"
+      },
+      {
+         "Group": "Madonna",
+         "Album": "The Immaculate Collection",
+         "YearReleased": "1990",
+         "Genre": "Pop; dance",
+         "Sales": "30"
+      },
+      {
+         "Group": "Madonna",
+         "Album": "True Blue",
+         "YearReleased": "1986",
+         "Genre": "Pop; dance",
+         "Sales": "27"
+      },
+      {
+         "Group": "Madonna",
+         "Album": "Like a Virgin",
+         "YearReleased": "1984",
+         "Genre": "Pop; dance",
+         "Sales": "22"
+      },
+      {
+         "Group": "Mariah Carey",
+         "Album": "Music Box",
+         "YearReleased": "1993",
+         "Genre": "Pop; R&B",
+         "Sales": "28"
+      },
+      {
+         "Group": "Mariah Carey",
+         "Album": "Daydream",
+         "YearReleased": "1995",
+         "Genre": "Pop; R&B",
+         "Sales": "20"
+      },
+      {
+         "Group": "Meat Loaf",
+         "Album": "Bat Out of Hell",
+         "YearReleased": "1977",
+         "Genre": "Hard rock; glam rock; heavy metal",
+         "Sales": "50"
+      },
+      {
+         "Group": "Metallica",
+         "Album": "Metallica",
+         "YearReleased": "1991",
+         "Genre": "Heavy metal",
+         "Sales": "31"
+      },
+      {
+         "Group": "Michael Jackson",
+         "Album": "Thriller",
+         "YearReleased": "1982",
+         "Genre": "Pop; post-disco; funk and rock",
+         "Sales": "66"
+      },
+      {
+         "Group": "Michael Jackson",
+         "Album": "Bad",
+         "YearReleased": "1987",
+         "Genre": "Pop; dance; hard rock and soul",
+         "Sales": "35"
+      },
+      {
+         "Group": "Michael Jackson",
+         "Album": "Dangerous",
+         "YearReleased": "1991",
+         "Genre": "New jack swing; R&B and pop",
+         "Sales": "32"
+      },
+      {
+         "Group": "Michael Jackson",
+         "Album": "HIStory: Past  Present and Future  Book I",
+         "YearReleased": "1995",
+         "Genre": "R&B; pop and hip hop",
+         "Sales": "20"
+      },
+      {
+         "Group": "Michael Jackson",
+         "Album": "Off the Wall",
+         "YearReleased": "1979",
+         "Genre": "Disco; pop; funk and R&B",
+         "Sales": "20"
+      },
+      {
+         "Group": "Nirvana",
+         "Album": "Nevermind",
+         "YearReleased": "1991",
+         "Genre": "Grunge; alternative rock",
+         "Sales": "30"
+      },
+      {
+         "Group": "Norah Jones",
+         "Album": "Come Away with Me",
+         "YearReleased": "2002",
+         "Genre": "Jazz",
+         "Sales": "27"
+      },
+      {
+         "Group": "Oasis",
+         "Album": "(What's the Story) Morning Glory?",
+         "YearReleased": "1995",
+         "Genre": "Britpop; rock",
+         "Sales": "22"
+      },
+      {
+         "Group": "Phil Collins",
+         "Album": "No Jacket Required",
+         "YearReleased": "1985",
+         "Genre": "Pop rock",
+         "Sales": "25"
+      },
+      {
+         "Group": "Pink Floyd",
+         "Album": "The Dark Side of the Moon",
+         "YearReleased": "1973",
+         "Genre": "Progressive rock",
+         "Sales": "45"
+      },
+      {
+         "Group": "Pink Floyd",
+         "Album": "The Wall",
+         "YearReleased": "1979",
+         "Genre": "Progressive rock",
+         "Sales": "30"
+      },
+      {
+         "Group": "Prince and The Revolution",
+         "Album": "Purple Rain",
+         "YearReleased": "1984",
+         "Genre": "Pop rock; new wave; R&B",
+         "Sales": "25"
+      },
+      {
+         "Group": "Queen",
+         "Album": "Greatest Hits",
+         "YearReleased": "1981",
+         "Genre": "Rock",
+         "Sales": "25"
+      },
+      {
+         "Group": "Santana",
+         "Album": "Supernatural",
+         "YearReleased": "1999",
+         "Genre": "Latin rock",
+         "Sales": "30"
+      },
+      {
+         "Group": "Shania Twain",
+         "Album": "Come On Over",
+         "YearReleased": "1997",
+         "Genre": "Country; pop",
+         "Sales": "40"
+      },
+      {
+         "Group": "Shania Twain",
+         "Album": "The Woman in Me",
+         "YearReleased": "1995",
+         "Genre": "Country; pop",
+         "Sales": "20"
+      },
+      {
+         "Group": "Simon & Garfunkel",
+         "Album": "Bridge over Troubled Water",
+         "YearReleased": "1970",
+         "Genre": "Folk rock",
+         "Sales": "25"
+      },
+      {
+         "Group": "Spice Girls",
+         "Album": "Spice",
+         "YearReleased": "1996",
+         "Genre": "Pop",
+         "Sales": "23"
+      },
+      {
+         "Group": "Supertramp",
+         "Album": "Breakfast in America",
+         "YearReleased": "1979",
+         "Genre": "Progressive rock; art rock",
+         "Sales": "20"
+      },
+      {
+         "Group": "The Beatles",
+         "Album": "Sgt. Pepper's Lonely Hearts Club Band",
+         "YearReleased": "1967",
+         "Genre": "Rock",
+         "Sales": "32"
+      },
+      {
+         "Group": "The Beatles",
+         "Album": "1",
+         "YearReleased": "2000",
+         "Genre": "Rock",
+         "Sales": "31"
+      },
+      {
+         "Group": "The Beatles",
+         "Album": "Abbey Road",
+         "YearReleased": "1969",
+         "Genre": "Rock",
+         "Sales": "30"
+      },
+      {
+         "Group": "Tracy Chapman",
+         "Album": "Tracy Chapman",
+         "YearReleased": "1988",
+         "Genre": "Folk rock",
+         "Sales": "20"
+      },
+      {
+         "Group": "U2",
+         "Album": "The Joshua Tree",
+         "YearReleased": "1987",
+         "Genre": "Rock",
+         "Sales": "25"
+      },
+      {
+         "Group": "Various artists",
+         "Album": "Dirty Dancing",
+         "YearReleased": "1987",
+         "Genre": "Pop; rock; R&B",
+         "Sales": "32"
+      },
+      {
+         "Group": "Various artists",
+         "Album": "Flashdance: Original Soundtrack from the Motion Picture",
+         "YearReleased": "1983",
+         "Genre": "Electro; synthpop",
+         "Sales": "20"
+      },
+      {
+         "Group": "Whitney Houston",
+         "Album": "Whitney Houston",
+         "YearReleased": "1985",
+         "Genre": "Pop; R&B",
+         "Sales": "22"
+      },
+      {
+         "Group": "Whitney Houston",
+         "Album": "Whitney",
+         "YearReleased": "1987",
+         "Genre": "Pop; R&B",
+         "Sales": "20"
+      },
+      {
+         "Group": "Whitney Houston / Various artists",
+         "Album": "The Bodyguard",
+         "YearReleased": "1992",
+         "Genre": "R&B; soul; pop; soundtrack",
+         "Sales": "45"
+      }
+   ],
+   "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+}
