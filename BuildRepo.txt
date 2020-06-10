@@ -1,6 +1,7 @@
 Create repo on github
 
-then
+note on the next steps if you have an existing project folder
+you should do a get add * to add all files
 
 echo "# csv" >> README.md
 git init
