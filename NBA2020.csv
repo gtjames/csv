@@ -1,0 +1,515 @@
+ID,Player,Team,Location,Position,Salary,Age,GamesPlayed,Minutes,PointsPerGame,FGMade,FGAttempted,ThreesMade,ThreesAttempted,FTMade,FTAttempted,OffRebound,DefRebound,Rebounds,Assists,Steals,Blocks,TurnOvers,Efficiency,Fouls
+1,Aaron Gordon,ORL,Orlando Magic,Power Forward,19863636,24,61,36.7,13.8,9.9,22.7,4.4,12.6,10.1,11.8,1,5.3,6.4,7.4,1.7,0.9,4.5,31.8,2.2
+2,Aaron Holiday,IND,Indiana Pacers,Point Guard,2329200,23,57,36,8.8,10.4,22.9,3,8.4,6.8,8,0.9,3.3,4.2,6.1,1.2,0.4,3.4,25.4,1.6
+3,Abdel Nader,OKC,Oklahoma City Thunder,Small Forward,1618520,26,57,30.9,6.8,10.9,20,1.5,4.8,6.3,10,2.3,11.5,13.7,5.8,1,1,3.7,34.8,1.1
+4,Adam Mokoka,CHI,Chicago Bulls,,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Admiral Schofield,WAS,Washington Wizards,Shooting Guard,1000000,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Al Horford,PHI,Philadelphia 76ers,Power Forward,28000000,34,60,35.3,14.5,9.1,20.8,3.4,9.5,8,9.3,0.5,3.7,4.3,9.3,1.1,0.1,4.8,26.6,2.2
+7,Alec Burks,PHI,Philadelphia 76ers,Shooting Guard,1620564,28,58,36.9,15,9.2,20,3.9,9.9,6.7,7.6,0.5,3.8,4.3,7.8,1,0.4,2.9,27.8,2.2
+8,Alen Smailagic,GSW,Golden State Warriors,Power Forward,898310,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Alex Caruso,LAL,Los Angeles Lakers,Shooting Guard,2750000,26,54,33.3,5,9.5,20.6,2.9,9.1,6.8,9.1,1.3,8,9.3,8.7,1.1,0.2,4.2,30.4,1.6
+10,Alex Len,SAC,Sacramento Kings,Center,4160000,26,53,35.9,7.3,10.7,22.6,1,3.8,5.1,6.5,1.8,6.3,8,7,1.7,0.3,4.5,26.7,2.1
+11,Al-Farouq Aminu,ORL,Orlando Magic,Power Forward,9258000,29,0,0,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5
+12,Alfonzo McKinnie,CLE,Cleveland Cavaliers,Small Forward,1500000,27,0,0,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3
+13,Alize Johnson,IND,Indiana Pacers,Power Forward,1416852,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Allen Crabbe,MIN,Minnesota Timberwolves,Guard,18500000,28,0,0,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7
+15,Allonzo Trier,NYK,New York Knicks,Shooting Guard,3551000,24,0,0,7.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.1
+16,Amile Jefferson,ORL,Orlando Magic,Power Forward,1529007,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Amir Coffey,LAC,LA Clippers,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Andre Drummond,CLE,Cleveland Cavaliers,Center,27093019,26,51,32.2,17.3,9.3,19.9,2.1,5.7,6.1,6.9,1,6.3,7.3,5,1.8,0.6,2.7,27.5,3.8
+19,Andre Iguodala,MIA,Miami Heat,Shooting Guard,17185185,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Andrew Wiggins,GSW,Golden State Warriors,Small Forward,27504630,25,55,34.3,24.9,9.2,18.1,1.2,3.5,7,8.3,2.3,7.1,9.4,3.1,1.5,2.4,2.5,30.5,2.4
+21,Anfernee Simons,POR,Portland Trail Blazers,Shooting Guard,2149560,21,62,36.1,10,8.8,18,2,5.6,6.5,7.1,0.4,3.7,4.2,6.6,0.7,0.3,3.9,24,2
+22,Ante Zizic,CLE,Cleveland Cavaliers,Center,2281800,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Anthony Davis,LAL,Los Angeles Lakers,Power Forward,27093018,27,60,34.9,26,9.8,19.6,2.2,6.4,4,5.7,1,6.9,7.9,10.6,1.2,0.5,4,30.4,2.4
+24,Anthony Tolliver,MEM,Memphis Grizzlies,Forward,1620564,35,60,34.8,3.5,9,20,3.1,8.1,4.5,5.6,0.7,4.1,4.8,4.2,1.5,0.5,3.4,21,1.3
+25,Antonius Cleveland,DAL,Dallas Mavericks,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Anzejs Pasecniks,WAS,Washington Wizards,Center,482144,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Aron Baynes,PHX,Phoenix Suns,Center,5453280,33,0,0,14.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.9
+28,Austin Rivers,HOU,Houston Rockets,Point Guard,2147317,27,56,34.3,8.4,8.4,18,2.4,6.3,5.1,5.9,0.9,5.4,6.3,4.3,1,0.7,3.1,22.9,1.9
+29,Avery Bradley,LAL,Los Angeles Lakers,Point Guard,4767000,29,63,34.4,9.6,8.9,19.6,2.5,6.8,4,4.6,0.7,3.7,4.4,4.2,1,0.2,2.7,20,2.6
+30,Bam Adebayo,MIA,Miami Heat,Power Forward,3454080,22,53,35.5,13.9,8.7,18.9,2.2,6,4.2,5.2,1.1,6.5,7.5,3.6,1,0.9,2.5,23,2.5
+31,Ben McLemore,HOU,Houston Rockets,Small Forward,2028594,27,59,34.6,8.3,8.5,18.9,2.8,7.1,3.8,4.7,1,6.1,7.1,2.9,1.4,0.9,2.2,22.3,1.9
+32,Ben Simmons,PHI,Philadelphia 76ers,Point Guard,8113930,23,45,32.3,13,8,18.8,3.5,9.6,3.6,4.4,0.4,3.6,3.9,6.3,1.1,0.3,3.3,19.8,3.4
+33,Bismack Biyombo,CHA,Charlotte Hornets,Center,17000000,27,62,36,7.6,8.9,19.5,2.8,7.4,2,2.6,0.7,3.4,4.1,4.3,0.7,0.6,1.9,19.1,2
+34,BJ Johnson,ORL,Orlando Magic,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Blake Griffin,DET,Detroit Pistons,Power Forward,34449964,31,0,0,18.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.6
+36,Boban Marjanovic,DAL,Dallas Mavericks,Center,3500000,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Bobby Portis,NYK,New York Knicks,Power Forward,15000000,25,61,34.3,8.8,8.2,15.7,0.1,0.5,5.5,6.6,0.6,5,5.6,5.6,1,0.2,2.4,23.8,1.7
+38,Bogdan Bogdanovic,SAC,Sacramento Kings,Shooting Guard,8529386,27,54,34.4,14.8,8.1,18.1,2.1,6.2,3.5,5,1.2,3.9,5.1,3.7,0.8,1,2.4,18.4,1.8
+39,Bojan Bogdanovic,UTA,Utah Jazz,Small Forward,17000000,31,50,31.8,21,7,16.6,3.3,8.8,3.9,4.5,0.7,3.4,4.1,4.9,0.9,0.5,2.1,19.3,2
+40,Brad Wanamaker,BOS,Boston Celtics,Point Guard,1445697,30,55,30.1,7.6,7.7,15.5,2.4,5.8,3.2,3.6,0.7,5.5,6.2,4.1,0.9,0.1,2.1,22.3,1.8
+41,Bradley Beal,WAS,Washington Wizards,Shooting Guard,27093019,26,65,33,28.7,7.9,16.7,1.5,3.9,3.5,4.1,0.9,2.2,3.1,3,1,0.1,2.4,16.1,2.6
+42,Brandon Clarke,MEM,Memphis Grizzlies,Small Forward,2478840,23,64,31.2,11.8,6.6,16,1.9,6.3,5.4,7,0.5,3,3.5,6.8,0.6,0.3,2.7,18.2,1.7
+43,Brandon Goodwin,ATL,Atlanta Hawks,Point Guard,522738,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Brandon Ingram,NOP,New Orleans Pelicans,Small Forward,7265485,22,45,31.7,25.4,7.3,15.4,1,3.4,4.8,6.8,0.7,3.4,4,6.8,1.4,0.5,3.1,19.9,2.8
+45,Brandon Knight,DET,Detroit Pistons,Point Guard,15643750,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Brian Bowen II,IND,Indiana Pacers,,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Brook Lopez,MIL,Milwaukee Bucks,Center,12093023,32,50,34,10.4,7.6,15.4,2.1,5.6,3.2,4.3,1.1,5.3,6.4,2.2,1.1,0.3,2.3,19.1,2.2
+48,Bruce Brown,DET,Detroit Pistons,Shooting Guard,1416852,23,54,34.3,0,6.1,13.4,0.5,2.2,7.6,9.1,1.8,4.8,6.6,6.1,1.7,0.5,2.2,24.3,0
+49,Bruno Caboclo,HOU,Houston Rockets,Small Forward,1845301,24,0,0,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2
+50,Bruno Fernando,ATL,Atlanta Hawks,Center,1400000,21,63,33.1,4.3,6.6,14.8,3,7.3,4,4.4,0.6,3.5,4.1,2.1,0.5,0.1,2.5,15.9,1.6
+51,Bryn Forbes,SAS,San Antonio Spurs,Shooting Guard,2875000,26,65,32.3,13,7.9,14.9,1.1,3.5,3.4,4.1,2.4,7.8,10.2,6.9,1.2,0.7,3.1,28.2,2
+52,Buddy Hield,SAC,Sacramento Kings,Shooting Guard,4861208,27,64,32,20.9,7.1,16.6,3.8,9.7,1.8,2,0.9,3.9,4.8,3.1,0.9,0.3,2.3,16.8,2.6
+53,Caleb Martin,CHA,Charlotte Hornets,Small Forward,898310,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Caleb Swanigan,POR,Portland Trail Blazers,Power Forward,2033160,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Cam Reddish,ATL,Atlanta Hawks,Shooting Guard,4245720,20,52,36.6,8.1,5.9,14.3,2.9,8.3,4.9,5.7,0.6,4.3,4.8,7.7,1.3,0.4,3,21.9,1.8
+56,Cameron Johnson,PHX,Phoenix Suns,Small Forward,4033440,24,55,34.9,8.8,7.7,16.9,2.1,5.9,2.2,3.1,1.3,3.6,4.9,6.9,1.7,0.8,2.9,20.7,1.7
+57,Caris LeVert,BKN,Brooklyn Nets,Shooting Guard,2625718,25,0,0,16.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2
+58,Carmelo Anthony,POR,Portland Trail Blazers,Power Forward,1364204,36,64,32.5,16.9,7.2,15.7,1,3.6,4,5.5,2.4,7.4,9.7,3.1,0.8,0.3,3,20.5,3.2
+59,Carsen Edwards,BOS,Boston Celtics,Point Guard,1228026,22,0,0,4.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1
+60,Cedi Osman,CLE,Cleveland Cavaliers,Small Forward,2907143,25,54,32.6,9.8,7.9,16.9,1.5,4.6,2.1,2.7,2.4,8.6,11,3.7,0.9,0.9,1.4,25,2.4
+61,Chandler Hutchison,CHI,Chicago Bulls,Small Forward,2332320,24,0,0,7.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3
+62,Chandler Parsons,ATL,Atlanta Hawks,Small Forward,25102511,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Charles Brown Jr.,ATL,Atlanta Hawks,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Chasson Randle,GSW,Golden State Warriors,,,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Cheick Diallo,PHX,Phoenix Suns,Power Forward,1678854,23,0,0,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.9
+66,Chimezie Metu,SAS,San Antonio Spurs,Power Forward,1416852,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Chris Boucher,TOR,Toronto Raptors,Power Forward,1588231,27,65,34.5,5.9,7.6,16.1,1.8,5,2.4,2.9,0.8,5.9,6.8,3.2,0.8,0.5,1.5,20,1.5
+68,Chris Chiozza,BKN,Brooklyn Nets,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Chris Clemons,HOU,Houston Rockets,Point Guard,563347,22,0,0,4.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+70,Chris Paul,OKC,Oklahoma City Thunder,Point Guard,38506482,35,63,35.1,15.1,7,14.8,1.2,3.5,4,5,0.7,5.4,6.1,3.3,1.1,0.7,1.9,19.8,2.4
+71,Chris Silva,MIA,Miami Heat,Power Forward,466918,23,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.8
+72,Christian Wood,DET,Detroit Pistons,Power Forward,1645357,24,51,31.3,8.8,6.6,15.8,2.5,7.1,3.5,4.5,1.7,7.7,9.5,1.7,0.7,2.1,1.6,21.4,0.8
+73,CJ McCollum,POR,Portland Trail Blazers,Shooting Guard,27556959,28,55,30.7,0,6,13.6,3,7.3,4.3,4.8,0.6,4.9,5.5,2.1,0.7,0.1,1.3,18.1,0
+74,CJ Miles,WAS,Washington Wizards,,,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Clint Capela,ATL,Atlanta Hawks,Center,14896552,26,0,0,15.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.9
+76,Coby White,CHI,Chicago Bulls,Point Guard,5307120,20,63,31,12.4,7,15,1.9,5.1,3.1,3.7,0.3,3.4,3.7,4.1,0.7,0.2,2.5,16.6,1.4
+77,Cody Martin,CHA,Charlotte Hornets,Small Forward,1173310,24,53,33.1,2.9,7.4,15,1.2,3,3,3.6,1.9,5.5,7.4,2.4,0.7,1.6,1.4,21.4,1.2
+78,Cody Zeller,CHA,Charlotte Hornets,Center,14471910,27,61,31.7,11,6.7,14.2,2.7,6.7,2.8,3.4,0.3,2.3,2.6,3.2,1.1,0.2,2,15.8,2.5
+79,Collin Sexton,CLE,Cleveland Cavaliers,Point Guard,4764960,21,55,32.8,18.1,7,15.4,1.9,5.5,2.9,3.2,0.8,3.2,3.9,4.8,1.2,0.3,2.3,18,2.2
+80,Cory Joseph,SAC,Sacramento Kings,Point Guard,12000000,28,61,32.5,5.6,7.5,14.2,1.1,3,2.5,3,1,3,4,1.4,1.1,0.4,1.3,17.1,2.2
+81,Courtney Lee,DAL,Dallas Mavericks,Shooting Guard,12759670,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,Cristiano Felicio,CHI,Chicago Bulls,Power Forward,8156500,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,D.J. Augustin,ORL,Orlando Magic,Point Guard,7250000,32,56,34.5,9.6,6.7,14.8,1.9,5.5,3.4,4.4,1.2,5.3,6.4,1.5,1.3,0.7,1.5,18.1,1.1
+84,D.J. Wilson,MIL,Milwaukee Bucks,Power Forward,2961120,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Damian Jones,ATL,Atlanta Hawks,Center,2305057,24,60,29.3,8,6.1,14.7,1.8,4.9,4.6,5.4,0.5,2.6,3.1,5.7,0.7,0.2,2.9,16.1,3.4
+86,Damian Lillard,POR,Portland Trail Blazers,Point Guard,29802321,29,63,27.8,26.6,7.5,12.9,0,0.3,3.7,5.6,2.6,4.5,7.1,1.7,0.6,1.1,1.7,20.1,2.1
+87,Damion Lee,GSW,Golden State Warriors,Shooting Guard,842327,27,62,34.8,10,7.4,13.7,0.3,1.1,3.5,4.8,3,9.4,12.4,5,0.8,0.5,2.7,26.8,1.6
+88,Damyean Dotson,NYK,New York Knicks,Shooting Guard,1618520,26,63,35.1,6.1,5.8,15.3,3.5,9.3,3,3.7,0.7,2.7,3.4,7.5,1,0.2,2.9,17.3,0.9
+89,D'Angelo Russell,MIN,Minnesota Timberwolves,Shooting Guard,27285000,24,50,26,23.7,7.4,15.1,0.9,2.9,2.4,2.8,0.5,1.9,2.4,5.6,0.8,0.3,2.5,16.6,1.7
+90,Daniel Gafford,CHI,Chicago Bulls,Power Forward,898310,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,Daniel Theis,BOS,Boston Celtics,Center,5000000,28,63,34.4,6.5,6.3,14.9,2.7,6.7,2.6,3,0.8,3.6,4.4,4.1,1,0.2,2.2,16.4,3.1
+92,Danilo Gallinari,OKC,Oklahoma City Thunder,Power Forward,22615559,31,57,32.9,18.4,7.3,13.8,0.1,0.6,3,5.2,4.4,10.8,15.2,2.7,1.9,1.6,3.6,26.9,1.6
+93,Danny Green,LAL,Los Angeles Lakers,Shooting Guard,14634146,32,63,31.8,8.3,6.3,12.8,1.6,4.4,3.6,4,0.3,4.6,4.9,6.8,1.6,0.1,2.2,22,2.4
+94,Dante Exum,CLE,Cleveland Cavaliers,Point Guard,9600000,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,Danuel House Jr.,HOU,Houston Rockets,Small Forward,3540000,27,59,30,0,6.7,13.6,0.9,2.4,3.5,4.5,0.7,2.8,3.5,6.9,0.9,0.3,3.2,18.1,0
+96,DaQuan Jeffries,SAC,Sacramento Kings,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,Dario Saric,PHX,Phoenix Suns,Power Forward,3481986,26,56,31.8,10.8,5.8,13,2.6,7,3.3,3.9,1,8.8,9.8,3.2,0.6,0.3,2.5,21.3,2.5
+98,Darius Bazley,OKC,Oklahoma City Thunder,Small Forward,2284800,20,48,35.8,4.2,6,14.6,2.7,7,2.9,3.5,0.4,3.4,3.8,6.6,1.9,0.3,2.3,18.7,0.9
+99,Darius Garland,CLE,Cleveland Cavaliers,Point Guard,6400920,20,55,31.4,10.8,5.9,13.6,2.4,5.9,3.1,3.8,1,4.1,5.1,1.4,0.8,0.5,1.6,15.1,1.3
+100,Daryl Macon,MIA,Miami Heat,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,David Nwaba,BKN,Brooklyn Nets,Shooting Guard,1678854,27,0,0,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5
+102,Davis Bertans,WAS,Washington Wizards,Small Forward,7000000,27,45,33.4,13.6,6.8,13.5,1.6,4.2,2.1,2.5,1,5.5,6.5,4.1,0.8,0.4,1.8,20.3,2.6
+103,De'Aaron Fox,SAC,Sacramento Kings,Point Guard,6392760,22,54,28,18.2,6.1,13,2.5,6.3,2.3,3.1,1,3.7,4.7,1.4,0.7,1.6,1.7,15.9,3
+104,Dean Wade,CLE,Cleveland Cavaliers,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,Deandre Ayton,PHX,Phoenix Suns,Center,9562920,21,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+106,DeAndre' Bembry,ATL,Atlanta Hawks,Shooting Guard,2603982,25,0,0,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3
+107,De'Andre Hunter,ATL,Atlanta Hawks,Small Forward,7068360,22,54,35.8,12.2,6.7,11.4,0,0.1,3.3,5.3,2,5.8,7.8,8.2,2.1,0.6,3.6,25.2,2.6
+108,DeAndre Jordan,BKN,Brooklyn Nets,Center,9881598,31,48,30.7,7.8,6,13.7,1.3,4.1,3,3.4,0.8,3.9,4.7,7.1,0.7,0.2,2.4,18.6,2.1
+109,De'Anthony Melton,MEM,Memphis Grizzlies,Shooting Guard,1416852,22,61,31.3,5.4,6.9,11.1,0.1,0.1,2.5,3.7,4,10.2,14.2,1.2,0.4,3.1,1.9,27.9,1.4
+110,Dejounte Murray,SAS,San Antonio Spurs,Point Guard,2321735,23,65,34.4,9.5,6.3,11.1,0,0.2,3.6,5.3,2.5,8,10.5,5.1,1.2,1.3,2.8,25.1,2.3
+111,Delon Wright,DAL,Dallas Mavericks,Point Guard,9473684,28,54,28.4,7.9,5.4,12.3,2.2,5.8,3.1,4.1,0.5,2.6,3.1,5.1,0.6,0.1,2.5,14.6,1.2
+112,DeMar DeRozan,SAS,San Antonio Spurs,Small Forward,27739975,30,50,27.5,21.7,6.5,12.5,1.3,3.3,1.8,2.4,2.1,6.2,8.3,1.5,0.5,0.8,2,18.5,2.9
+113,DeMarre Carroll,HOU,Houston Rockets,Small Forward,512721,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,Dennis Schroder,OKC,Oklahoma City Thunder,Point Guard,15500000,26,63,28.8,15.6,5.5,12.6,2.9,7.2,1.9,2.4,0.4,2.8,3.1,2,0.6,0.1,1,13.1,2.2
+115,Dennis Smith Jr.,NYK,New York Knicks,Point Guard,4463640,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,Denzel Valentine,CHI,Chicago Bulls,Shooting Guard,3377569,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,Deonte Burton,OKC,Oklahoma City Thunder,Shooting Guard,1416852,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,Derrick Favors,NOP,New Orleans Pelicans,Center,17650000,28,65,28.5,8.3,5.7,14.2,2,5.5,2.2,2.7,0.9,2.3,3.3,2,0.9,0.4,1.7,11.5,2.3
+119,Derrick Jones Jr.,MIA,Miami Heat,Small Forward,1645357,23,62,29.8,0,6.1,13.7,2.1,5.8,1.2,1.5,0.3,2.4,2.7,3.4,0.8,0.2,1.6,13.3,0
+120,Derrick Rose,DET,Detroit Pistons,Point Guard,7317073,31,56,27.2,15.9,5.7,11.8,1.3,3.6,2.8,3.4,0.7,3.9,4.6,5.4,0.9,0.4,2.5,17.6,1.2
+121,Derrick Walton Jr.,DET,Detroit Pistons,Guard,1445697,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Derrick White,SAS,San Antonio Spurs,Point Guard,1948080,25,54,29.3,10.2,4.9,11.3,3.7,8.7,1.9,2.3,0.6,3.9,4.5,1.7,0.7,0.6,1.1,15.2,2.5
+123,Devin Booker,PHX,Phoenix Suns,Shooting Guard,27285000,23,50,32.5,24.1,5.8,13.6,1.4,3.9,2.3,2.7,1.2,5,6.3,1.6,0.8,0.5,1.7,14.4,3.1
+124,Devon Hall,OKC,Oklahoma City Thunder,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,Devonte' Graham,CHA,Charlotte Hornets,Point Guard,1416852,25,63,24.2,18.7,5.6,12,2.1,5.6,1.9,2.3,0.7,1.9,2.7,2,0.7,0.2,1.3,12.6,1.7
+126,Dewan Hernandez,TOR,Toronto Raptors,Center,898310,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Dewayne Dedmon,ATL,Atlanta Hawks,Center,13333333,30,0,0,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5
+128,Dillon Brooks,MEM,Memphis Grizzlies,Shooting Guard,1618520,24,59,27.3,13.2,4.8,11.9,1.7,4.6,3.8,4.3,0.7,3.7,4.4,2.9,1,0.3,1.4,14.7,4
+129,Dion Waiters,LAL,Los Angeles Lakers,Shooting Guard,375385,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,Domantas Sabonis,IND,Indiana Pacers,Power Forward,3529555,24,58,33,0,5.7,12.7,1.9,5,1.8,2.3,1.3,5,6.3,3.7,1.1,0.5,1.5,17.5,0
+131,Donovan Mitchell,UTA,Utah Jazz,Shooting Guard,3635760,23,62,34.5,24.7,5.7,8.2,0,0,3.7,5.9,3.4,10.3,13.7,1.5,0.8,2,1.9,26.4,2.3
+132,Donta Hall,DET,Detroit Pistons,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,Donte DiVincenzo,MIL,Milwaukee Bucks,Shooting Guard,2905800,23,54,26.4,8.6,4.6,10.3,2.9,6.4,2.7,3,0.2,2.4,2.6,2,0.4,0.2,1.2,12.8,1.7
+134,Dorian Finney-Smith,DAL,Dallas Mavericks,Small Forward,4000000,27,62,26.3,8.4,6.2,10.6,0.5,1.3,2,2.7,3.1,8.2,11.2,1.8,0.4,1.1,1.7,22.5,2
+135,Doug McDermott,IND,Indiana Pacers,Small Forward,7333333,28,63,27.3,8.8,5,12.3,2.6,7.2,2.2,2.6,0.2,3,3.2,1.2,1.1,0.3,1,11.9,1.8
+136,Dragan Bender,GSW,Golden State Warriors,Small Forward,1678854,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,Draymond Green,GSW,Golden State Warriors,Power Forward,18539130,30,0,0,8.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.6
+138,Drew Eubanks,SAS,San Antonio Spurs,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,Duncan Robinson,MIA,Miami Heat,Shooting Guard,1416852,26,50,29.8,11.2,5,11.8,2.2,6.3,2.5,3.1,1.2,5.1,6.3,1.5,0.8,0.5,1.6,14.8,2.7
+140,Dusty Hannahs,MEM,Memphis Grizzlies,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,Dwayne Bacon,CHA,Charlotte Hornets,Shooting Guard,1618520,24,0,0,7.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.8
+142,Dwight Howard,LAL,Los Angeles Lakers,Center,1620564,34,64,34.9,7,5.1,11.1,1.5,3.8,3.1,3.8,1,3.8,4.8,2.4,0.6,0.2,1.3,14.6,3.7
+143,Dwight Powell,DAL,Dallas Mavericks,Center,10259375,28,0,0,8.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7
+144,Dzanan Musa,BKN,Brooklyn Nets,Shooting Guard,1911600,21,0,0,5.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.9
+145,Ed Davis,UTA,Utah Jazz,Center,4767000,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,Edmond Sumner,IND,Indiana Pacers,Point Guard,2000000,24,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+147,Elfrid Payton,NYK,New York Knicks,Point Guard,8000000,26,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+148,Elie Okobo,PHX,Phoenix Suns,Small Forward,1416852,22,53,28.5,4.5,5.2,12.1,2.6,7.2,1.4,2,0.3,2.9,3.2,3.2,1,0.3,1.7,13.1,0.6
+149,Emmanuel Mudiay,UTA,Utah Jazz,Point Guard,1620564,24,58,33,7.2,5.4,12.5,1.2,3.9,2.4,3.5,1.8,5.8,7.6,3.7,0.9,0.6,1.6,17.3,1.5
+150,Enes Kanter,BOS,Boston Celtics,Center,4767000,28,56,30.4,7.3,5.2,13,1.1,3.5,2.8,4.5,0.9,4.1,5,2.6,1,0.3,2.2,11.4,1.1
+151,Eric Bledsoe,MIL,Milwaukee Bucks,Point Guard,15625000,30,60,27.6,15.2,5.3,10.7,0.6,2.2,2.7,3.5,1.4,3.2,4.6,2.1,0.5,0.2,1.6,13.7,2.5
+152,Eric Gordon,HOU,Houston Rockets,Shooting Guard,14057730,31,0,0,10.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3
+153,Eric Mika,SAC,Sacramento Kings,,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,Eric Paschall,GSW,Golden State Warriors,Power Forward,898310,23,63,30.9,17.3,5.3,11.2,2.4,5.9,1,1.3,1,3.4,4.3,2.1,0.6,0.3,1.5,13.4,2
+155,Ersan Ilyasova,MIL,Milwaukee Bucks,Power Forward,7000000,33,48,30.7,6.8,5.1,12,1.5,4.5,2.1,2.7,0.8,2.6,3.4,3.1,0.9,0.7,1.9,12.6,1.7
+156,E'Twaun Moore,NOP,New Orleans Pelicans,Shooting Guard,8664928,31,53,32.5,9.6,4.5,11.9,2.4,6.9,2,2.4,0.8,3.1,3.8,4.8,1.6,0.5,1.7,14.8,1.7
+157,Evan Fournier,ORL,Orlando Magic,Shooting Guard,17150000,27,65,30,19.8,4.4,9.4,3.7,8.4,0.7,0.8,0.1,3.1,3.3,1.4,0.5,0.2,0.9,12.7,2.2
+158,Evan Turner,MIN,Minnesota Timberwolves,Shooting Guard,18606556,31,0,0,4.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1
+159,Frank Jackson,NOP,New Orleans Pelicans,Point Guard,1618520,22,65,25.8,7.5,4.8,12.2,2,5.8,1.6,2,0.4,3.1,3.5,2.7,0.8,0.1,1.7,10.8,1.6
+160,Frank Kaminsky,PHX,Phoenix Suns,Center,4767000,27,0,0,10.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+161,Frank Mason,MIL,Milwaukee Bucks,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,Frank Ntilikina,NYK,New York Knicks,Point Guard,4855800,21,62,21.4,6.5,4.6,8.2,0.9,2.3,2.9,3.9,1.7,4.6,6.3,1,0.5,0.9,1.4,15.8,2.7
+163,Fred VanVleet,TOR,Toronto Raptors,Shooting Guard,9346153,26,57,31.6,18.6,4.4,10.7,1.2,3.3,3.1,3.6,0.7,3.9,4.6,8.9,1.5,0.2,2.7,18.8,2.4
+164,Furkan Korkmaz,PHI,Philadelphia 76ers,Shooting Guard,1620564,22,65,30.7,9.1,4.9,11.6,1.5,4.6,1.6,2,1.4,4.2,5.6,1.8,0.6,0.7,1.5,13.1,1.8
+165,Gabe Vincent,MIA,Miami Heat,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,Garrett Temple,BKN,Brooklyn Nets,Shooting Guard,4767000,34,47,27.2,10.1,4.7,11.3,2.1,5.4,1.4,1.7,0.3,3.7,4,1.9,0.6,0.1,1.5,11.1,2.1
+167,Garrison Mathews,WAS,Washington Wizards,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,Gary Clark,ORL,Orlando Magic,,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,Gary Harris,DEN,Denver Nuggets,Shooting Guard,17839286,25,62,30.1,11,4.5,10.5,2.4,6.8,1.4,1.7,0.9,5.5,6.4,1.2,1.5,1.3,1.5,15.4,2.2
+170,Gary Payton II,WAS,Washington Wizards,Point Guard,1052909,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,Gary Trent Jr.,POR,Portland Trail Blazers,Shooting Guard,1416852,21,49,29,0,4.3,10.4,1.7,4.9,2.2,2.6,0.7,4.2,4.9,2.7,1,0.1,1.4,13.6,0
+172,George Hill,MIL,Milwaukee Bucks,Point Guard,9133907,34,59,24.5,9.6,4.5,9,2.3,5.1,1.3,1.5,0.4,1.9,2.4,2,0.6,0.1,1,11.9,1.6
+173,Georges Niang,UTA,Utah Jazz,Small Forward,1645357,26,46,28.1,4,4.7,10.4,1.2,3.4,2,2.4,0.5,3.8,4.3,2.1,1.2,0.5,1.1,13.5,1.4
+174,Giannis Antetokounmpo,MIL,Milwaukee Bucks,Power Forward,25842697,25,54,24.6,31,4.7,10.9,1.3,4.4,1.8,2.4,0.9,3.6,4.5,1.3,0.4,0.4,1.6,10.6,3.2
+175,Glenn Robinson III,PHI,Philadelphia 76ers,Small Forward,1620564,26,56,32.4,0,4.6,11.2,2.5,6.5,0.7,1.2,1.1,5.1,6.2,7,1.4,0.5,3.1,17.4,0
+176,Goga Bitadze,IND,Indiana Pacers,Center,2816760,20,63,32,4.7,4.4,10.8,1.7,4.8,1.7,2.3,0.7,3.8,4.5,1.8,0.7,0.3,1.6,11.1,2.1
+177,Goran Dragic,MIA,Miami Heat,Point Guard,19217900,34,59,30.9,15.9,4.7,11.8,1.8,5,1.1,1.2,0.5,1.4,1.9,3.9,0.7,0.1,2.6,9.1,1.8
+178,Gordon Hayward,BOS,Boston Celtics,Small Forward,32700690,30,58,30.3,18.9,4.6,10.2,1.5,4,1.5,2.3,1,4.4,5.4,2.1,0.9,0.8,1.6,13.5,1.9
+179,Gorgui Dieng,MEM,Memphis Grizzlies,Center,16229213,30,56,31.4,5.1,4.5,10.9,2.3,6,0.9,1.1,0.6,3.4,4.1,3.8,0.9,0.5,1.6,13.3,1.4
+180,Grant Williams,BOS,Boston Celtics,Power Forward,2379840,21,64,29,2.2,4.3,11.5,2.3,6.7,1.1,1.4,0.8,5.2,6,1.8,0.9,0.4,2,11.7,1.9
+181,Grayson Allen,MEM,Memphis Grizzlies,Shooting Guard,2429400,24,0,0,7.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.7
+182,Hamidou Diallo,OKC,Oklahoma City Thunder,Shooting Guard,1416852,21,0,0,8.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4
+183,Harrison Barnes,SAC,Sacramento Kings,Small Forward,24147727,28,64,28.3,16.2,5,10.6,0.5,1.8,1.6,2.2,0.5,2.8,3.3,5.2,1.3,0.2,2,13.8,1.3
+184,Harry Giles III,SAC,Sacramento Kings,Center,2578800,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,Hassan Whiteside,POR,Portland Trail Blazers,Center,27093017,31,50,21.7,15.3,5.1,8.2,0.4,1,1.5,1.9,1.6,4.3,5.8,1.4,0.5,0.8,0.9,16.3,3
+186,Henry Ellenson,BKN,Brooklyn Nets,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,Ian Mahinmi,WAS,Washington Wizards,Center,15450051,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,Ignas Brazdeikis,NYK,New York Knicks,Small Forward,898310,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,Iman Shumpert,BKN,Brooklyn Nets,Shooting Guard,1419138,29,0,0,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.7
+190,Isaac Bonga,WAS,Washington Wizards,Small Forward,1416842,20,60,30.8,3.9,4.8,10.9,1.5,4.4,0.9,1.2,1.5,5.3,6.9,4.1,0.9,0.9,1.1,17.3,2
+191,Isaiah Hartenstein,HOU,Houston Rockets,Center,1416852,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,Isaiah Roby,OKC,Oklahoma City Thunder,Small Forward,1500000,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,Isaiah Thomas,WAS,Washington Wizards,Point Guard,1620564,31,0,0,12.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2
+194,Ish Smith,WAS,Washington Wizards,Point Guard,6000000,31,57,30.2,8,5.1,9.9,0.2,0.4,1.7,2.8,4,6.2,10.1,2.1,0.6,0.9,1.8,18,1.7
+195,Ivica Zubac,LAC,LA Clippers,Center,6481482,23,64,28.5,8,4.5,9.4,2,4.6,0.9,1.1,1.7,4.8,6.4,2.8,0.8,0.5,1.4,15.9,2.5
+196,J.J. Barea,DAL,Dallas Mavericks,Point Guard,1620564,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,J.P. Macura,CLE,Cleveland Cavaliers,,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,Ja Morant,MEM,Memphis Grizzlies,Point Guard,8730240,20,55,29.6,18.6,4.2,9.4,1.4,4.2,2,2.6,1.3,5.3,6.5,1.1,0.8,2.2,1.2,15.4,1.7
+199,Jabari Parker,SAC,Sacramento Kings,Power Forward,6500000,25,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2
+200,Jacob Evans,MIN,Minnesota Timberwolves,Shooting Guard,1925880,22,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7
+201,Jae Crowder,MIA,Miami Heat,Small Forward,7815533,29,60,29.1,10.8,4.7,9.6,1.2,3.2,1.2,1.4,1.3,3,4.3,1.6,0.9,0.3,0.9,12.9,2
+202,Jahlil Okafor,NOP,New Orleans Pelicans,Center,1702486,24,0,0,9.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.8
+203,JaKarr Sampson,IND,Indiana Pacers,Small Forward,1620564,27,0,0,5.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.6
+204,Jake Layman,MIN,Minnesota Timberwolves,Small Forward,3581986,26,0,0,10.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2
+205,Jakob Poeltl,SAS,San Antonio Spurs,Center,3754886,24,63,22.7,5.7,3.9,9.1,2.3,6.2,1.5,1.7,0.3,1.3,1.6,1.8,0.8,0.1,0.8,9.7,1.9
+206,Jalen Brunson,DAL,Dallas Mavericks,Point Guard,1416852,23,64,26.2,7.5,4.1,8.7,1.4,3.4,2,2.7,0.8,2.7,3.5,1.2,0.7,0.8,0.9,11.7,1.2
+207,Jalen Lecque,PHX,Phoenix Suns,Point Guard,898310,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,Jalen McDaniels,CHA,Charlotte Hornets,Power Forward,898310,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,Jamal Murray,DEN,Denver Nuggets,Point Guard,4444746,23,63,25.1,18.7,3.8,9.2,2.3,6,1.2,1.4,0.2,1.8,2,1.7,0.5,0,0.9,8.9,1.9
+210,James Ennis III,ORL,Orlando Magic,Small Forward,1882867,29,55,22,0,4.1,9.7,1.9,5,1,1.2,0.3,2.4,2.7,1.4,0.7,0.1,1,9.3,0
+211,James Harden,HOU,Houston Rockets,Shooting Guard,38199000,30,58,23.1,39.5,4.3,8.3,0.3,1.3,2.1,3.1,2.8,4.3,7.1,1.5,0.7,0.4,1.3,14.6,3.1
+212,James Johnson,MIN,Minnesota Timberwolves,Power Forward,15349400,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,JaMychal Green,LAC,LA Clippers,Power Forward,4767000,29,65,29.4,7.7,4.1,9.4,1.9,4.9,1,1.4,0.6,3,3.6,2.4,0.8,0.2,1.4,10.9,2.5
+214,Jared Dudley,LAL,Los Angeles Lakers,Small Forward,1620564,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,Jared Harper,PHX,Phoenix Suns,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,Jaren Jackson Jr.,MEM,Memphis Grizzlies,Power Forward,6927480,20,61,26.6,0,4,9.4,1.4,4.7,1.6,2,0.7,3.8,4.5,1.6,0.7,2.4,1,13.4,0
+217,Jarred Vanderbilt,MIN,Minnesota Timberwolves,Power Forward,1416852,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,Jarrell Brantley,UTA,Utah Jazz,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,Jarrett Allen,BKN,Brooklyn Nets,Center,2376840,22,58,27,12,4.5,7.6,0,0.1,1.9,3.2,3.4,6,9.4,2.4,0.9,1.1,1.5,18.8,2.6
+220,Jarrett Culver,MIN,Minnesota Timberwolves,Shooting Guard,5813640,21,59,24.8,9.2,3.6,8.3,0.7,2,2.9,3.3,0.5,1.9,2.4,5.2,0.7,0.3,2,12.5,2.1
+221,Jarrod Uthoff,MEM,Memphis Grizzlies,,,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,JaVale McGee,LAL,Los Angeles Lakers,Center,4000000,32,63,30.1,7,4.2,8.4,1.3,3.4,0.9,1.4,1.2,4.2,5.4,1.6,1.4,0.7,1.2,14,2.1
+223,Javonte Green,BOS,Boston Celtics,Shooting Guard,898310,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,Jaxson Hayes,NOP,New Orleans Pelicans,Center,4862040,20,58,24.9,8.3,4.4,9.3,0.6,1.6,1.3,1.6,1.2,4.6,5.8,4.1,1.7,0.3,1.9,15.5,3.1
+225,Jaylen Brown,BOS,Boston Celtics,Shooting Guard,6534829,23,64,25.7,19.9,4.2,6.5,0,0.1,2.3,3.7,3,6.4,9.5,1.3,0.6,1.3,1.1,18.5,3.1
+226,Jaylen Hoard,POR,Portland Trail Blazers,,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,Jaylen Nowell,MIN,Minnesota Timberwolves,Shooting Guard,1400000,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,Jayson Tatum,BOS,Boston Celtics,Power Forward,7830000,22,58,26.7,20.9,3.7,9.6,1.4,4.3,1.7,2.2,0.6,3.1,3.7,1.5,1.1,0.5,1.7,9.3,2.4
+229,Jeff Green,HOU,Houston Rockets,Power Forward,439475,33,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.8
+230,Jeff Teague,ATL,Atlanta Hawks,Point Guard,19000000,32,60,26.2,11.8,4.4,9.7,0.9,2.5,0.8,1.2,0.5,2.7,3.2,4.8,0.9,0.4,1.3,12.7,2.2
+231,Jerami Grant,DEN,Denver Nuggets,Power Forward,9346153,26,49,24.8,9.1,3.2,8.1,1.2,3.6,2.8,3.2,0.4,1.9,2.2,4.6,0.6,0,1.4,11.1,1.7
+232,Jeremiah Martin,BKN,Brooklyn Nets,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,Jeremy Lamb,IND,Indiana Pacers,Shooting Guard,10500000,28,58,29.2,16.6,3.4,8.8,1.9,6.1,1.6,2.1,0.8,5.3,6.1,2.6,1.2,0.4,1.1,13.6,2.2
+234,Jeremy Pargo,GSW,Golden State Warriors,,,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,Jerome Robinson,WAS,Washington Wizards,Shooting Guard,3567720,23,61,24.1,3.8,3.5,7.6,0.9,2.6,2.5,2.9,0.5,2.7,3.2,3.4,0.6,0.9,1.2,12.7,1.4
+236,Jevon Carter,PHX,Phoenix Suns,Point Guard,1416852,24,56,31.8,4.1,3.9,9.3,1.3,3.8,1.3,1.6,0.5,2.4,2.9,2.1,1.4,0.3,1.1,10.3,1.6
+237,Jimmy Butler,MIA,Miami Heat,Small Forward,32742000,30,62,20,20.1,3.9,7.9,1.9,4.3,0.7,0.8,0.4,2.1,2.5,1.1,0.1,0.1,0.6,9.4,1.2
+238,JJ Redick,NOP,New Orleans Pelicans,Shooting Guard,13486300,35,51,24.2,0,3.3,8.1,1.4,4.4,2.3,2.8,0.5,2.4,2.9,5,1.3,0.2,2.2,12.2,0
+239,Joe Chealey,CHA,Charlotte Hornets,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,Joe Harris,BKN,Brooklyn Nets,Small Forward,7666667,28,64,24.9,14.5,4.2,9.4,1.2,3.5,0.7,1.1,1.5,3.5,4.9,1.8,1.4,0.4,1.6,11.6,2.5
+241,Joe Ingles,UTA,Utah Jazz,Shooting Guard,11954546,32,66,25.8,7.2,3.6,8.2,2,5,1.1,1.3,0.5,1.8,2.3,1.5,0.7,0.2,0.6,9.5,2.3
+242,Joel Embiid,PHI,Philadelphia 76ers,Center,27504630,26,0,0,22.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.5
+243,John Collins,ATL,Atlanta Hawks,Power Forward,2686560,22,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.4
+244,John Henson,DET,Detroit Pistons,Power Forward,9732396,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,John Konchar,MEM,Memphis Grizzlies,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,Johnathan Motley,LAC,LA Clippers,,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,Johnathan Williams,WAS,Washington Wizards,,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,Jonah Bolden,PHX,Phoenix Suns,Power Forward,1698450,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,Jonas Valanciunas,MEM,Memphis Grizzlies,Center,16000000,28,55,28.1,14.5,3.6,9.5,2,6.3,1,1.3,0.5,2.9,3.5,2.6,0.8,0.5,1,10.3,2.7
+250,Jonathan Isaac,ORL,Orlando Magic,Power Forward,5806440,22,0,0,12.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3
+251,Jordan Bell,MEM,Memphis Grizzlies,Forward,1620564,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,Jordan Bone,DET,Detroit Pistons,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,Jordan Clarkson,UTA,Utah Jazz,Point Guard,13437500,28,55,21.3,13.9,3.9,8.9,1.1,3.7,1.5,1.8,0.5,2.4,2.9,2.1,0.5,0.3,1.4,9.2,1.2
+254,Jordan McLaughlin,MIN,Minnesota Timberwolves,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,Jordan McRae,DET,Detroit Pistons,Shooting Guard,1645357,29,0,0,8.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+256,Jordan Poole,GSW,Golden State Warriors,Shooting Guard,1964760,20,58,30,8.2,3.6,8.3,1.9,5.4,1.2,1.5,1,3.3,4.2,1.3,1.1,0.6,0.8,11.6,1.9
+257,Josh Gray,NOP,New Orleans Pelicans,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,Josh Hart,NOP,New Orleans Pelicans,Small Forward,1655160,25,57,27.4,11.9,3.5,8.4,1.9,5.7,1.2,1.6,0.9,5.5,6.5,1.6,1,0.4,1.1,13.2,2.8
+259,Josh Jackson,MEM,Memphis Grizzlies,Shooting Guard,7059480,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,Josh Magette,ORL,Orlando Magic,,,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,Josh Okogie,MIN,Minnesota Timberwolves,Small Forward,2530680,21,66,21.1,8.4,4,8.9,1,2.8,1.1,1.4,1.2,3.9,5.1,1.5,0.5,0.3,1.1,11.1,2.2
+262,Josh Reaves,DAL,Dallas Mavericks,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Josh Richardson,PHI,Philadelphia 76ers,Shooting Guard,10116576,26,58,24.8,16.1,3.7,8.1,1.3,3.7,1.4,1.6,1.5,4.4,5.9,1.9,0.6,0.3,1.2,12.9,2.9
+264,Jrue Holiday,NOP,New Orleans Pelicans,Shooting Guard,26231111,30,52,21.3,19.3,3.6,8.2,1.6,4,1.3,1.6,0.7,3.2,3.8,1.4,0.5,0.3,1.4,9.8,2.5
+265,Juan Toscano-Anderson,GSW,Golden State Warriors,Small Forward,350189,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Juancho Hernangomez,MIN,Minnesota Timberwolves,,3320000,24,56,26.3,3.5,4.1,7.7,1,2.8,0.9,1.3,1.9,5.4,7.3,2.2,1,0.4,1.1,15.9,0.7
+267,Julius Randle,NYK,New York Knicks,Power Forward,18000000,25,60,21.5,17.3,3.7,8.4,1,3.1,1.7,1.9,0.9,4.4,5.4,1.7,0.4,0.5,1.3,11.8,3
+268,Justin Anderson,BKN,Brooklyn Nets,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,Justin Holiday,IND,Indiana Pacers,Small Forward,4767000,31,50,23.2,8.2,3.7,8.4,1.1,3.2,1.5,2,0.4,2.8,3.2,2.2,0.9,0.3,1.9,9.5,1.8
+270,Justin Jackson,DAL,Dallas Mavericks,Small Forward,3280920,25,65,28.9,6.4,3.6,8.5,1,3.1,1.6,1.9,1.2,2.7,3.9,5.4,1.2,0.1,2,13.5,1.1
+271,Justin James,SAC,Sacramento Kings,Shooting Guard,898310,23,0,0,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+272,Justin Patton,OKC,Oklahoma City Thunder,Center,1620564,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,Justin Robinson,WAS,Washington Wizards,Point Guard,898310,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,Justin Wright-Foreman,UTA,Utah Jazz,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Justise Winslow,MEM,Memphis Grizzlies,Small Forward,13000000,24,0,0,12.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.6
+276,Juwan Morgan,UTA,Utah Jazz,Small Forward,746054,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Kadeem Allen,NYK,New York Knicks,,,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,Karl-Anthony Towns,MIN,Minnesota Timberwolves,Center,27285000,24,0,0,25.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.3
+279,Kawhi Leonard,LAC,LA Clippers,Small Forward,32742000,28,63,22.8,25,3.3,7.5,2.4,6.2,0.7,1,0.3,1.9,2.2,0.9,0.6,0.2,0.7,8.6,2.1
+280,Keita Bates-Diop,DEN,Denver Nuggets,Small Forward,1416852,24,0,0,8.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1
+281,Kelan Martin,MIN,Minnesota Timberwolves,,,24,0,0,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2
+282,Keldon Johnson,SAS,San Antonio Spurs,Small Forward,1950600,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,Kelly Olynyk,MIA,Miami Heat,Power Forward,12667885,29,64,29.9,9.2,3.4,7.7,1.9,4.8,1,1.3,0.4,3.6,4,5.2,0.9,0.1,1.9,13.4,2.7
+284,Kelly Oubre Jr.,PHX,Phoenix Suns,Small Forward,15625000,24,61,24.9,0,3.8,8.3,0.8,2.4,1.4,1.9,1,4.3,5.3,2.3,1.2,0.1,1.1,12.7,0
+285,Kemba Walker,BOS,Boston Celtics,Point Guard,32742000,30,64,21.8,21.9,3.5,8,2,5,0.8,1.1,0.3,2.1,2.3,1.1,0.6,0.2,0.8,8.3,1.7
+286,Kendrick Nunn,MIA,Miami Heat,Shooting Guard,1416852,24,61,23.1,15.3,4.1,5.6,0,0,1.4,2.4,3,4,7,0.6,0.9,2,0.6,17,2.7
+287,Kenrich Williams,NOP,New Orleans Pelicans,Small Forward,1416852,25,0,0,5.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7
+288,Kent Bazemore,SAC,Sacramento Kings,Shooting Guard,19269662,30,47,27.5,7.7,3.1,7.5,2.2,5.7,1.2,1.3,0.1,1.8,1.9,1.9,0.4,0.2,0.8,8.8,2.9
+289,Kentavious Caldwell-Pope,LAL,Los Angeles Lakers,Shooting Guard,8089282,27,52,21.2,8,3.4,6.5,1.4,2.9,1.3,1.6,0.9,2.1,3,2.9,0.8,0.1,0.9,12.1,1.7
+290,Kevin Hervey,OKC,Oklahoma City Thunder,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+291,Kevin Huerter,ATL,Atlanta Hawks,Shooting Guard,2636280,21,63,25.5,8.5,3.5,7.4,1.4,3.5,1.2,1.5,0.6,1.5,2.1,1.7,0.8,0.2,0.9,9.2,2
+292,Kevin Knox II,NYK,New York Knicks,Small Forward,4380120,20,58,23.6,0,3.5,8.6,1.4,3.5,1.1,1.2,0.4,1.9,2.3,3.3,0.8,0.2,1.3,9.5,0
+293,Kevin Love,CLE,Cleveland Cavaliers,Power Forward,28942830,31,59,23.1,16.7,3.5,7.7,1.3,3.7,1,1.3,1,3.9,4.9,2.3,1.4,0.3,1.2,12.6,1.5
+294,Kevin Porter Jr.,CLE,Cleveland Cavaliers,Shooting Guard,1290960,20,64,29.7,0,3.3,7.1,1.5,4.1,1.1,1.5,2,3.5,5.5,1.5,0.7,0.6,1,12.4,0
+295,Kevon Looney,GSW,Golden State Warriors,Power Forward,4464226,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,Khem Birch,ORL,Orlando Magic,Power Forward,3000000,27,0,0,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.8
+297,Khris Middleton,MIL,Milwaukee Bucks,Small Forward,30603448,28,58,23.8,17.4,3.7,6.6,0.4,1.4,1.4,1.8,2.2,4.3,6.6,1.6,0.6,1.3,0.8,15.3,2.3
+298,Khyri Thomas,DET,Detroit Pistons,Shooting Guard,1416852,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,Kostas Antetokounmpo,LAL,Los Angeles Lakers,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,Kris Dunn,CHI,Chicago Bulls,Point Guard,5348007,26,59,20.3,6.4,3.6,6.5,0.1,0.7,2,2.6,1.9,4.3,6.2,1.9,0.7,1.1,1.3,14.2,3.4
+301,Kristaps Porzingis,DAL,Dallas Mavericks,Power Forward,27285000,24,45,24.2,16.8,4.2,6.8,0,0.2,0.8,1.4,3.3,6.6,9.9,1.7,0.6,1,1.1,18,3
+302,Ky Bowman,GSW,Golden State Warriors,Point Guard,350189,22,0,0,8.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+303,Kyle Anderson,MEM,Memphis Grizzlies,Small Forward,9073050,26,63,23.9,6.7,3.7,9,1,3.5,0.9,1.9,1.1,2.3,3.4,1.7,0.9,0.6,1.3,8.2,1.7
+304,Kyle Guy,SAC,Sacramento Kings,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,Kyle Korver,MIL,Milwaukee Bucks,Shooting Guard,1620564,39,66,25.7,5.9,3.2,7.1,1.6,4.3,1,1.2,1.5,3.9,5.4,1.2,0.3,1.2,0.7,12.5,0.9
+306,Kyle Kuzma,LAL,Los Angeles Lakers,Power Forward,1974600,24,56,22.6,11.1,3,7.2,2.1,5.1,1,1.3,0.3,1.6,1.9,1.9,0.7,0.1,1.1,8,1.8
+307,Kyle Lowry,TOR,Toronto Raptors,Point Guard,34996296,34,58,28.2,20.7,3.4,7.7,0.6,1.7,1.5,2.1,1.1,3.7,4.7,4,1.1,0.5,1.7,12.6,2.9
+308,Kyle O'Quinn,PHI,Philadelphia 76ers,Center,1620564,30,0,0,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4
+309,Kyrie Irving,BKN,Brooklyn Nets,Point Guard,31742000,28,0,0,28.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.9
+310,KZ Okpala,MIA,Miami Heat,Small Forward,898310,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,LaMarcus Aldridge,SAS,San Antonio Spurs,Power Forward,26000000,34,51,24.5,18.9,3.3,6.3,0.7,2.5,1.7,2.2,1.1,3.1,4.2,1.1,1.1,0.7,0.5,11.9,2.1
+312,Landry Shamet,LAC,LA Clippers,Shooting Guard,1995120,23,57,22.4,9.1,2.9,8.8,1.3,4.6,1.7,2.1,0.2,1.9,2.1,2.4,0.6,0.2,1.3,6.4,3.1
+313,Langston Galloway,DET,Detroit Pistons,Shooting Guard,7333333,28,65,21.5,12.6,3.2,8.1,1.1,3.4,1.2,1.4,0.4,1.9,2.3,1.5,0.4,0.2,0.9,7.1,1.2
+314,Larry Nance Jr.,CLE,Cleveland Cavaliers,Power Forward,12727273,27,64,25.1,0,2.9,7.7,1.2,3.6,1.7,2.2,0.4,4,4.3,1.3,1.1,0.6,1.3,9.4,0
+315,Lauri Markkanen,CHI,Chicago Bulls,Power Forward,5300400,23,65,27.3,13.6,3.2,6.3,0.9,2.4,1.4,1.6,0.9,3.1,4,1.8,1.4,0.6,1,12.2,1.9
+316,LeBron James,LAL,Los Angeles Lakers,Small Forward,37436858,35,49,24.2,25.4,3.5,7.8,1.3,3.5,0.4,0.5,0.4,2,2.3,1.3,0.9,0.1,1,7.9,1.7
+317,Lonnie Walker IV,SAS,San Antonio Spurs,Shooting Guard,2689920,21,62,25,0,2.7,6.4,0.7,2.5,2.5,3.1,1.4,2.9,4.3,1.6,1.1,0.4,1.4,10.3,0
+318,Lonzo Ball,NOP,New Orleans Pelicans,Point Guard,8719320,22,51,18.8,10.9,3.4,8,1.2,3.1,0.6,0.8,0.6,1.8,2.4,1.4,0.5,0.2,0.7,7.5,1.9
+319,Lou Williams,LAC,LA Clippers,Shooting Guard,8000000,33,60,23.4,21.1,3,7.2,1.4,3.9,1,1.5,0.4,2,2.4,1.6,0.7,0.2,0.6,8,1.5
+320,Louis King,DET,Detroit Pistons,,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,Luguentz Dort,OKC,Oklahoma City Thunder,,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,Luka Doncic,DAL,Dallas Mavericks,Shooting Guard,7683360,21,65,21.6,30.3,3.4,7.4,0.8,2.2,0.8,1,0.3,1.4,1.7,3.5,0.8,0.2,0.7,9.9,2.4
+323,Luka Samanic,SAS,San Antonio Spurs,Power Forward,2689920,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324,Luke Kennard,DET,Detroit Pistons,Shooting Guard,3827160,23,0,0,16.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2
+325,Luke Kornet,CHI,Chicago Bulls,Center,2250000,24,0,0,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1
+326,Malcolm Brogdon,IND,Indiana Pacers,Point Guard,20000000,27,65,24.9,18.9,2.9,6.6,1.9,4.4,0.7,0.9,0.5,2.7,3.2,1.3,1.2,0.6,0.6,10.2,2.1
+327,Malcolm Miller,TOR,Toronto Raptors,Shooting Guard,1588231,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,Malik Beasley,MIN,Minnesota Timberwolves,Shooting Guard,2731714,23,49,18.3,6.5,3.4,6.2,0.3,1.1,1.2,1.9,1.9,4.1,6,1,0.4,0.9,1,12.2,1.2
+329,Malik Monk,CHA,Charlotte Hornets,Shooting Guard,4028400,22,56,22,9.6,3.4,5.1,0,0,1.5,2.2,2.5,7.5,10,1.9,0.3,0.9,1.3,17.7,1.7
+330,Malik Newman,CLE,Cleveland Cavaliers,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,Marc Gasol,TOR,Toronto Raptors,Center,25595700,35,0,0,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.3
+332,Marco Belinelli,SAS,San Antonio Spurs,Shooting Guard,5846154,34,61,25.1,5.2,2.9,7,1.9,4.9,0.5,0.7,0.7,2.7,3.4,1.4,1.2,0.5,0.9,9.6,0.8
+333,Marcus Morris Sr.,LAC,LA Clippers,Small Forward,15000000,30,57,17.9,0,3.2,6.8,0.8,2.1,1.1,1.3,0.4,2,2.4,3.3,0.4,0.1,1.2,9.2,0
+334,Marcus Smart,BOS,Boston Celtics,Point Guard,12553571,26,51,17.5,11.9,3.5,6.1,0,0.1,1.2,1.7,2.8,5,7.7,1,0.4,0.7,1,13.8,2.4
+335,Marial Shayok,PHI,Philadelphia 76ers,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,Mario Hezonja,POR,Portland Trail Blazers,Small Forward,1737145,25,49,20.3,4.8,2.8,6.6,1.9,4.7,0.7,0.9,0.8,2.1,2.9,1.1,0.6,0.3,0.6,8.3,2.2
+337,Markelle Fultz,ORL,Orlando Magic,Point Guard,9745200,22,52,19.4,12.1,2.8,6.8,0.7,2.3,1.7,2,0.7,3,3.7,3,1.3,0.3,1.5,10.6,2.1
+338,Markieff Morris,LAL,Los Angeles Lakers,Power Forward,1750000,30,59,27.8,10.4,2.9,6.5,1.7,4.3,0.5,0.5,0.2,1.7,1.9,2.2,0.5,0.3,0.5,8.7,2.4
+339,Marko Guduric,MEM,Memphis Grizzlies,Shooting Guard,2625000,25,0,0,5.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+340,Marques Bolden,CLE,Cleveland Cavaliers,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,Marquese Chriss,GSW,Golden State Warriors,Center,654469,22,64,18.1,7.1,3.2,5.3,0,0,1.7,2.2,2.6,4.6,7.2,1.1,0.2,0.9,0.8,14,2
+342,Marvin Bagley III,SAC,Sacramento Kings,Power Forward,8556120,21,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+343,Marvin Williams,MIL,Milwaukee Bucks,Power Forward,604278,33,53,28.2,7.9,2.7,6.1,1.5,3.9,1.2,1.4,0.6,4,4.6,1.7,1.3,0.3,1.1,11.2,1.7
+344,Mason Plumlee,DEN,Denver Nuggets,Power Forward,14041096,30,48,27.1,7.1,2.9,6.8,1.6,4.1,0.6,0.9,1.2,4.2,5.4,3.7,1.1,0.5,1.3,13.2,2.8
+345,Matisse Thybulle,PHI,Philadelphia 76ers,Shooting Guard,2582160,23,64,17,4.2,2.8,6.1,1.4,3.5,0.7,0.8,0.7,2.7,3.4,1.7,0.5,0.2,1,9.1,2.4
+346,Matt Mooney,CLE,Cleveland Cavaliers,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,Matt Thomas,TOR,Toronto Raptors,Shooting Guard,898310,25,0,0,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+348,Matthew Dellavedova,CLE,Cleveland Cavaliers,Point Guard,9607500,29,55,18.4,0,3.2,4.6,0,0.1,1.4,1.8,1.5,3.4,4.9,1,1,1.5,1,13.3,0
+349,Maurice Harkless,NYK,New York Knicks,Small Forward,11011234,27,59,18.5,5.5,2.6,5.4,1.4,3.1,1.2,1.4,0.6,3.8,4.4,1.6,0.6,0.3,1.1,10.6,3
+350,Max Strus,CHI,Chicago Bulls,Shooting Guard,898310,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,Maxi Kleber,DAL,Dallas Mavericks,Power Forward,8000000,28,53,20,8.3,2.8,6.6,1.5,3.8,0.6,0.7,0.4,1.3,1.7,0.9,0.7,0.2,0.4,7,1.9
+352,Melvin Frazier Jr.,ORL,Orlando Magic,Shooting Guard,1416852,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,Meyers Leonard,MIA,Miami Heat,Center,11286516,28,49,18.1,6.1,2.6,6,0.9,2.2,1.5,1.9,1.6,2.9,4.5,1,0.7,0.5,1.1,9.2,2.2
+354,Mfiondu Kabengele,LAC,LA Clippers,Power Forward,1977000,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,Michael Carter-Williams,ORL,Orlando Magic,Point Guard,1620564,28,0,0,4.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5
+356,Michael Frazier,HOU,Houston Rockets,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,Michael Kidd-Gilchrist,DAL,Dallas Mavericks,Small Forward,595122,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,Michael Porter Jr.,DEN,Denver Nuggets,Power Forward,3389400,21,62,19.2,0,3,4.1,0,0.1,1.4,2.9,2.5,4.9,7.4,0.7,0.4,1.2,1.2,13.5,0
+359,Mikal Bridges,PHX,Phoenix Suns,Small Forward,4161000,23,62,24.7,6.7,2.6,6.5,1.6,4.5,0.8,1,0.3,2.2,2.6,1.5,0.6,0.1,0.7,7.5,1.8
+360,Mike Conley,UTA,Utah Jazz,Point Guard,32511624,32,0,0,13.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.1
+361,Mike Muscala,OKC,Oklahoma City Thunder,Power Forward,2028594,28,0,0,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5
+362,Mike Scott,PHI,Philadelphia 76ers,Power Forward,4767000,31,56,17,5.6,2.8,4.2,0,0.1,1.9,3.1,1.5,2.5,4,0.9,0.4,0.9,0.7,10.4,1.6
+363,Miles Bridges,CHA,Charlotte Hornets,Small Forward,3755400,22,48,14,12.6,2.9,5.9,0.9,2.1,0.7,0.9,1.1,3,4.1,0.7,0.4,0.4,0.7,9.2,2.1
+364,Mitchell Robinson,NYK,New York Knicks,Center,1599712,22,65,19,8.5,3,6.6,0.7,1.9,0.7,0.9,0.1,1.4,1.6,4.4,0.9,0.1,0.8,9.8,3.8
+365,Miye Oni,UTA,Utah Jazz,Shooting Guard,898310,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,Mo Bamba,ORL,Orlando Magic,Center,5697600,22,53,19.4,0,2.8,5.2,0,0,1.7,2.8,2.3,3.5,5.8,0.9,0.2,0.9,0.9,10.8,0
+367,Monte Morris,DEN,Denver Nuggets,Point Guard,1588231,24,58,17.4,6.6,2.7,5.9,0.9,2.4,1.1,1.4,1.5,4.3,5.8,1.2,0.8,1,0.9,11.7,0.7
+368,Montrezl Harrell,LAC,LA Clippers,Power Forward,6000000,26,51,24.9,19.1,3,6.7,0.6,2.2,0.8,1.1,0.5,3.2,3.6,3.4,2,0.3,1.3,11.3,2.2
+369,Moritz Wagner,WAS,Washington Wizards,Small Forward,2063520,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,Moses Brown,POR,Portland Trail Blazers,,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,Mychal Mulder,GSW,Golden State Warriors,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,Myles Turner,IND,Indiana Pacers,Center,18000000,24,48,15.7,12.2,2.8,6,0.6,1.6,1.1,1.4,0.4,2,2.4,2.2,0.4,0.2,1.4,7.6,2.5
+373,Nassir Little,POR,Portland Trail Blazers,Small Forward,2105520,20,65,21.7,4.4,2.8,5.9,0.7,1.8,1.1,1.4,1,3,4,3.4,1.2,0.3,1,11.7,2
+374,Naz Mitrou-Long,IND,Indiana Pacers,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,Naz Reid,MIN,Minnesota Timberwolves,Center,898310,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,Nemanja Bjelica,SAC,Sacramento Kings,Power Forward,6825000,32,54,20.3,10.8,3.2,5.6,0,0,0.7,1.2,1.6,4.3,5.8,1.3,0.9,1.1,0.7,12.8,2.9
+377,Nerlens Noel,OKC,Oklahoma City Thunder,Center,1620564,26,52,19.2,7.6,2.7,5.7,0,0.3,1.8,2.5,2,2.9,4.9,1.7,0.8,0.4,0.9,10.5,2.9
+378,Nickeil Alexander-Walker,NOP,New Orleans Pelicans,Shooting Guard,2964840,21,0,0,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5
+379,Nicolas Batum,CHA,Charlotte Hornets,Shooting Guard,25565217,31,0,0,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.6
+380,Nicolas Claxton,BKN,Brooklyn Nets,Power Forward,898310,21,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1
+381,Nicolo Melli,NOP,New Orleans Pelicans,Power Forward,4102564,29,53,17,6.1,2.9,4.7,0,0.1,1.4,2.6,1.7,3.6,5.3,2.4,0.5,0.6,1.4,11.7,1.9
+382,Nigel Williams-Goss,UTA,Utah Jazz,Point Guard,1500000,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,Nikola Jokic,DEN,Denver Nuggets,Center,27504630,25,64,34.4,15.4,2.5,5.8,1.5,4,0.6,0.7,1.6,5.3,6.9,1.6,1.1,0.5,1,12.7,3.3
+384,Nikola Vucevic,ORL,Orlando Magic,Center,28000000,29,48,20.5,17.1,2.9,6.8,0.9,2.6,0.6,0.9,0.5,2.5,3,5,0.8,0,1.9,9.8,1.9
+385,Noah Vonleh,DEN,Denver Nuggets,Power Forward,2000000,24,0,0,4.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4
+386,Norman Powell,TOR,Toronto Raptors,Shooting Guard,10116576,27,0,0,13.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.8
+387,Norvel Pelle,PHI,Philadelphia 76ers,Small Forward,350189,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,OG Anunoby,TOR,Toronto Raptors,Small Forward,2281800,22,52,17.1,0,2.4,5.3,1.3,3.5,0.8,1.2,0.7,2.3,3,1.3,0.6,0.4,0.8,8,0
+389,Omari Spellman,MIN,Minnesota Timberwolves,Power Forward,1897800,22,56,16,7.9,2.4,5.2,0.8,2.2,1.1,1.3,1.1,3.9,4.9,0.8,0.4,0.3,0.6,9.7,1.2
+390,Oshae Brissett,TOR,Toronto Raptors,,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,Otto Porter Jr.,CHI,Chicago Bulls,Small Forward,27250575,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,P.J. Tucker,HOU,Houston Rockets,Power Forward,8349039,35,61,16.8,9.8,3,4.6,0,0.1,0.8,1.2,1.8,4,5.8,0.6,0.5,1.5,0.8,12.3,3.2
+393,P.J. Washington,CHA,Charlotte Hornets,,,21,50,16.7,11.7,2.2,5.2,1.7,4.1,0.6,0.7,0.3,1.8,2.1,1.2,0.4,0.2,0.8,6.8,2.7
+394,Pascal Siakam,TOR,Toronto Raptors,Power Forward,2351839,26,48,17.4,25.1,2.5,6,1.2,3.4,0.5,0.7,0.2,1.7,1.9,1.2,0.5,0.1,0.4,6.1,2.9
+395,Pat Connaughton,MIL,Milwaukee Bucks,Shooting Guard,1723050,27,63,19.3,5.6,2.2,5,0.5,1.4,1.7,1.8,0.3,1.7,2,2.5,0.8,0.2,1.1,7.9,1
+396,Patrick Beverley,LAC,LA Clippers,Point Guard,12345680,31,63,18.9,7.5,3,5.7,0.1,0.2,0.5,0.6,0.5,2.1,2.6,5,0.7,0.2,1.4,10.7,3.8
+397,Patrick McCaw,TOR,Toronto Raptors,Small Forward,4000000,24,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5
+398,Patrick Patterson,LAC,LA Clippers,Power Forward,1620564,31,55,20.5,5.2,2.3,5.5,1.3,3.7,0.6,0.8,1.4,5,6.3,0.8,0.5,0.4,0.8,10.1,0.8
+399,Patty Mills,SAS,San Antonio Spurs,Point Guard,12428571,31,65,17.9,11,2.2,6.2,1,3.1,1,1.6,0.4,2.4,2.8,0.9,0.4,0.4,0.7,5.8,1.5
+400,Paul George,LAC,LA Clippers,Shooting Guard,30560700,30,0,0,23.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2
+401,Paul Millsap,DEN,Denver Nuggets,Power Forward,30350000,35,0,0,13.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.9
+402,Paul Watson,TOR,Toronto Raptors,,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,PJ Dozier,DEN,Denver Nuggets,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,Quinn Cook,LAL,Los Angeles Lakers,Point Guard,3000000,27,0,0,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.6
+405,Quinndary Weatherspoon,SAS,San Antonio Spurs,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,Rajon Rondo,LAL,Los Angeles Lakers,Point Guard,2564753,34,63,20.2,8.8,2.4,5.4,1,2.7,0.5,0.7,1.1,4.6,5.7,1.1,0.4,0.4,0.6,10.3,1.1
+407,Raul Neto,PHI,Philadelphia 76ers,Point Guard,1620564,28,64,24,0,2.4,5.8,0.7,2.1,0.8,0.9,0.6,2,2.5,3.4,0.7,0.3,1,8.8,0
+408,Rayjon Tucker,UTA,Utah Jazz,Shooting Guard,578573,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,Reggie Bullock,NYK,New York Knicks,Small Forward,4000000,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,Reggie Jackson,LAC,LA Clippers,Point Guard,512721,30,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+411,Richaun Holmes,SAC,Sacramento Kings,Center,4767000,26,0,0,12.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.2
+412,Ricky Rubio,PHX,Phoenix Suns,Point Guard,16200000,29,55,13.2,12.6,2.2,4.7,0.5,1.8,1.5,1.9,1.7,2.7,4.4,0.4,0.4,1,0.4,9.1,2.8
+413,RJ Barrett,NYK,New York Knicks,Shooting Guard,7839960,20,57,20.8,0,2.3,5.8,0.8,2.4,0.9,1,0.4,1.7,2.1,3,0.9,0.3,1.2,7.7,0
+414,Robert Covington,HOU,Houston Rockets,Power Forward,11301219,29,64,29.1,12.6,2.2,5,1.3,3.3,0.6,0.8,0.3,5,5.3,2.5,0.7,0.4,0.8,11.5,2.9
+415,Robert Williams III,BOS,Boston Celtics,Center,1937520,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,Robin Lopez,MIL,Milwaukee Bucks,Center,4767000,32,52,19.4,5.1,2.1,4.8,1,2.8,0.9,1,0.4,2.5,2.8,1.1,0.7,0.5,0.5,7.9,1.8
+417,Rodions Kurucs,BKN,Brooklyn Nets,Small Forward,1699236,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,Rodney Hood,POR,Portland Trail Blazers,Small Forward,5718000,27,0,0,11.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2
+419,Rodney McGruder,LAC,LA Clippers,Shooting Guard,4807693,28,49,20.1,4,2.4,4.6,1,2.4,0.3,0.5,0.6,4.5,5.1,1.1,0.3,0.3,0.7,9.8,1.7
+420,Romeo Langford,BOS,Boston Celtics,Shooting Guard,3458400,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,Rondae Hollis-Jefferson,TOR,Toronto Raptors,Small Forward,2500000,25,62,16.5,9.4,2.7,4.6,0.1,0.2,0.7,0.9,1.8,2.5,4.3,0.8,0.4,0.5,0.8,9.3,1.9
+422,Royce O'Neale,UTA,Utah Jazz,Small Forward,1618520,27,61,17.3,5.7,2.1,4.8,0.8,2.3,1,1.3,1,2.3,3.3,0.9,0.5,0.3,0.7,7.3,3
+423,Rudy Gay,SAS,San Antonio Spurs,Small Forward,14500000,33,48,17.4,11.4,2.1,5.1,0.9,2.7,0.9,1.5,0.9,3.2,4.1,0.8,0.4,0.2,0.7,7.2,1.5
+424,Rudy Gobert,UTA,Utah Jazz,Center,23241573,27,48,15.8,13.9,2.1,4.6,0.8,2.2,1,1.3,0.3,1.6,1.9,0.7,0.4,0.4,0.8,5.9,3.1
+425,Rui Hachimura,WAS,Washington Wizards,Power Forward,4469160,22,0,0,13.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2
+426,Russell Westbrook,HOU,Houston Rockets,Point Guard,38506482,31,58,13.3,21.9,2.1,4.6,1.3,3.2,0.3,0.4,0.2,1.7,1.9,0.6,0.2,0.1,0.4,5.6,4.1
+427,Ryan Anderson,HOU,Houston Rockets,Power Forward,1620564,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,Ryan Arcidiacono,CHI,Chicago Bulls,Point Guard,3000000,26,52,15,4.5,2,5.2,1.1,3,0.6,0.8,0.1,1.7,1.7,1.2,0.2,0,0.3,5.3,2
+429,Ryan Broekhoff,DAL,Dallas Mavericks,Shooting Guard,1416852,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,Sekou Doumbouya,DET,Detroit Pistons,Small Forward,3285120,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+431,Semi Ojeleye,BOS,Boston Celtics,Power Forward,1618520,25,62,23,2.9,2.3,4.6,0.5,1.6,0.6,1.1,0.9,3,3.9,1.1,0.9,0.5,0.9,8.6,1.1
+432,Serge Ibaka,TOR,Toronto Raptors,Center,23271604,30,63,17.8,13.8,2.1,5.1,1.2,3.2,0.4,0.5,0.9,2.7,3.6,0.8,0.3,0.1,0.4,6.9,2.6
+433,Seth Curry,DAL,Dallas Mavericks,Shooting Guard,7461380,29,59,19.3,8.4,2.3,4.7,0.3,1.1,0.7,1.1,0.9,3.4,4.4,2.2,0.8,0.5,0.9,9.8,1.8
+434,Shabazz Napier,WAS,Washington Wizards,Point Guard,1845301,28,58,16,6.6,2.1,5.4,0.8,2.6,0.6,0.8,0.5,2,2.4,0.8,0.2,0.2,0.2,5.8,0.8
+435,Shai Gilgeous-Alexander,OKC,Oklahoma City Thunder,Shooting Guard,3952920,21,53,14.5,18.1,2.2,5,0.5,1.3,0.7,1,0.4,1.8,2.2,0.9,0.5,0.2,0.6,5.7,1.8
+436,Shake Milton,PHI,Philadelphia 76ers,Shooting Guard,1455697,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,Shamorie Ponds,TOR,Toronto Raptors,,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+438,Shaquille Harrison,CHI,Chicago Bulls,Point Guard,1620564,26,0,0,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2
+439,Skal Labissiere,ATL,Atlanta Hawks,Power Forward,2338847,24,0,0,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7
+440,Solomon Hill,MIA,Miami Heat,Small Forward,12758781,29,51,12.9,6.4,1.9,5,0.8,2.4,0.9,1.3,0.4,1,1.4,0.8,0.3,0.1,0.8,3.9,1.7
+441,Spencer Dinwiddie,BKN,Brooklyn Nets,Point Guard,10605600,27,55,16.1,20.8,2.2,3.2,0,0.2,1.1,1.5,1.3,2.4,3.7,0.6,0.5,0.7,0.5,9.2,3.5
+442,Stanley Johnson,TOR,Toronto Raptors,Small Forward,3623000,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,Stanton Kidd,UTA,Utah Jazz,Small Forward,898310,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,Stephen Curry,GSW,Golden State Warriors,Point Guard,40231758,32,0,0,20.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5
+445,Sterling Brown,MIL,Milwaukee Bucks,Shooting Guard,1618520,25,0,0,5.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4
+446,Steven Adams,OKC,Oklahoma City Thunder,Center,25842697,26,60,14.5,10.4,2.2,4.7,0.6,1.7,0.5,0.8,1.6,3.4,5,0.7,0.4,1.4,0.7,9.6,1.9
+447,Svi Mykhailiuk,DET,Detroit Pistons,,,23,60,14.4,5.7,2.3,4.6,0.6,1.6,0.4,0.7,0.9,1.6,2.4,0.7,0.2,0.7,0.9,6,1.2
+448,T.J. McConnell,IND,Indiana Pacers,Point Guard,3500000,28,58,17.8,6.7,1.9,4.5,0.7,1.8,1,1.3,0.2,1.7,1.9,1.8,1,0.3,0.8,6.8,1.3
+449,T.J. Warren,IND,Indiana Pacers,Small Forward,10810000,26,54,18.4,18,1.9,4.6,1.1,2.9,0.6,0.8,0.5,2.4,2.9,1.8,0.7,0.2,0.9,7.1,2.7
+450,Tacko Fall,BOS,Boston Celtics,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,Taj Gibson,NYK,New York Knicks,Center,9000000,34,58,16.6,5.5,2.3,3.8,0,0,0.6,1.3,1.8,3.6,5.3,1.8,0.5,1.4,0.8,11.5,2.3
+452,Talen Horton-Tucker,LAL,Los Angeles Lakers,Shooting Guard,898310,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,Tariq Owens,PHX,Phoenix Suns,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,Taurean Prince,BKN,Brooklyn Nets,Power Forward,3481986,26,61,18.3,13.5,2,4.3,0.7,2.2,0.4,0.6,0.9,3.3,4.2,1.6,0.3,0.5,0.8,8.4,2.7
+455,Terance Mann,LAC,LA Clippers,Shooting Guard,1000000,23,0,0,2.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1
+456,Terence Davis,TOR,Toronto Raptors,Shooting Guard,898310,23,60,14.6,6.8,1.8,5.1,1,3.4,0.4,0.5,0.3,1.8,2.1,0.8,0.4,0.4,0.6,4.7,1.9
+457,Terrance Ferguson,OKC,Oklahoma City Thunder,Small Forward,2475840,22,50,17.4,5.7,1.9,4.2,0.7,2.2,0.4,0.6,1,2.2,3.1,0.7,0.4,0.6,0.4,6.9,3
+458,Terrence Ross,ORL,Orlando Magic,Shooting Guard,12500000,29,48,18.8,12.6,1.9,4.3,0.4,1.6,0.9,1.4,0.8,2.5,3.3,2,0.8,0.2,0.9,7.4,1.8
+459,Terry Rozier,CHA,Charlotte Hornets,Point Guard,19894737,26,47,16.3,17.7,1.7,4,0.4,1.4,0.9,1.1,0.6,2.9,3.4,0.9,0.6,0.2,0.8,6.6,2.3
+460,Thabo Sefolosha,HOU,Houston Rockets,Small Forward,1620564,36,0,0,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+461,Thaddeus Young,CHI,Chicago Bulls,Power Forward,12900000,31,57,19.5,8.8,1.7,4.1,0.9,2.5,0.4,0.7,0.6,0.9,1.5,1.2,1.4,0.7,0.8,6,1.6
+462,Thanasis Antetokounmpo,MIL,Milwaukee Bucks,Small Forward,1445697,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,Theo Pinson,BKN,Brooklyn Nets,Shooting Guard,1445697,24,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4
+464,Thomas Bryant,WAS,Washington Wizards,Center,8000000,22,0,0,13.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4
+465,Thon Maker,DET,Detroit Pistons,Center,3569643,23,60,12.9,3.5,1.6,3.2,0.4,1.1,1.2,1.8,0.9,1.9,2.8,0.7,0.4,0.7,0.8,6.2,1.4
+466,Tim Frazier,DET,Detroit Pistons,Point Guard,1620564,29,0,0,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4
+467,Tim Hardaway Jr.,DAL,Dallas Mavericks,Shooting Guard,20025127,28,50,10.7,12.4,2.1,3.1,0,0,0.5,0.8,1.8,2.5,4.3,0.3,0.2,0.5,0.5,8.3,1.9
+468,Timothe Luwawu-Cabarrot,BKN,Brooklyn Nets,Shooting Guard,654469,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+469,TJ Leaf,IND,Indiana Pacers,,,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,Tobias Harris,PHI,Philadelphia 76ers,Small Forward,32742000,27,50,15.1,18.4,1.6,4.1,0.9,2.3,0.4,0.5,0.5,1.5,2,1.3,0.8,0.3,0.6,5.7,3
+471,Tomas Satoransky,CHI,Chicago Bulls,Shooting Guard,10000000,28,51,11.9,9.7,1.5,3.7,1.1,2.8,0.5,0.7,0.6,1.8,2.4,0.6,0.1,0.1,0.4,5.1,2.1
+472,Tony Bradley,UTA,Utah Jazz,Center,1962360,22,58,17.7,4.3,1.7,3.2,0.4,0.9,0.9,1.1,1.1,2.1,3.2,1.1,0.6,0.4,0.7,7.4,1.8
+473,Tony Snell,DET,Detroit Pistons,Small Forward,11392857,28,58,16,7.9,1.6,3.8,0.9,2.4,0.5,0.7,0.3,1.6,1.9,1.7,0.5,0.1,0.6,5.5,1.9
+474,Torrey Craig,DEN,Denver Nuggets,Small Forward,2000000,29,53,17.2,2.8,1.7,4.3,0.6,1.9,0.6,0.9,0.4,3.3,3.7,0.5,0.4,0.7,0.8,6.1,2
+475,Trae Young,ATL,Atlanta Hawks,Point Guard,6273000,21,55,16.9,28.7,1.6,4.4,0.6,2.2,0.7,1,0.9,1.8,2.7,0.8,0.4,0.1,0.5,4.8,1.2
+476,Tremont Waters,BOS,Boston Celtics,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,Treveon Graham,ATL,Atlanta Hawks,Shooting Guard,1645357,26,49,11.5,6.3,1.6,3.6,0.6,1.4,0.5,0.6,0.2,0.8,1.1,1.6,0.4,0.1,0.9,4.6,2.4
+478,Trevor Ariza,POR,Portland Trail Blazers,Small Forward,12195122,34,56,12.7,4.5,1.8,3.6,0.1,0.7,0.5,0.9,1.2,2.3,3.5,0.9,0.3,0.3,0.8,6.5,1.6
+479,Trey Burke,PHI,Philadelphia 76ers,Point Guard,1620564,27,0,0,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7
+480,Trey Lyles,SAS,San Antonio Spurs,Center,5500000,24,50,23.4,4.5,1.5,4,0.9,3.1,0.3,0.4,0.5,1,1.5,0.9,0.5,0.3,0.6,4.2,1.2
+481,Tristan Thompson,CLE,Cleveland Cavaliers,Center,18539130,29,54,13.1,13.9,1.3,3.4,0.5,1.3,0.9,1.2,0.3,1.3,1.6,2.1,0.4,0.1,0.7,5.1,2.5
+482,Troy Brown Jr.,WAS,Washington Wizards,Small Forward,3219480,20,55,13.6,0,1.4,3.9,0.6,1.9,0.4,0.5,0.2,1.8,1.9,1.2,0.4,0.3,0.6,4.1,0
+483,Troy Daniels,DEN,Denver Nuggets,Shooting Guard,384541,28,0,0,4.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.6
+484,Ty Jerome,PHX,Phoenix Suns,Shooting Guard,2193480,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,Tyler Cook,CLE,Cleveland Cavaliers,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,Tyler Herro,MIA,Miami Heat,Shooting Guard,3640200,20,48,11.9,13.6,1.4,3.1,0.3,1.2,0.6,0.9,0.6,1.6,2.3,0.5,0.3,0.3,0.3,4.4,1.4
+487,Tyler Johnson,PHX,Phoenix Suns,Shooting Guard,19245370,28,0,0,6.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.6
+488,Tyrone Wallace,ATL,Atlanta Hawks,Shooting Guard,1588231,26,0,0,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4
+489,Tyson Chandler,HOU,Houston Rockets,Center,1620564,37,0,0,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3
+490,Tyus Jones,MEM,Memphis Grizzlies,Point Guard,9258000,24,62,15.6,6,1.3,3.1,0.3,1.4,0.6,0.8,0.9,1.7,2.7,1,0.5,0.5,0.7,5.4,0.9
+491,Udonis Haslem,MIA,Miami Heat,Power Forward,1620564,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+492,Vic Law,ORL,Orlando Magic,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,Victor Oladipo,IND,Indiana Pacers,Shooting Guard,21000000,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,Vince Carter,ATL,Atlanta Hawks,Shooting Guard,1620564,43,47,15.6,4.9,1.1,3.3,0.8,2.6,0.4,0.5,0.6,2.2,2.8,0.7,0.3,0.2,0.6,4.7,1.7
+495,Vincent Poirier,BOS,Boston Celtics,Center,2505793,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,Vlatko Cancar,DEN,Denver Nuggets,Small Forward,898310,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+497,Wayne Ellington,NYK,New York Knicks,Shooting Guard,8000000,32,0,0,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2
+498,Wendell Carter Jr.,CHI,Chicago Bulls,Center,5201400,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+499,Wenyen Gabriel,POR,Portland Trail Blazers,Power Forward,1445697,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,Wes Iwundu,ORL,Orlando Magic,Small Forward,1618420,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,Wesley Matthews,MIL,Milwaukee Bucks,Shooting Guard,2564753,33,50,15,8.3,1.2,3.1,0.4,1.6,0.3,0.6,0.5,2,2.6,0.6,0.5,0.2,0.4,4.4,1.2
+502,Will Barton,DEN,Denver Nuggets,Small Forward,12776786,29,61,14.6,14.8,1.1,2.6,0.6,1.6,0.4,0.5,0.4,1.6,2,0.5,0.3,0.1,0.2,4.3,2.2
+503,William Howard,HOU,Houston Rockets,,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,Willie Cauley-Stein,DAL,Dallas Mavericks,Center,2177483,26,57,14.4,7.5,1.1,3.1,0.4,1.6,0.6,0.6,0.3,1,1.3,3.2,0.4,0,1,4.9,2.9
+505,Willy Hernangomez,CHA,Charlotte Hornets,Center,1676735,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,Wilson Chandler,BKN,Brooklyn Nets,Small Forward,1620564,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,Yogi Ferrell,SAC,Sacramento Kings,Point Guard,3150000,27,0,0,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.9
+508,Yuta Watanabe,MEM,Memphis Grizzlies,,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,Zach Collins,POR,Portland Trail Blazers,Power Forward,4240200,22,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.7
+510,Zach LaVine,CHI,Chicago Bulls,Point Guard,19500000,25,49,8.4,22.5,1.2,2.6,0.1,0.7,0.5,0.7,0.4,1.5,2,0.4,0.1,0.7,0.5,4.2,2.5
+511,Zach Norvell Jr.,GSW,Golden State Warriors,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,Zhaire Smith,PHI,Philadelphia 76ers,Shooting Guard,3058800,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,Zion Williamson,NOP,New Orleans Pelicans,Small Forward,9757440,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+514,Zylan Cheatham,NOP,New Orleans Pelicans,,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
