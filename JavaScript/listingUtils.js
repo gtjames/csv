@@ -3,7 +3,7 @@ var fs = require('fs');
 
 exports.readListings = () => {
     let listings = [];
-    var contents = fs.readFileSync(__dirname + '/dallasListings.csv', 'utf8');
+    var contents = fs.readFileSync('./dallasListings.csv', 'utf8');
     let lines = contents.split('\n');
     for (const line of lines) {
         let listing = line.split(',');
