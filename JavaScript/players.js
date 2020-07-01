@@ -6,6 +6,9 @@ cleanUp(players);
 let playerA = getPlayerByName('Stephen Curry', players);
 let playerB = getPlayerByName('LeBron James', players);
 
+
+
+
 // if you need to make decision use an if
 //  an if statement starts with if
 //      100% of the time after if is a left paren (
