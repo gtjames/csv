@@ -1,0 +1,836 @@
+Year,Name,Location,Country,Latitude,Longitude,Elevation (m),Type,VEI,Agent,Deaths
+-4360,Macauley Island,Kermadec Is,New Zealand,-30.2,-178.47,238,Caldera,6,,
+-4350,Kikai,Ryukyu Is,Japan,30.78,130.28,717,Caldera,7,P,
+-4050,Masaya,Nicaragua,Nicaragua,11.984,-86.161,635,Caldera,6,,
+-4000,Pago,New Britain-SW Pac,Papua New Guinea,-5.58,150.52,742,Caldera,6,T,
+-3580,Taal,Luzon-Philippines,Philippines,14.002,120.993,400,Stratovolcano,6,,
+-3550,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,6,,
+-2420,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,5,"P,T",
+-2040,Long Island,New Guinea-NE of,Papua New Guinea,-5.358,147.12,1280,Complex volcano,6,,
+-1900,Black Peak,Alaska Peninsula,United States,56.53,-158.8,1032,Stratovolcano,6,,
+-1890,"Hudson, Cerro",Chile-S,Chile,-45.9,-72.97,1905,Stratovolcano,6,,
+-1860,St. Helens,US-Washington,United States,46.2,-122.18,2549,Stratovolcano,6,,
+-1750,Veniaminof,Alaska Peninsula,United States,56.17,-159.38,2507,Stratovolcano,6,,
+-1645,Aniakchak,Alaska Peninsula,United States,56.88,-158.17,1341,Caldera,6,,
+-1610,Santorini,Greece,Greece,36.404,25.396,329,Shield volcano,7,W,
+-1550,Redoubt,Alaska-SW,United States,60.48,-152.75,3108,Stratovolcano,,,
+-1460,Taupo,New Zealand,New Zealand,-38.82,176,760,Caldera,6,,
+-1370,Pago,New Britain-SW Pac,Papua New Guinea,-5.58,150.52,742,Caldera,6,,
+-1050,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,6,,
+-1010,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,5,,
+-455,Cotopaxi,Ecuador,Ecuador,-0.677,-78.436,5911,Stratovolcano,4,M,
+-250,Raoul Island,Kermadec Is,New Zealand,-29.27,-177.92,516,Stratovolcano,6,,
+-197,Santorini,Greece,Greece,36.404,25.396,329,Shield volcano,3,,
+-150,St. Andrew Strait,Admiralty Is-SW Paci,Papua New Guinea,-2.38,147.35,270,Complex volcano,,,
+-141,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,,,40
+-100,Okmok,Aleutian Is,United States,53.42,-168.13,1073,Shield volcano,6,,
+-50,Apoyeque,Nicaragua,Nicaragua,12.242,-86.342,518,Pyroclastic shield,6,,
+46,Santorini,Greece,Greece,36.404,25.396,329,Shield volcano,3,,
+50,Ambrym,Vanuatu-SW Pacific,Vanuatu,-16.25,168.12,1334,Pyroclastic shield,6,,
+60,Bona-Churchill,Alaska-E,United States,61.38,-141.75,5005,Stratovolcano,6,,
+79,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,5,"P,T",2100
+200,"Arhab, Harra of",Arabia-S,Yemen,15.63,44.08,3100,Volcanic field,,,
+230,Taupo,New Zealand,New Zealand,-38.82,176,760,Caldera,6,,
+240,Ksudach,Kamchatka,Russia,51.8,157.53,1079,Stratovolcano,6,,
+350,Augustine,Alaska-SW,United States,59.37,-153.42,1252,Lava dome,,,
+416,Krakatau,Indonesia,Indonesia,-6.102,105.423,813,Caldera,,W,
+450,Ilopango,El Salvador,El Salvador,13.672,-89.053,450,Caldera,6,,30000
+500,"Arhab, Harra of",Arabia-S,Yemen,15.63,44.08,3100,Volcanic field,,,
+590,San Salvador,El Salvador,El Salvador,13.736,-89.286,1893,Stratovolcano,,,
+640,"Uwayrid, Harrat",Arabia-W,Saudi Arabia,27.08,37.25,1900,Volcanic field,2,T,
+653,Dakataua,New Britain-SW Pac,Papua New Guinea,-5.056,150.108,400,Caldera,6,,
+683,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.271,152.203,688,Pyroclastic shield,6,,
+710,Pago,New Britain-SW Pac,Papua New Guinea,-5.58,150.52,742,Caldera,6,,
+764,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,4,"T,L",80
+766,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,3,,
+787,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,3,,
+847,Bona-Churchill,Alaska-E,United States,61.38,-141.75,5005,Stratovolcano,6,,
+920,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,,
+930,Ceboruco,Mexico,Mexico,21.125,-104.508,2280,Stratovolcano,6,,
+934,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,,
+950,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,,,
+1000,Changbaishan,China-E,North Korea,41.98,128.08,2744,Stratovolcano,7,,
+1050,Santorini,Greece,Greece,36.404,25.396,329,Shield volcano,,,
+1104,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,5,,
+1151,Krisuvik,Iceland-SW,Iceland,63.93,-22.1,379,Crater rows,1,,
+1158,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,,
+1169,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,,"S,W",
+1169,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,,,
+1177,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,3,,
+1206,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,2,,
+1250,Fentale,Africa-NE,Ethiopia,8.975,39.93,2007,Stratovolcano,,,
+1262,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,3,F,
+1280,Quilotoa,Ecuador,Ecuador,-0.85,-78.9,3914,Caldera,6,,
+1300,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,,
+1302,Ischia,Italy,Italy,40.73,13.897,789,Complex volcano,,,
+1311,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,F,
+1311,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,3,,
+1329,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,3,,
+1329,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,1,I,
+1331,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,,
+1334,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,3,,
+1341,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,3,,
+1357,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,,
+1362,Oraefajokull,Iceland-SE,Iceland,64,-16.65,2119,Stratovolcano,5,"T,F",220
+1375,"Chichon, El",Mexico,Mexico,17.36,-93.228,1150,Tuff cone,5,M,
+1376,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,3,,
+1385,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,3,,
+1389,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,3,,
+1410,Nasu,Honshu-Japan,Japan,37.12,139.97,1917,Stratovolcano,3,,180
+1430,Kuwae,Vanuatu-SW Pacific,Vanuatu,-16.829,168.536,-2,Caldera,,P,
+1471,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,5,P,
+1477,Bardarbunga,Iceland-NE,Iceland,64.63,-17.53,2000,Stratovolcano,6,,
+1485,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,,1
+1500,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,,
+1510,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,T,1
+1510,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,I,
+1536,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,3,T,1
+1538,Campi Flegrei,Italy,Italy,40.827,14.139,458,Caldera,3,T,24
+1540,Augustine,Alaska-SW,United States,59.37,-153.42,1252,Lava dome,4,,
+1550,Dukono,Halmahera-Indonesia,Indonesia,1.68,127.88,1185,Complex volcano,3,,
+1564,Gamkonora,Halmahera-Indonesia,Indonesia,1.375,127.52,1635,Stratovolcano,3,,
+1565,Pacaya,Guatemala,Guatemala,14.381,-90.601,2552,Complex volcano,3,,
+1566,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,3,,
+1568,Savo,Solomon Is-SW Pacifi,Solomon Is.,-9.13,159.82,510,Stratovolcano,3,"P,T,M",1001
+1570,Mombacho,Nicaragua,Nicaragua,11.826,-85.968,1344,Stratovolcano,,A,400
+1576,Colima,Mexico,Mexico,19.514,-103.62,3850,Stratovolcano,3,,
+1580,San Jorge,Azores,Portugal,38.65,-28.08,1053,Fissure vent,3,P,10
+1580,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,,
+1580,Billy Mitchell,Bougainville-SW Paci,Papua New Guinea,-6.092,155.225,1544,Pyroclastic shield,6,,
+1581,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,4,,
+1586,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,5,,10000
+1587,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,4,,
+1590,Colima,Mexico,Mexico,19.514,-103.62,3850,Stratovolcano,3,I,
+1593,Raung,Java,Indonesia,-8.125,114.042,3332,Stratovolcano,5,,
+1595,Ruiz,Colombia,Colombia,4.895,-75.322,5321,Stratovolcano,4,M,636
+1596,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,T,
+1597,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,,
+1597,Raung,Java,Indonesia,-8.125,114.042,3332,Stratovolcano,3,T,
+1598,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,T,800
+1598,Banda Api,Banda Sea,Pacific Ocean,-4.525,129.871,640,Caldera,3,,
+1600,Huaynaputina,Peru,Peru,-16.608,-70.85,4850,Stratovolcano,6,,1500
+1606,Hachijo-jima,Izu Is-Japan,Japan,33.13,139.77,854,Stratovolcano,2,,
+1608,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,3,,
+1609,Tengchong,China-S,China,25.32,98.47,2865,Pyroclastic cone,,E,
+1615,Banda Api,Banda Sea,Pacific Ocean,-4.525,129.871,640,Caldera,3,,
+1617,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,3,,
+1625,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,5,,
+1629,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,2,F,4
+1630,Furnas,Azores,Portugal,37.77,-25.32,805,Stratovolcano,4,"M,T",200
+1631,Dama Ali,Africa-NE,Ethiopia,11.28,41.63,1068,Shield volcano,,S,50
+1631,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,5,"P,E,M",4000
+1636,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,3,,
+1638,Raung,Java,Indonesia,-8.125,114.042,3332,Stratovolcano,4,M,1001
+1640,Komaga-take,Hokkaido-Japan,Japan,42.07,140.68,1140,Stratovolcano,5,W,
+1640,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3,P,5000
+1646,Makian,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,4,P,
+1650,Santorini,Greece,Greece,36.404,25.396,329,Shield volcano,4,"G,W,T",120
+1659,San Salvador,El Salvador,El Salvador,13.736,-89.286,1893,Stratovolcano,3,S,
+1659,Teon,Banda Sea,Pacific Ocean,-6.92,129.125,655,Stratovolcano,4,,
+1660,Teon,Banda Sea,Pacific Ocean,-6.92,129.125,655,Stratovolcano,4,"G,T",3
+1660,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,,
+1660,Long Island,New Guinea-NE of,Papua New Guinea,-5.358,147.12,1280,Complex volcano,6,"T,P,W,I",2000
+1663,Usu,Hokkaido-Japan,Japan,42.53,140.83,731,Stratovolcano,5,"T,P",5
+1664,Unzen,Kyushu-Japan,Japan,32.75,130.3,1500,Complex volcano,2,m,30
+1664,Iwo-Tori-shima,Ryukyu Is,Japan,27.85,128.25,217,Complex volcano,,A,
+1669,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,3,,
+1669,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,3,L,2
+1670,Aoba,Vanuatu-SW Pacific,Vanuatu,-15.4,167.83,1496,Shield volcano,2,L,
+1672,Fayal,Azores,Portugal,38.6,-28.73,1043,Stratovolcano,2,,3
+1672,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,3,P,3000
+1673,Gamkonora,Halmahera-Indonesia,Indonesia,1.375,127.52,1635,Stratovolcano,5,W,
+1677,La Palma,Canary Is,Spain,28.58,-17.83,2426,Stratovolcano,2,G,1
+1679,Zukur,Red Sea,Yemen,14.02,42.75,624,Shield volcano,,,
+1682,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,3,,4
+1684,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,2,F,1
+1690,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,,,
+1690,Guntur,Java,Indonesia,-7.13,107.83,2249,Complex volcano,3,,
+1692,Serua,Banda Sea,Pacific Ocean,-6.3,130,641,Stratovolcano,4,L,
+1693,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,,,
+1693,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,,
+1694,Banda Api,Banda Sea,Pacific Ocean,-4.525,129.871,640,Caldera,3,,
+1698,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,3,,
+1698,Cotopaxi,Ecuador,Ecuador,-0.677,-78.436,5911,Stratovolcano,3,M,
+1698,Cereme,Java,Indonesia,-6.892,108.4,3078,Stratovolcano,3,,
+1706,Tenerife,Canary Is,Spain,28.271,-16.641,3715,Stratovolcano,2,,
+1707,Santorini,Greece,Greece,36.404,25.396,329,Shield volcano,,,
+1707,Fuji,Honshu-Japan,Japan,35.35,138.73,3776,Stratovolcano,4,,
+1711,Awu,Sangihe Is-Indonesia,Indonesia,3.67,125.5,1320,Stratovolcano,3,P,3000
+1712,Bardarbunga,Iceland-NE,Iceland,64.63,-17.53,2000,Stratovolcano,2,,
+1714,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,,,
+1716,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,2,M,
+1716,Taal,Luzon-Philippines,Philippines,14.002,120.993,400,Stratovolcano,4,,
+1716,Bardarbunga,Iceland-NE,Iceland,64.63,-17.53,2000,Stratovolcano,2,,
+1716,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,3,,1
+1717,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,3,,1
+1717,Bardarbunga,Iceland-NE,Iceland,64.63,-17.53,2000,Stratovolcano,3,,
+1717,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,3,,
+1718,Pico,Azores,Portugal,38.47,-28.4,2351,Stratovolcano,2,,2
+1721,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,5,,
+1721,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,1,T,15
+1726,Bardarbunga,Iceland-NE,Iceland,64.63,-17.53,2000,Stratovolcano,1,,
+1727,Oraefajokull,Iceland-SE,Iceland,64,-16.65,2119,Stratovolcano,4,F,3
+1729,Bardarbunga,Iceland-NE,Iceland,64.63,-17.53,2000,Stratovolcano,1,,
+1729,Krafla,Iceland-NE,Iceland,65.73,-16.78,650,Caldera,2,,
+1730,Lanzarote,Canary Is,Spain,29.03,-13.63,670,Fissure vent,2,,
+1730,Tseax River Cone,Canada,Canada,55.12,-128.9,609,Pyroclastic cone,,G,
+1730,Raung,Java,Indonesia,-8.125,114.042,3332,Stratovolcano,3,"M,T",
+1737,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,2,T,2
+1741,Oshima-Oshima,Hokkaido-Japan,Japan,41.5,139.37,737,Stratovolcano,4,"W,S",
+1742,Cotopaxi,Ecuador,Ecuador,-0.677,-78.436,5911,Stratovolcano,3,M,
+1742,Cotopaxi,Ecuador,Ecuador,-0.677,-78.436,5911,Stratovolcano,3,M,
+1749,Taal,Luzon-Philippines,Philippines,14.002,120.993,400,Stratovolcano,3,,
+1753,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,2,,
+1754,Taal,Luzon-Philippines,Philippines,14.002,120.993,400,Stratovolcano,4,"W,T",12
+1755,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,E,2
+1757,San Jorge,Azores,Portugal,38.65,-28.08,1053,Fissure vent,0,S,
+1760,Makian,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,4,M,2000
+1762,Kliuchevskoi,Kamchatka,Russia,56.057,160.638,4835,Stratovolcano,2,,
+1766,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,,
+1766,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,m,49
+1768,Cotopaxi,Ecuador,Ecuador,-0.677,-78.436,5911,Stratovolcano,4,M,
+1772,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,3,T,35
+1772,Papandayan,Java,Indonesia,-7.32,107.73,2665,Stratovolcano,3,A,2957
+1773,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,2,I,
+1775,Lokon-Empung,Sulawesi-Indonesia,Indonesia,1.358,124.792,1580,Stratovolcano,3,,
+1775,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,3,"P,I",1300
+1778,Raikoke,Kuril Is,Russia,48.292,153.25,551,Stratovolcano,4,T,15
+1779,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,2,,
+1779,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,4,"T,W,I",153
+1780,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,4,F,
+1780,Aoga-shima,Izu Is-Japan,Japan,32.45,139.77,423,Stratovolcano,3,,7
+1780,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,4,,
+1780,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,,,
+1781,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,4,W,23
+1783,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,4,"F,P,I",1491
+1784,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,4,I,
+1784,Sabancaya,Peru,Peru,-15.78,-71.85,5967,Stratovolcano,,,
+1784,Hualalai,Hawaiian Is,United States,19.692,-155.87,2523,Shield volcano,0,L,
+1785,Aoga-shima,Izu Is-Japan,Japan,32.45,139.77,423,Stratovolcano,3,,135
+1786,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,2,A,38
+1789,Oshima,Izu Is-Japan,Japan,34.73,139.38,758,Stratovolcano,2,T,
+1790,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,4,P,5405
+1792,Unzen,Kyushu-Japan,Japan,32.75,130.3,1500,Complex volcano,2,"W,A",
+1794,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,3,"M,L,T,G",400
+1800,San Jorge,Azores,Portugal,38.65,-28.08,1053,Fissure vent,1,L,9
+1800,Guntur,Java,Indonesia,-7.13,107.83,2249,Complex volcano,,M,
+1800,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,,
+1800,St. Helens,US-Washington,United States,46.2,-122.18,2549,Stratovolcano,5,I,
+1800,Hualalai,Hawaiian Is,United States,19.692,-155.87,2523,Shield volcano,0,L,2
+1800,Kieyo,Africa-E,Tanzania,-9.23,33.78,2175,Stratovolcano,2,L,
+1801,Chokai,Honshu-Japan,Japan,39.08,140.03,2237,Stratovolcano,2,T,8
+1803,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,,
+1803,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,,
+1804,Shikotsu,Hokkaido-Japan,Japan,42.7,141.33,1320,Caldera,3,,
+1805,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,2,,4
+1812,Soufriere St. Vincent,W Indies,St. Vincent & the Grenadines,13.33,-61.18,1220,Stratovolcano,4,"T, m",56
+1812,Awu,Sangihe Is-Indonesia,Indonesia,3.67,125.5,1320,Stratovolcano,3,"P,M",953
+1813,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,2,,
+1814,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,4,"P,M,E",1200
+1815,Tambora,Lesser Sunda Is,Indonesia,-8.25,118,2850,Stratovolcano,7,"P,W,A,I",11000
+1816,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,T,1
+1817,Ijen,Java,Indonesia,-8.058,114.242,2799,Stratovolcano,2,M,
+1817,Raung,Java,Indonesia,-8.125,114.042,3332,Stratovolcano,4,,
+1818,Colima,Mexico,Mexico,19.514,-103.62,3850,Stratovolcano,4,,
+1819,Asuncion,Mariana Is-C Pacific,United States,19.67,145.4,857,Stratovolcano,,,
+1820,Westdahl,Aleutian Is,United States,54.52,-164.65,1654,Stratovolcano,2,,
+1820,Banda Api,Banda Sea,Pacific Ocean,-4.525,129.871,640,Caldera,2,,
+1822,Usu,Hokkaido-Japan,Japan,42.53,140.83,731,Stratovolcano,4,P,50
+1822,Galunggung,Java,Indonesia,-7.25,108.05,2168,Stratovolcano,5,"P,M",4011
+1822,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,3,,100
+1823,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,0,L,
+1825,Shishaldin,Aleutian Is,United States,54.75,-163.97,2857,Stratovolcano,3,,
+1825,Balbi,Bougainville-SW Paci,Papua New Guinea,-5.83,154.98,2715,Stratovolcano,,P,
+1826,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,3,M,
+1826,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,2,,
+1826,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,T,
+1827,Avachinsky,Kamchatka,Russia,53.255,158.83,2741,Stratovolcano,2,,
+1827,Avachinsky,Kamchatka,Russia,53.255,158.83,2741,Stratovolcano,2,,
+1829,Guntur,Java,Indonesia,-7.13,107.83,2249,Complex volcano,2,,
+1832,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,L,
+1832,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,3,,32
+1833,Kaba,Sumatra,Indonesia,-3.52,102.62,1952,Stratovolcano,2,M,126
+1835,Cosiguina,Nicaragua,Nicaragua,12.98,-87.57,872,Stratovolcano,5,"G,I",
+1835,Banda Api,Banda Sea,Pacific Ocean,-4.525,129.871,640,Caldera,,,
+1837,Peuet Sague,Sumatra,Indonesia,4.914,96.329,2801,Complex volcano,,,
+1838,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,2,T,4
+1839,Unnamed,Chile-Is,Chile,-33.62,-76.83,-642,Submarine volcano,2,,
+1840,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,2,,
+1840,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,0,,
+1840,Ararat,Turkey,Turkey,39.7,44.28,5165,Stratovolcano,3,P,1900
+1840,Savo,Solomon Is-SW Pacifi,Solomon Is.,-9.13,159.82,510,Stratovolcano,3,P,
+1840,Tinakula,Santa Cruz Is-SW Pac,Solomon Is.,-10.38,165.8,851,Stratovolcano,3,P,
+1841,Kuchinoerabu-jima,Ryukyu Is,Japan,30.43,130.22,649,Stratovolcano,2,T,
+1843,Liamuiga,W Indies,St. Kitts & Nevis,17.37,-62.8,1156,Stratovolcano,0,,
+1843,Soufriere Guadeloupe,W Indies,Guadeloupe,16.05,-61.67,1467,Stratovolcano,,,
+1843,Lamongan,Java,Indonesia,-8,113.342,1651,Stratovolcano,2,,4
+1843,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,L,56
+1845,Soputan,Sulawesi-Indonesia,Indonesia,1.108,124.725,1784,Stratovolcano,2,,
+1845,Ruiz,Colombia,Colombia,4.895,-75.322,5321,Stratovolcano,3,M,1000
+1845,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,,
+1846,Taupo,New Zealand,New Zealand,-38.82,176,760,Caldera,,m,63
+1846,Tangkubanparahu,Java,Indonesia,-6.77,107.6,2084,Stratovolcano,2,,
+1846,E-san,Hokkaido-Japan,Japan,41.8,141.17,618,Stratovolcano,1,M,
+1847,Fogo,Cape Verde Is,Cape Verde,14.95,-24.35,2829,Stratovolcano,2,S,
+1847,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,2,,
+1848,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,2,M,21
+1850,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.271,152.203,688,Pyroclastic shield,2,T,
+1853,Niuafo'ou,Tonga-SW Pacific,Tonga,-15.6,-175.63,260,Shield volcano,0,L,25
+1853,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,P,34
+1853,Unnamed,Taiwan-E of,Taiwan,24,121.83,0,Submarine volcano,2,,
+1854,Shiveluch,Kamchatka,Russia,56.653,161.36,3283,Stratovolcano,5,,
+1854,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,,3
+1854,Alaid,Kuril Is,Russia,50.858,155.55,2339,Stratovolcano,3,,
+1856,Awu,Sangihe Is-Indonesia,Indonesia,3.67,125.5,1320,Stratovolcano,3,P,2806
+1856,Shishaldin,Aleutian Is,United States,54.75,-163.97,2857,Stratovolcano,,,
+1856,Komaga-take,Hokkaido-Japan,Japan,42.07,140.68,1140,Stratovolcano,4,P,20
+1857,Umboi,New Guinea-NE of,Papua New Guinea,-5.589,147.875,1548,Complex volcano,,,
+1858,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,P,
+1858,Tate-yama,Honshu-Japan,Japan,36.57,137.6,2621,Stratovolcano,,m,
+1858,Tate-yama,Honshu-Japan,Japan,36.57,137.6,2621,Stratovolcano,,m,
+1860,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,,
+1860,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,2,,
+1860,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,,m,1
+1861,Dubbi,Africa-NE,Eritrea,13.58,41.808,1625,Stratovolcano,3,,106
+1861,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,2,,
+1861,Makian,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,4,"P,I",326
+1863,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.52,169.425,361,Stratovolcano,,,
+1864,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,2,M,54
+1866,Santorini,Greece,Greece,36.404,25.396,329,Shield volcano,2,T,1
+1866,Ofu-Olosega,Samoa-SW Pacific,United States,-14.175,-169.618,639,Shield volcano,2,,
+1867,Zao,Honshu-Japan,Japan,38.15,140.45,1841,Complex volcano,2,M,3
+1868,Mauna Loa,Hawaiian Is,United States,19.475,-155.608,4170,Shield volcano,2,"W,M",
+1868,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,,,
+1869,Lewotobi,Lesser Sunda Is,Indonesia,-8.53,122.775,1703,Stratovolcano,2,,2
+1869,Lamongan,Java,Indonesia,-8,113.342,1651,Stratovolcano,2,"T,A",8
+1870,Ruang,Sangihe Is-Indonesia,Indonesia,2.28,125.425,725,Stratovolcano,2,,
+1870,Aoba,Vanuatu-SW Pacific,Vanuatu,-15.4,167.83,1496,Shield volcano,2,M,
+1870,Iliwerung,Lesser Sunda Is,Indonesia,-8.54,123.59,1018,Complex volcano,3,,
+1871,Ruang,Sangihe Is-Indonesia,Indonesia,2.28,125.425,725,Stratovolcano,2,W,
+1871,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1332,Stratovolcano,2,,
+1871,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,2,T,1
+1871,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,P,3
+1872,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,4,T,30
+1872,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,4,P,170
+1872,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,3,"L,G",9
+1872,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,4,"P,T",200
+1872,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,3,T,4
+1872,Sinarka,Kuril Is,Russia,48.875,154.175,934,Stratovolcano,4,P,
+1873,Ragang,Mindanao-Philippines,Philippines,7.67,124.5,2815,Stratovolcano,2,,
+1873,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,,"G,T",9
+1874,Miyake-jima,Izu Is-Japan,Japan,34.08,139.53,815,Stratovolcano,3,T,1
+1874,Taal,Luzon-Philippines,Philippines,14.002,120.993,400,Stratovolcano,2,,
+1875,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,0,m,
+1875,Askja,Iceland-NE,Iceland,65.03,-16.75,1516,Stratovolcano,5,,
+1875,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,,m,1500
+1877,Mauna Loa,Hawaiian Is,United States,19.475,-155.608,4170,Shield volcano,0,,
+1877,Cotopaxi,Ecuador,Ecuador,-0.677,-78.436,5911,Stratovolcano,4,M,340
+1878,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.52,169.425,361,Stratovolcano,3,,
+1878,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.271,152.203,688,Pyroclastic shield,3,T,1
+1878,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.52,169.425,361,Stratovolcano,,,
+1878,Okmok,Aleutian Is,United States,53.42,-168.13,1073,Shield volcano,2,,
+1879,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2,,
+1883,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,2,L,
+1883,Krakatau,Indonesia,Indonesia,-6.102,105.423,813,Caldera,6,"W,P,I",2000
+1883,Augustine,Alaska-SW,United States,59.37,-153.42,1252,Lava dome,4,,8
+1883,Krakatau,Indonesia,Indonesia,-6.102,105.423,813,Caldera,,,
+1883,Bagana,Bougainville-SW Paci,Papua New Guinea,-6.14,155.195,1750,Lava cone,3,T,
+1884,Krakatau,Indonesia,Indonesia,-6.102,105.423,813,Caldera,,,
+1885,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,A,74
+1885,Purace,Colombia,Colombia,2.32,-76.4,4650,Stratovolcano,3,,
+1886,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,4,P,2
+1886,Okataina,New Zealand,New Zealand,-38.12,176.5,1111,Lava dome,2,T,153
+1886,Niuafo'ou,Tonga-SW Pacific,Tonga,-15.6,-175.63,260,Shield volcano,4,,
+1887,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,T,15
+1888,Ritter Island,New Guinea-NE of,Papua New Guinea,-5.52,148.121,140,Stratovolcano,3,W,
+1888,Bandai,Honshu-Japan,Japan,37.6,140.08,1819,Stratovolcano,4,"A,P",461
+1889,Banua Wuhu,Sangihe Is-Indonesia,Indonesia,3.138,125.491,-5,Submarine volcano,2,,
+1890,Makian,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,2,,
+1890,Victory,New Guinea,Papua New Guinea,-9.2,149.07,1925,Stratovolcano,2,P,
+1892,Sorikmarapi,Sumatra,Indonesia,0.686,99.539,2145,Stratovolcano,2,M,180
+1892,Awu,Sangihe Is-Indonesia,Indonesia,3.67,125.5,1320,Stratovolcano,3,"P,M",1532
+1892,Tofua,Tonga-SW Pacific,Tonga,-19.75,-175.07,512,Caldera,2,,
+1893,Calbuco,Chile-S,Chile,-41.326,-72.614,2003,Stratovolcano,4,,
+1893,Azuma,Honshu-Japan,Japan,37.73,140.25,2024,Stratovolcano,2,T,2
+1894,Ambrym,Vanuatu-SW Pacific,Vanuatu,-16.25,168.12,1334,Pyroclastic shield,3,"T,L",10
+1895,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,,
+1895,Karkar,New Guinea-NE of,Papua New Guinea,-4.649,145.964,1839,Stratovolcano,2,"I,M",1
+1895,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,2,T,4
+1895,Dakataua,New Britain-SW Pac,Papua New Guinea,-5.056,150.108,400,Caldera,2,?,
+1896,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,2,T,1
+1897,Tinakula,Santa Cruz Is-SW Pac,Solomon Is.,-10.38,165.8,851,Stratovolcano,2,W,
+1897,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,"P,T,M",350
+1899,Dona Juana,Colombia,Colombia,1.47,-76.92,4150,Stratovolcano,4,P,55
+1899,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,2,,2
+1900,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,,25
+1900,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,2,,2
+1900,Adatara,Honshu-Japan,Japan,37.62,140.28,1718,Stratovolcano,2,T,72
+1900,Tullu Moje,Africa-NE,Ethiopia,8.158,39.13,2349,Pumice cone,,,
+1901,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,3,,
+1901,Epi,Vanuatu-SW Pacific,Vanuatu,-16.68,168.37,833,Stratovolcano,,,
+1902,Pelee,W Indies,Martinique,14.82,-61.17,1397,Stratovolcano,,,23
+1902,Soufriere St. Vincent,W Indies,St. Vincent & the Grenadines,13.33,-61.18,1220,Stratovolcano,4,P,1680
+1902,Pelee,W Indies,Martinique,14.82,-61.17,1397,Stratovolcano,4,P,28000
+1902,Pelee,W Indies,Martinique,14.82,-61.17,1397,Stratovolcano,,,
+1902,Tori-shima,Izu Is-Japan,Japan,30.48,140.32,403,Stratovolcano,3,,125
+1902,Pelee,W Indies,Martinique,14.82,-61.17,1397,Stratovolcano,4,P,1500
+1902,Santa Maria,Guatemala,Guatemala,14.756,-91.552,3772,Stratovolcano,6,"T,G",2500
+1902,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,2,P,16
+1903,Okataina,New Zealand,New Zealand,-38.12,176.5,1111,Lava dome,1,T,4
+1903,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,,G,17
+1904,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,2,L,1
+1905,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,2,T,1
+1905,Savai'i,Samoa-SW Pacific,Samoa,-13.612,-172.525,1858,Shield volcano,2,,
+1906,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,3,"T,L",350
+1907,Unnamed,Tonga-SW Pacific,Tonga,-21.38,-175.65,-500,Submarine volcano,0,,
+1907,Alayta,Africa-NE,Ethiopia,12.88,40.57,1501,Shield volcano,2,,
+1907,Lewotobi,Lesser Sunda Is,Indonesia,-8.53,122.775,1703,Stratovolcano,2,,1
+1907,Savai'i,Samoa-SW Pacific,Samoa,-13.612,-172.525,1858,Shield volcano,,,
+1909,"Cameroon, Mt.",Africa-W,Cameroon,4.203,9.17,4095,Stratovolcano,2,,
+1909,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,m,221
+1910,Taupo,New Zealand,New Zealand,-38.82,176,760,Caldera,,m,1
+1910,Usu,Hokkaido-Japan,Japan,42.53,140.83,731,Stratovolcano,2,M,1
+1911,Taal,Luzon-Philippines,Philippines,14.002,120.993,400,Stratovolcano,3,"P,W",1335
+1911,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,,1
+1911,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,,
+1911,Piparo,Trinidad,Trinidad ,10,-61,140,Mud volcano,,,
+1911,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,,
+1912,Novarupta,Alaska Peninsula,United States,58.27,-155.16,841,Caldera,6,T,2
+1912,Nyamuragira,Africa-C,"Congo, DRC",-1.408,29.2,3058,Shield volcano,3,L,20
+1913,Colima,Mexico,Mexico,19.514,-103.62,3850,Stratovolcano,4,"P,m",13
+1913,Awu,Sangihe Is-Indonesia,Indonesia,3.67,125.5,1320,Stratovolcano,2,,
+1913,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,1,T,1
+1913,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,,
+1913,Ambrym,Vanuatu-SW Pacific,Vanuatu,-16.25,168.12,1334,Pyroclastic shield,3,T,21
+1914,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,4,"I,S,A,T",28
+1914,Pago,New Britain-SW Pac,Papua New Guinea,-5.58,150.52,742,Caldera,3,I,
+1914,White Island,New Zealand,New Zealand,-37.52,177.18,321,Stratovolcano,,A,11
+1914,Aoba,Vanuatu-SW Pacific,Vanuatu,-15.4,167.83,1496,Shield volcano,,L,100
+1916,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,4,,
+1916,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,3,,
+1917,"Lengai, Ol Doinyo",Africa-E,Tanzania,-2.751,35.902,2890,Stratovolcano,3,,
+1917,Okataina,New Zealand,New Zealand,-38.12,176.5,1111,Lava dome,1,T,2
+1917,Calbuco,Chile-S,Chile,-41.326,-72.614,2003,Stratovolcano,3,,
+1917,San Salvador,El Salvador,El Salvador,13.736,-89.286,1893,Stratovolcano,3,"S,L",325
+1918,Banua Wuhu,Sangihe Is-Indonesia,Indonesia,3.138,125.491,-5,Submarine volcano,3,,
+1918,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,4,,
+1919,Popocatepetl,Mexico,Mexico,19.023,-98.622,5426,Stratovolcano,1,A,
+1919,Banua Wuhu,Sangihe Is-Indonesia,Indonesia,3.138,125.491,-5,Submarine volcano,,,
+1919,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,4,M,5110
+1919,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,3,T,4
+1919,Nasu,Honshu-Japan,Japan,37.12,139.97,1917,Stratovolcano,,G,2
+1919,Mauna Loa,Hawaiian Is,United States,19.475,-155.608,4170,Shield volcano,0,,
+1920,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,3,P,33
+1920,Izalco,El Salvador,El Salvador,13.813,-89.633,1950,Stratovolcano,3,P,
+1921,Nasu,Honshu-Japan,Japan,37.12,139.97,1917,Stratovolcano,,G,1
+1923,"Cendres, Ile des",SE Asia,Vietnam,10.158,109.014,-20,Submarine volcanoes,2,L,
+1923,Papandayan,Java,Indonesia,-7.32,107.73,2665,Stratovolcano,1,G,1
+1923,Tangkubanparahu,Java,Indonesia,-6.77,107.6,2084,Stratovolcano,,G,3
+1923,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,2,,1
+1924,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,2,T,1
+1926,Tokachi,Hokkaido-Japan,Japan,43.42,142.68,2077,Stratovolcano,3,"M,T",144
+1927,Esjufjoll,Iceland-SE,Iceland,64.27,-16.65,1760,Stratovolcano,1,M,1
+1928,Santorini,Greece,Greece,36.404,25.396,329,Shield volcano,2,S,48
+1928,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,P,
+1928,Krakatau,Indonesia,Indonesia,-6.102,105.423,813,Caldera,,,
+1928,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,2,T,40
+1928,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,3,"W,T",98
+1928,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,1,L,5
+1929,Calbuco,Chile-S,Chile,-41.326,-72.614,2003,Stratovolcano,3,,
+1929,Komaga-take,Hokkaido-Japan,Japan,42.07,140.68,1140,Stratovolcano,4,T,2
+1929,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,T,2
+1929,Santa Maria,Guatemala,Guatemala,14.756,-91.552,3772,Stratovolcano,3,"P,M",200
+1930,Krakatau,Indonesia,Indonesia,-6.102,105.423,813,Caldera,2,,
+1930,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,3,T,6
+1930,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,3,P,5
+1930,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,3,"P,M",1369
+1931,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,3,,3
+1932,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,4,,
+1932,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,,m,
+1932,Kusatsu-Shirane,Honshu-Japan,Japan,36.62,138.55,2176,Stratovolcano,3,M,2
+1933,Kharimkotan,Kuril Is,Russia,49.12,154.508,1145,Stratovolcano,3,W,
+1933,Hakone,Honshu-Japan,Japan,35.22,139.02,1438,Complex volcano,,G,1
+1933,Kuchinoerabu-jima,Ryukyu Is,Japan,30.43,130.22,649,Stratovolcano,4,T,8
+1933,Bulusan,Luzon-Philippines,Philippines,12.77,124.05,1565,Stratovolcano,2,,
+1934,Hood,US-Oregon,United States,45.374,-121.694,3426,Stratovolcano,,G,1
+1936,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,3,"P,T",2
+1937,Llaima,Chile-C,Chile,-38.692,-71.729,3125,Stratovolcano,2,F,3
+1937,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.271,152.203,688,Pyroclastic shield,4,"P,T,W,I",507
+1938,Nyamuragira,Africa-C,"Congo, DRC",-1.408,29.2,3058,Shield volcano,1,,
+1938,Bandai,Honshu-Japan,Japan,37.6,140.08,1819,Stratovolcano,,m,2
+1938,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,,
+1938,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,1,T,
+1939,Kick-'em-Jenny,W Indies,Netherlands,12.3,-61.63,-177,Submarine volcano,1,T,
+1939,Tori-shima,Izu Is-Japan,Japan,30.48,140.32,403,Stratovolcano,2,,2
+1939,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,1,T,10
+1940,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,2,,1
+1940,Miyake-jima,Izu Is-Japan,Japan,34.08,139.53,815,Stratovolcano,2,L,11
+1940,"Lengai, Ol Doinyo",Africa-E,Tanzania,-2.751,35.902,2890,Stratovolcano,2,,
+1941,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,T,1
+1941,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,,
+1943,Michoacan-Guanajuato,Mexico,Mexico,19.48,-102.25,3860,Cinder cone,4,"E,I",3
+1943,"Azul, Cerro",Galapagos,Ecuador,-0.9,-91.42,1690,Shield volcano,3,T,1
+1944,Vesuvius,Italy,Italy,40.821,14.426,1281,Complex volcano,2,"T,L,I",27
+1944,Cleveland,Aleutian Is,United States,52.82,-169.95,1730,Stratovolcano,3,T,1
+1944,Usu,Hokkaido-Japan,Japan,42.53,140.83,731,Stratovolcano,2,T,1
+1944,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2,,
+1944,Usu,Hokkaido-Japan,Japan,42.53,140.83,731,Stratovolcano,2,G,1
+1944,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,2,T,117
+1946,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,2,,1
+1946,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,F,6
+1946,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,,
+1946,Sarychev Peak,Kuril Is,Russia,48.092,153.2,1496,Stratovolcano,4,,
+1947,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,,
+1947,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,,11
+1947,Akagi,Honshu-Japan,Japan,36.53,139.18,1828,Stratovolcano,,m,699
+1947,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,4,L,1
+1948,Iliwerung,Lesser Sunda Is,Indonesia,-8.54,123.59,1018,Complex volcano,2,,
+1949,Villarrica,Chile-C,Chile,-39.42,-71.93,2847,Stratovolcano,3,M,54
+1949,Purace,Colombia,Colombia,2.32,-76.4,4650,Stratovolcano,2,T,17
+1949,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1332,Stratovolcano,3,P,2
+1950,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,1,P,6
+1950,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1332,Stratovolcano,3,P,68
+1950,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,T,1
+1951,Lamington,New Guinea,Papua New Guinea,-8.95,148.15,1680,Stratovolcano,4,P,2942
+1951,Cosiguina,Nicaragua,Nicaragua,12.98,-87.57,872,Stratovolcano,,,
+1951,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,3,,7
+1951,Hakone,Honshu-Japan,Japan,35.22,139.02,1438,Complex volcano,,G,2
+1951,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1332,Stratovolcano,3,P,500
+1951,Kavachi,Solomon Is-SW Pacifi,Solomon Is.,-9.02,157.95,-20,Submarine volcano,2,,
+1952,Hakone,Honshu-Japan,Japan,35.22,139.02,1438,Complex volcano,,G,1
+1952,Myojun Knoll,Izu Is-Japan,Japan,32.1,139.85,360,Submarine volcano,2,,
+1952,Myojun Knoll,Izu Is-Japan,Japan,32.1,139.85,360,Submarine volcano,2,,
+1952,Myojun Knoll,Izu Is-Japan,Japan,32.1,139.85,360,Submarine volcano,2,P,31
+1952,Myojun Knoll,Izu Is-Japan,Japan,32.1,139.85,360,Submarine volcano,2,,
+1952,Ambalatungan Group,Luzon-Philippines,Philippines,17.32,121.1,2329,Compound volcano,1,,12
+1953,Myojun Knoll,Izu Is-Japan,Japan,32.1,139.85,360,Submarine volcano,2,,
+1953,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,3,P,64
+1953,Myojun Knoll,Izu Is-Japan,Japan,32.1,139.85,360,Submarine volcano,2,,
+1953,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,T,6
+1953,St. Andrew Strait,Admiralty Is-SW Paci,Papua New Guinea,-2.38,147.35,270,Complex volcano,0,,
+1953,Sirung,Lesser Sunda Is,Indonesia,-8.51,124.148,862,Complex volcano,0,,5
+1953,Hakone,Honshu-Japan,Japan,35.22,139.02,1438,Complex volcano,,A,10
+1953,Oshima,Izu Is-Japan,Japan,34.73,139.38,758,Stratovolcano,1,,1
+1953,Ruapehu,New Zealand,New Zealand,-39.28,175.57,2797,Stratovolcano,,m,151
+1954,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,,,
+1954,Tate-yama,Honshu-Japan,Japan,36.57,137.6,2621,Stratovolcano,,G,1
+1954,Bam,New Guinea-NE of,Papua New Guinea,-3.6,144.85,685,Stratovolcano,2,I,
+1954,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1332,Stratovolcano,,m,2
+1955,Carran-Los Venados,Chile-C,Chile,-40.35,-72.07,1114,Pyroclastic cone,4,G,2
+1955,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,3,,
+1956,Bezymianny,Kamchatka,Russia,55.978,160.587,2882,Stratovolcano,5,,
+1957,Vsevidof,Aleutian Is,United States,53.13,-168.68,2149,Stratovolcano,2,,
+1957,Unzen,Kyushu-Japan,Japan,32.75,130.3,1500,Complex volcano,,m,13
+1957,Oshima,Izu Is-Japan,Japan,34.73,139.38,758,Stratovolcano,2,T,1
+1957,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,T,12
+1958,Mahawu,Sulawesi-Indonesia,Indonesia,1.358,124.858,1324,Stratovolcano,2,M,1
+1958,Daisetsu,Hokkaido-Japan,Japan,43.68,142.88,2290,Stratovolcano,,G,2
+1958,Kuwae,Vanuatu-SW Pacific,Vanuatu,-16.829,168.536,-2,Caldera,2,,
+1960,Puyehue,Chile-C,Chile,-40.59,-72.117,2236,Stratovolcano,3,,
+1961,Calbuco,Chile-S,Chile,-41.326,-72.614,2003,Stratovolcano,3,,
+1961,Tate-yama,Honshu-Japan,Japan,36.57,137.6,2621,Stratovolcano,,G,1
+1961,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,3,P,6
+1961,Daisetsu,Hokkaido-Japan,Japan,43.68,142.88,2290,Stratovolcano,,G,2
+1961,Asama,Honshu-Japan,Japan,36.4,138.53,2560,Complex volcano,2,T,1
+1962,Tokachi,Hokkaido-Japan,Japan,43.42,142.68,2077,Stratovolcano,3,T,5
+1962,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,,m,2
+1962,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,2,,5
+1963,Irazu,Costa Rica,Costa Rica,9.979,-83.852,3432,Stratovolcano,3,T,15
+1963,Agung,Lesser Sunda Is,Indonesia,-8.342,115.508,3142,Stratovolcano,5,"P,T,M,A",1028
+1963,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,T,1
+1963,Agung,Lesser Sunda Is,Indonesia,-8.342,115.508,3142,Stratovolcano,3,,120
+1963,Villarrica,Chile-C,Chile,-39.42,-71.93,2847,Stratovolcano,2,M,
+1963,Batur,Lesser Sunda Is,Indonesia,-8.242,115.375,1717,Caldera,2,,2
+1963,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,3,M,7
+1963,Irazu,Costa Rica,Costa Rica,9.979,-83.852,3432,Stratovolcano,3,"M,T",40
+1964,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,2,,1
+1964,Villarrica,Chile-C,Chile,-39.42,-71.93,2847,Stratovolcano,2,M,25
+1964,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,1,,114
+1965,Taal,Luzon-Philippines,Philippines,14.002,120.993,400,Stratovolcano,4,"P,W",355
+1965,Kick-'em-Jenny,W Indies,Netherlands,12.3,-61.63,-177,Submarine volcano,0,,
+1966,Tinakula,Santa Cruz Is-SW Pac,Solomon Is.,-10.38,165.8,851,Stratovolcano,3,,
+1966,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,4,"M,m,P",215
+1966,Awu,Sangihe Is-Indonesia,Indonesia,3.67,125.5,1320,Stratovolcano,4,"P,M,I",39
+1966,"Lengai, Ol Doinyo",Africa-E,Tanzania,-2.751,35.902,2890,Stratovolcano,4,,
+1967,"Lengai, Ol Doinyo",Africa-E,Tanzania,-2.751,35.902,2890,Stratovolcano,3,,
+1967,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,M,3
+1967,Deception Island,Antarctica,Antarctica,-62.97,-60.65,576,Caldera,3,,
+1968,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,"M,P",6
+1968,Arenal,Costa Rica,Costa Rica,10.463,-84.703,1657,Stratovolcano,3,"P,T",80
+1969,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,2,P,3
+1969,Iya,Lesser Sunda Is,Indonesia,-8.88,121.63,637,Stratovolcano,3,"T,m",2
+1969,Didicas,Luzon-N of,Philippines,19.077,122.202,244,Compound volcano,2,W,
+1969,Narugo,Honshu-Japan,Japan,38.73,140.73,462,Caldera,,G,1
+1970,Campi Flegrei,Italy,Italy,40.827,14.139,458,Caldera,,S,3
+1970,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,3,,
+1971,"Hudson, Cerro",Chile-S,Chile,-45.9,-72.97,1905,Stratovolcano,3,M,5
+1971,Tinakula,Santa Cruz Is-SW Pac,Solomon Is.,-10.38,165.8,851,Stratovolcano,2,,
+1971,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,3,"M,T",10
+1971,La Palma,Canary Is,Spain,28.58,-17.83,2426,Stratovolcano,2,,
+1971,Villarrica,Chile-C,Chile,-39.42,-71.93,2847,Stratovolcano,2,M,15
+1971,Kusatsu-Shirane,Honshu-Japan,Japan,36.62,138.55,2176,Stratovolcano,,G,6
+1972,"Fournaise, Piton de la",Indian O-W,Reunion,-21.229,55.713,2631,Shield volcano,2,I,3
+1972,Hakone,Honshu-Japan,Japan,35.22,139.02,1438,Complex volcano,,,2
+1972,Ritter Island,New Guinea-NE of,Papua New Guinea,-5.52,148.121,140,Stratovolcano,1,,
+1973,Vestmannaeyjar,Iceland-S,Iceland,63.43,-20.28,279,Submarine volcano,3,G,1
+1973,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,3,,
+1973,"Hudson, Cerro",Chile-S,Chile,-45.9,-72.97,1905,Stratovolcano,,M,2
+1973,Iliwerung,Lesser Sunda Is,Indonesia,-8.54,123.59,1018,Complex volcano,2,W,2
+1974,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,3,A,4
+1974,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,3,M,3
+1974,Niigata-Yake-yama,Honshu-Japan,Japan,36.92,138.03,2400,Lava dome,2,T,3
+1974,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,3,M,5
+1974,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,4,"T,M",
+1974,Ritter Island,New Guinea-NE of,Papua New Guinea,-5.52,148.121,140,Stratovolcano,1,,
+1974,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,2,M,9
+1975,Marapi,Sumatra,Indonesia,-0.381,100.473,2891,Complex volcano,2,M,80
+1975,Arenal,Costa Rica,Costa Rica,10.463,-84.703,1657,Stratovolcano,3,,2
+1975,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,0,W,
+1976,Kusatsu-Shirane,Honshu-Japan,Japan,36.62,138.55,2176,Stratovolcano,,G,3
+1976,Sangay,Ecuador,Ecuador,-2.03,-78.33,5230,Stratovolcano,3,T,2
+1976,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,2,M,119
+1976,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,2,P,1
+1976,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,2,M,29
+1977,Nyiragongo,Africa-C,"Congo, DRC",-1.52,29.25,3470,Stratovolcano,1,L,
+1977,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,0,,
+1977,Krafla,Iceland-NE,Iceland,65.73,-16.78,650,Caldera,1,,
+1977,Kliuchevskoi,Kamchatka,Russia,56.057,160.638,4835,Stratovolcano,3,T,1
+1977,Usu,Hokkaido-Japan,Japan,42.53,140.83,731,Stratovolcano,3,I,3
+1978,Usu,Hokkaido-Japan,Japan,42.53,140.83,731,Stratovolcano,3,m,3
+1978,Bulusan,Luzon-Philippines,Philippines,12.77,124.05,1565,Stratovolcano,2,,
+1978,Santa Maria,Guatemala,Guatemala,14.756,-91.552,3772,Stratovolcano,3,M,1
+1978,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,M,12
+1978,Tangkubanparahu,Java,Indonesia,-6.77,107.6,2084,Stratovolcano,,I,3
+1979,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,1,G,149
+1979,Karkar,New Guinea-NE of,Papua New Guinea,-4.649,145.964,1839,Stratovolcano,2,P,2
+1979,Soufriere St. Vincent,W Indies,St. Vincent & the Grenadines,13.33,-61.18,1220,Stratovolcano,3,"T,P",2
+1979,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,T,9
+1979,Iliwerung,Lesser Sunda Is,Indonesia,-8.54,123.59,1018,Complex volcano,,W,
+1979,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,T,3
+1980,St. Helens,US-Washington,United States,46.2,-122.18,2549,Stratovolcano,5,"P,M,T",57
+1980,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,3,,
+1980,Hood,US-Oregon,United States,45.374,-121.694,3426,Stratovolcano,,m,1
+1981,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,,
+1981,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,P,1
+1981,Alaid,Kuril Is,Russia,50.858,155.55,2339,Stratovolcano,2,,
+1981,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,m,372
+1981,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,,m,200
+1981,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,2,P,
+1981,Vilyuchik,Kamchatka,Russia,52.68,158.3,2173,Stratovolcano,,A,
+1982,"Chichon, El",Mexico,Mexico,17.36,-93.228,1150,Tuff cone,5,"P,T,M,S",1879
+1982,"Chichon, El",Mexico,Mexico,17.36,-93.228,1150,Tuff cone,5,P,33
+1982,Galunggung,Java,Indonesia,-7.25,108.05,2168,Stratovolcano,4,"I,T",68
+1982,"Chichon, El",Mexico,Mexico,17.36,-93.228,1150,Tuff cone,5,m,1
+1983,Kliuchevskoi,Kamchatka,Russia,56.057,160.638,4835,Stratovolcano,2,T,1
+1983,Colo [Una Una],Sulawesi-Indonesia,Indonesia,-0.17,121.608,507,Stratovolcano,4,,
+1983,Iliwerung,Lesser Sunda Is,Indonesia,-8.54,123.59,1018,Complex volcano,1,W,
+1983,Miyake-jima,Izu Is-Japan,Japan,34.08,139.53,815,Stratovolcano,3,,
+1984,Oku Volc Field,Africa-W,Cameroon,6.25,10.5,3011,Maar,,G,37
+1984,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,M,1
+1984,On-take,Honshu-Japan,Japan,35.9,137.48,3063,Complex volcano,,A,29
+1984,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,3,S,1
+1985,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,A,70
+1985,Ruiz,Colombia,Colombia,4.895,-75.322,5321,Stratovolcano,3,M,23080
+1985,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,1,S,1
+1986,Akita-Yake-yama,Honshu-Japan,Japan,39.97,140.77,1366,Complex volcano,,G,1
+1986,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2,T,1
+1986,Oku Volc Field,Africa-W,Cameroon,6.25,10.5,3011,Maar,3,G,1700
+1986,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,2,M,1
+1986,Oshima,Izu Is-Japan,Japan,34.73,139.38,758,Stratovolcano,3,I,1
+1987,Pacaya,Guatemala,Guatemala,14.381,-90.601,2552,Complex volcano,3,,
+1987,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,T,2
+1987,Sirung,Lesser Sunda Is,Indonesia,-8.51,124.148,862,Complex volcano,,,
+1988,Banda Api,Banda Sea,Pacific Ocean,-4.525,129.871,640,Caldera,3,"T,L",4
+1988,Arenal,Costa Rica,Costa Rica,10.463,-84.703,1657,Stratovolcano,3,T,1
+1988,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,T,1
+1988,Lonquimay,Chile-C,Chile,-38.377,-71.58,2865,Stratovolcano,3,T,1
+1988,Akita-Yake-yama,Honshu-Japan,Japan,39.97,140.77,1366,Complex volcano,,I,3
+1989,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,,G,1
+1989,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,,G,2
+1990,Shiveluch,Kamchatka,Russia,56.653,161.36,3283,Stratovolcano,3,,
+1990,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,4,"T,P",32
+1990,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,G,1
+1990,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,G,1
+1990,Sabancaya,Peru,Peru,-15.78,-71.85,5967,Stratovolcano,3,,
+1990,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.271,152.203,688,Pyroclastic shield,,G,6
+1990,Santa Maria,Guatemala,Guatemala,14.756,-91.552,3772,Stratovolcano,3,T,4
+1990,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,2,G,1
+1990,Nyiragongo,Africa-C,"Congo, DRC",-1.52,29.25,3470,Stratovolcano,,S,1
+1990,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,,m,4
+1991,Unzen,Kyushu-Japan,Japan,32.75,130.3,1500,Complex volcano,1,P,43
+1991,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,6,"P,m,I",350
+1991,Mutnovsky,Kamchatka,Russia,52.453,158.195,2322,Complex volcano,,I,1
+1991,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,2,,
+1991,"Hudson, Cerro",Chile-S,Chile,-45.9,-72.97,1905,Stratovolcano,5,,
+1991,Lokon-Empung,Sulawesi-Indonesia,Indonesia,1.358,124.792,1580,Stratovolcano,1,"T,P",1
+1991,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,,
+1992,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,2,M,2
+1992,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,,G,1
+1992,"Negro, Cerro",Nicaragua,Nicaragua,12.506,-86.702,728,Cinder cone,3,"T,I",11
+1992,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,1,P,6
+1992,Marapi,Sumatra,Indonesia,-0.381,100.473,2891,Complex volcano,2,T,1
+1992,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,1,m,6
+1992,Spurr,Alaska-SW,United States,61.3,-152.25,3374,Stratovolcano,4,I,1
+1992,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,T,3
+1993,Galeras,Colombia,Colombia,1.22,-77.37,4276,Complex volcano,2,T,9
+1993,Wurlali,Banda Sea,Indonesia,-7.125,128.675,868,Stratovolcano,,m,1
+1993,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,P,75
+1993,Guagua Pichincha,Ecuador,Ecuador,-0.171,-78.598,4784,Stratovolcano,1,T,2
+1993,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,,A,1
+1993,Krakatau,Indonesia,Indonesia,-6.102,105.423,813,Caldera,1,T,1
+1993,Unzen,Kyushu-Japan,Japan,32.75,130.3,1500,Complex volcano,1,P,1
+1993,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,1,m,4
+1993,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,,m,14
+1994,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.52,169.425,361,Stratovolcano,3,T,1
+1994,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,P,6
+1994,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,1,G,1
+1994,Huila,Colombia,Colombia,2.92,-76.05,5365,Stratovolcano,,m,
+1994,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.271,152.203,688,Pyroclastic shield,3,T,4
+1994,Rinjani,Lesser Sunda Is,Indonesia,-8.42,116.47,3726,Stratovolcano,3,m,31
+1994,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,3,,60
+1995,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.52,169.425,361,Stratovolcano,3,T,2
+1995,Yake-dake,Honshu-Japan,Japan,36.22,137.58,2455,Stratovolcano,1,T,4
+1995,Fogo,Cape Verde Is,Cape Verde,14.95,-24.35,2829,Stratovolcano,2,,
+1995,Pacaya,Guatemala,Guatemala,14.381,-90.601,2552,Complex volcano,3,M,1
+1995,Kelimutu,Lesser Sunda Is,Indonesia,-8.758,121.83,1640,Complex volcano,,,1
+1995,Parker,Mindanao-Philippines,Philippines,6.12,124.892,1824,Stratovolcano,,,60
+1996,Karymsky,Kamchatka,Russia,54.05,159.43,1536,Stratovolcano,2,,
+1996,Popocatepetl,Mexico,Mexico,19.023,-98.622,5426,Stratovolcano,3,,5
+1996,Kanlaon,Philippines-C,Philippines,10.412,123.132,2435,Stratovolcano,2,T,3
+1996,Maderas,Nicaragua,Nicaragua,11.446,-85.515,1394,Stratovolcano,,m,6
+1996,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,3,,
+1996,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,3,P,13
+1997,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,2,,6
+1997,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,1,P,3
+1997,Soufriere Hills,W Indies,Montserrat,16.72,-62.18,915,Stratovolcano,3,P,22
+1997,Hakkoda Group,Honshu-Japan,Japan,40.65,140.88,1585,Stratovolcano,,G,3
+1997,Soufriere Hills,W Indies,Montserrat,16.72,-62.18,915,Stratovolcano,3,,2
+1997,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,T,2
+1997,Adatara,Honshu-Japan,Japan,37.62,140.28,1718,Stratovolcano,,G,4
+1997,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,,G,2
+1997,Soufriere Hills,W Indies,Montserrat,16.72,-62.18,915,Stratovolcano,,,
+1998,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,,L,1
+1998,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,,m,10
+1998,San Cristobal,Nicaragua,Nicaragua,12.702,-87.004,1745,Stratovolcano,,m,1620
+1999,Soufriere Hills,W Indies,Montserrat,16.72,-62.18,915,Stratovolcano,3,,
+1999,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,2,,
+1999,Shiveluch,Kamchatka,Russia,56.653,161.36,3283,Stratovolcano,4,,
+1999,Guagua Pichincha,Ecuador,Ecuador,-0.171,-78.598,4784,Stratovolcano,3,T,2
+1999,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3,T,1
+2000,Miyake-jima,Izu Is-Japan,Japan,34.08,139.53,815,Stratovolcano,2,,
+2000,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,T,2
+2000,Arenal,Costa Rica,Costa Rica,10.463,-84.703,1657,Stratovolcano,3,P,2
+2000,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,,G,2
+2000,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,2,A,1
+2001,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,3,,1
+2001,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,,
+2001,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,2,P,2
+2001,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2,T,1
+2002,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,3,M,
+2002,Nyiragongo,Africa-C,"Congo, DRC",-1.52,29.25,3470,Stratovolcano,1,,100
+2002,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,3,,
+2002,Reventador,Ecuador,Ecuador,-0.078,-77.656,3562,Stratovolcano,4,I,
+2002,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,,,
+2002,Semeru,Java,Indonesia,-8.108,112.92,3676,Stratovolcano,3,T,3
+2003,Soufriere Hills,W Indies,Montserrat,16.72,-62.18,915,Stratovolcano,3,,
+2004,Egon,Lesser Sunda Is,Indonesia,-8.67,122.45,1703,Stratovolcano,1,T,1
+2004,Tengger Caldera,Java,Indonesia,-7.942,112.95,2329,Stratovolcano,2,T,2
+2004,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,4,T,5
+2005,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,4,T,1
+2005,Santa Ana,El Salvador,El Salvador,13.853,-89.63,2365,Stratovolcano,3,A,2
+2005,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,,,
+2006,Raoul Island,Kermadec Is,New Zealand,-29.27,-177.92,516,Stratovolcano,,,1
+2006,Soufriere Hills,W Indies,Montserrat,16.72,-62.18,915,Stratovolcano,2,P,
+2006,Bulusan,Luzon-Philippines,Philippines,12.77,124.05,1565,Stratovolcano,2,,1
+2006,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,1,,2
+2006,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3,,1
+2006,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3,T,5
+2006,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,1,m,1266
+2007,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,4,M,4
+2007,Huila,Colombia,Colombia,2.92,-76.05,5365,Stratovolcano,,,
+2007,Salak,Java,Indonesia,-6.72,106.73,2211,Stratovolcano,,G,6
+2007,"Tair, Jebel at",Red Sea,Yemen,15.7,41.742,244,Stratovolcano,,,7
+2008,Chaiten,Chile-S,Chile,-42.833,-72.646,962,Caldera,,,1
+2008,Kasatochi,Aleutian Is,United States,52.18,-175.5,314,Stratovolcano,3,,
+2008,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3,M,2
+2008,Huila,Colombia,Colombia,2.92,-76.05,5365,Stratovolcano,,,10
+2009,Redoubt,Alaska-SW,United States,60.48,-152.75,3108,Stratovolcano,,,
+2009,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,,,
+2010,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3,,
+2010,Eyjafjallajokull,Iceland-S,Iceland,63.63,-19.62,1666,Stratovolcano,2,,2
+2010,Pacaya,Guatemala,Guatemala,14.381,-90.601,2552,Complex volcano,1,T,1
+2010,Sarigan,Mariana Is-C Pacific,United States,16.708,145.78,538,Stratovolcano,,,
+2010,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,3,,4
+2010,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,,2
+2010,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,,,367
+2010,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3,,
+2010,Tengger Caldera,Java,Indonesia,-7.942,112.95,2329,Stratovolcano,,,
+2011,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,,M,1
+2011,Kirishima,Kyushu-Japan,Japan,31.93,130.87,1700,Shield volcano,,,
+2011,Bulusan,Luzon-Philippines,Philippines,12.77,124.05,1565,Stratovolcano,2,,1
+2011,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,,,
+2011,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,4,,
+2011,Puyehue,Chile-C,Chile,-40.59,-72.117,2236,Stratovolcano,4,,
+2011,Nabro,Africa-NE,Eritrea,13.37,41.7,2218,Stratovolcano,3,,31
+2011,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,,,
+2011,Lokon-Empung,Sulawesi-Indonesia,Indonesia,1.358,124.792,1580,Stratovolcano,,,1
+2011,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,3,m,4
+2012,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,,,
+2012,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,,L,
+2012,Tolbachik,Kamchatka,Russia,55.83,160.33,3682,Shield volcano,,,
+2013,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,,M,1
+2013,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,,,
+2013,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,,,5
+2013,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,3,,5
+2013,Ubinas,Peru,Peru,-16.355,-70.903,5672,Stratovolcano,,,
+2013,Sakura-jima,Kyushu-Japan,Japan,31.58,130.67,1117,Stratovolcano,,,
+2013,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,2,,
+2013,Okataina,New Zealand,New Zealand,-38.12,176.5,1111,Lava dome,,G,1
+2014,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,,17
+2014,Kelut,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,,,7
+2014,On-take,Honshu-Japan,Japan,35.9,137.48,3063,Complex volcano,3,,55
+2014,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,,,
+2014,Fogo,Cape Verde Is,Cape Verde,14.95,-24.35,2829,Stratovolcano,,,
+2014,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.325,1715,Stratovolcano,,,1
+2015,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,,
+2015,Calbuco,Chile-S,Chile,-41.326,-72.614,2003,Stratovolcano,,,
+2015,Karangetang [Api Siau],Sangihe Is-Indonesia,Indonesia,2.78,125.48,1784,Stratovolcano,,,
+2015,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,2,,
+2015,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,M,1
+2015,Okataina,New Zealand,New Zealand,-38.12,176.5,1111,Lava dome,,I,1
+2016,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,,1
+2016,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,,7
+2016,Yellowstone,US-Wyoming,United States,44.43,-110.67,2805,Caldera,,,1
+2016,Rinjani,Lesser Sunda Is,Indonesia,-8.42,116.47,3726,Stratovolcano,,,
+2016,Aso,Kyushu-Japan,Japan,32.88,131.1,1592,Caldera,,T,
+2017,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,,P,
+2017,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,2,P,
+2017,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,2,P,
+2017,Dieng Volc Complex,Java,Indonesia,-7.2,109.92,2565,Complex volcano,,,8
+2017,Campi Flegrei,Italy,Italy,40.827,14.139,458,Caldera,,,3
+2017,Aoba,Vanuatu-SW Pacific,Vanuatu,-15.4,167.83,1496,Shield volcano,,T,
+2017,Merapi,Java,Indonesia,-7.542,110.442,2947,Stratovolcano,,A,8
+2017,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,T,
+2018,Kadovar,New Guinea-NE of,Papua New Guinea,-3.62,144.62,365,Stratovolcano,,T,
+2018,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,,"T,P",
+2018,Kusatsu-Shirane,Honshu-Japan,Japan,36.62,138.55,2176,Stratovolcano,,T,1
+2018,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,1,G,1
+2018,Kadovar,New Guinea-NE of,Papua New Guinea,-3.62,144.62,365,Stratovolcano,,W,
+2018,Ijen,Java,Indonesia,-8.058,114.242,2799,Stratovolcano,,G,
+2018,Aoba,Vanuatu-SW Pacific,Vanuatu,-15.4,167.83,1496,Shield volcano,3,"T,G,M",4
+2018,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,1,L,
+2018,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,2,P,201
+2018,Kilauea,Hawaiian Is,United States,19.425,-155.292,1222,Shield volcano,,T,
+2018,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,4,"L,T",
+2018,Ambrym,Vanuatu-SW Pacific,Vanuatu,-16.25,168.12,1334,Pyroclastic shield,2,"S,T,G",
+2018,Krakatau,Indonesia,Indonesia,-6.102,105.423,813,Caldera,1,W,
+2018,Etna,Italy,Italy,37.734,15.004,3350,Stratovolcano,2,S,
+2019,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,4,T,
+2019,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,T,
+2019,Ulawun,New Britain-SW Pac,Papua New Guinea,-5.05,151.33,2334,Stratovolcano,,"P,T",
+2019,Manam,New Guinea-NE of,Papua New Guinea,-4.1,145.061,1807,Stratovolcano,4,"A,P,T",
+2019,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2,"P,T",1
+2019,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2,W,
+2019,White Island,New Zealand,New Zealand,-37.52,177.18,321,Stratovolcano,2,T,21
+2020,Taal,Luzon-Philippines,Philippines,14.002,120.993,400,Stratovolcano,,T,
+2020,Ijen,Java,Indonesia,-8.058,114.242,2799,Stratovolcano,,"G,W, S",1

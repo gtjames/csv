@@ -1,0 +1,32 @@
+getStats
+function getStats() {
+    fetch("'https://en.m.wikipedia.org/wiki/List_of_current_United_States_governors'")
+        .then(resp => resp.json())              //  wait for the response and convert it to JSON
+        .then(html => {                        //  with the resulting JSON data do something
+            let table = html.querySelectorAll('table.sortable');
+            let headers = [];
+            let data = [];
+            table = table[0]
+            
+            for (var i=0; i<table.rows[1].cells.length; i++) {
+                headers[i] = table.rows[1].cells[i].innerHTML.toLowerCase().replace(/ /gi,'');
+            }
+            
+            for (var i=2; i<table.rows.length; i++) {
+                console.log(i + ' ' + table.rows[i].cells)
+                var tableRow = table.rows[i].cells;
+                var rowData = {};
+            
+                rowData.stateImg = tableRow[0].children[0].children[0].children[1].src
+                rowData.govImg   = tableRow[1].children[0].children[1].src
+                rowData.govName  = tableRow[2].children[0].children[0].children[0].children[0].children[0].title
+                rowData.party    = tableRow[4].children[0].innerText
+                rowData.inaug    = tableRow[7].children[0].innerText
+                rowData.end      = tableRow[8].innerText
+                data.push(rowData);
+            }
+            
+        }).catch(err => {
+            console.error(err);
+        });
+}

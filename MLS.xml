@@ -1,0 +1,56 @@
+<items>
+<item>
+	<PropertyType>PropertyType</PropertyType>
+	<Address>Address</Address>
+	<City>City</City>
+	<State>State</State>
+	<Zip>Zip</Zip>
+	<Price>Price</Price>
+	<Beds>Beds</Beds>
+	<Baths>Baths</Baths>
+	<Location>Location</Location>
+	<SquareFeet>SquareFeet</SquareFeet>
+	<LotSize>LotSize</LotSize>
+	<YearBuilt>YearBuilt</YearBuilt>
+	<DaysOnMarket>DaysOnMarket</DaysOnMarket>
+	<PricePerSqFt>PricePerSqFt</PricePerSqFt>
+	<MonthlyHoa>MonthlyHoa</MonthlyHoa>
+	<Status>Status</Status>
+	<OpenHouseStartTime>OpenHouseStartTime</OpenHouseStartTime>
+	<OpenHouseEndTime>OpenHouseEndTime</OpenHouseEndTime>
+	<Url>Url</Url>
+	<Source>Source</Source>
+	<MlsNumber>MlsNumber</MlsNumber>
+	<Favorite>Favorite</Favorite>
+	<Interested>Interested</Interested>
+	<Latitude>Latitude</Latitude>
+	<Longitude>Longitude</Longitude>
+</item>
+<item>
+	<PropertyType>PropertyType</PropertyType>
+	<Address>Address</Address>
+	<City>City</City>
+	<State>State</State>
+	<Zip>Zip</Zip>
+	<Price>Price</Price>
+	<Beds>Beds</Beds>
+	<Baths>Baths</Baths>
+	<Location>Location</Location>
+	<SquareFeet>SquareFeet</SquareFeet>
+	<LotSize>LotSize</LotSize>
+	<YearBuilt>YearBuilt</YearBuilt>
+	<DaysOnMarket>DaysOnMarket</DaysOnMarket>
+	<PricePerSqFt>PricePerSqFt</PricePerSqFt>
+	<MonthlyHoa>MonthlyHoa</MonthlyHoa>
+	<Status>Status</Status>
+	<OpenHouseStartTime>OpenHouseStartTime</OpenHouseStartTime>
+	<OpenHouseEndTime>OpenHouseEndTime</OpenHouseEndTime>
+	<Url>Url</Url>
+	<Source>Source</Source>
+	<MlsNumber>MlsNumber</MlsNumber>
+	<Favorite>Favorite</Favorite>
+	<Interested>Interested</Interested>
+	<Latitude>Latitude</Latitude>
+	<Longitude>Longitude</Longitude>
+</item>
+</items>

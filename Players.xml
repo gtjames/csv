@@ -1,0 +1,50 @@
+<items>
+<item>
+	<Id>Id</Id>
+	<Player>Player</Player>
+	<Team>Team</Team>
+	<Salary>Salary</Salary>
+	<Position>Position</Position>
+	<GamesPlayed>GamesPlayed</GamesPlayed>
+	<MinutesPerGame>MinutesPerGame</MinutesPerGame>
+	<FGMade>FGMade</FGMade>
+	<FGAttempts>FGAttempts</FGAttempts>
+	<ThreePMade>3PMade</ThreePMade>
+	<ThreePAttempts>3PAttempts</ThreePAttempts>
+	<FTMade>FTMade</FTMade>
+	<FTAttempts>FTAttempts</FTAttempts>
+	<Turnovers>Turnovers</Turnovers>
+	<Fouls>Fouls</Fouls>
+	<OffensiveRebounds>OffensiveRebounds</OffensiveRebounds>
+	<DefensiveRebounds>DefensiveRebounds</DefensiveRebounds>
+	<Rebounds>Rebounds</Rebounds>
+	<Assists>Assists</Assists>
+	<Steals>Steals</Steals>
+	<Blocks>Blocks</Blocks>
+	<Points>Points</Points>
+</item>
+<item>
+	<Id>Id</Id>
+	<Player>Player</Player>
+	<Team>Team</Team>
+	<Salary>Salary</Salary>
+	<Position>Position</Position>
+	<GamesPlayed>GamesPlayed</GamesPlayed>
+	<MinutesPerGame>MinutesPerGame</MinutesPerGame>
+	<FGMade>FGMade</FGMade>
+	<FGAttempts>FGAttempts</FGAttempts>
+	<ThreePMade>3PMade</ThreePMade>
+	<ThreePAttempts>3PAttempts</ThreePAttempts>
+	<FTMade>FTMade</FTMade>
+	<FTAttempts>FTAttempts</FTAttempts>
+	<Turnovers>Turnovers</Turnovers>
+	<Fouls>Fouls</Fouls>
+	<OffensiveRebounds>OffensiveRebounds</OffensiveRebounds>
+	<DefensiveRebounds>DefensiveRebounds</DefensiveRebounds>
+	<Rebounds>Rebounds</Rebounds>
+	<Assists>Assists</Assists>
+	<Steals>Steals</Steals>
+	<Blocks>Blocks</Blocks>
+	<Points>Points</Points>
+</item>
+</items>
