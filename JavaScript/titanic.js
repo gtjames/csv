@@ -1,8 +1,8 @@
 const fs = require('fs');
 
-const passengers = require('c:/Projects/csv/titanic.json');
+//  const passengers = require('c:/Projects/csv/titanic.json');
 
-//passengers = readPassengerList();
+passengers = readPassengerList();
 
 //  How many people were on the Titanic?
 console.log(`Titanic passenger/crew count: ${passengers.length}`);
