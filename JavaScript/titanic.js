@@ -146,7 +146,6 @@ passengers.sort((nameA, nameB) => nameA.lastName.length - nameB.lastName.length)
 console.table(`${passengers[0].lastName} has the longest last name`);
 console.table(`${passengers.splice(-1)[0].lastName} has the shortest last name`);
 
-// Let"s see how we can group objects in Java 8
 // var groupBy = (xs, key) => 
 //     xs.reduce((rv, x) => {
 //         (rv[x[key]] = rv[x[key]] || []).push(x);
