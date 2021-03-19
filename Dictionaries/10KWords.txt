@@ -1729,7 +1729,6 @@ charter
 avi
 contributors
 optimum
-cock
 quarters
 wallet
 noticed
@@ -9652,7 +9651,6 @@ rosa
 lloyd
 awesome
 digit
-damn
 creative
 foods
 ongoing
